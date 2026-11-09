@@ -1,6 +1,31 @@
+package-as: Polestar
 enable-nolib-creation: no
 
 ignore:
-- translations
-- README.md
-- THIRD_PARTY.md
+  - translations
+  - README.md
+  - THIRD_PARTY.md
+
+# The repository root is the Polestar addon itself; these are shipped as
+# sibling addons at the root of the zip.
+move-folders:
+  Polestar_Codex: Polestar_Codex
+  Polestar_Guides: Polestar_Guides
+  Polestar_Guides_Alliance: Polestar_Guides_Alliance
+  Polestar_Guides_Dwarf: Polestar_Guides_Dwarf
+  Polestar_Guides_Gnome: Polestar_Guides_Gnome
+  Polestar_Guides_Horde: Polestar_Guides_Horde
+  Polestar_Guides_Human: Polestar_Guides_Human
+  Polestar_Guides_NightElf: Polestar_Guides_NightElf
+  Polestar_Guides_Orc: Polestar_Guides_Orc
+  Polestar_Guides_Scourge: Polestar_Guides_Scourge
+  Polestar_Guides_Skyborne: Polestar_Guides_Skyborne
+  Polestar_Guides_Tauren: Polestar_Guides_Tauren
+  Polestar_Guides_Troll: Polestar_Guides_Troll
+  Polestar_ItemDB: Polestar_ItemDB
+  Polestar_Nav: Polestar_Nav
+  Polestar_Nav_EK: Polestar_Nav_EK
+  Polestar_Nav_Kalimdor: Polestar_Nav_Kalimdor
+  Polestar_QuestDB: Polestar_QuestDB
+  Polestar_zhCN: Polestar_zhCN
+  Polestar_zhTW: Polestar_zhTW
