@@ -10,4 +10,5 @@ Thumbs.db
 # Local scratch
 .temp/
 .test/
+.release/
 *.tmp

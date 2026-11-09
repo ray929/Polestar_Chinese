@@ -6,26 +6,26 @@ ignore:
   - README.md
   - THIRD_PARTY.md
 
-# The repository root is the Polestar addon itself; these are shipped as
-# sibling addons at the root of the zip.
+# The repository root is the Polestar addon; these sibling folders ship at the
+# root of the zip.  Sources are relative to the package directory (Polestar/).
 move-folders:
-  Polestar_Codex: Polestar_Codex
-  Polestar_Guides: Polestar_Guides
-  Polestar_Guides_Alliance: Polestar_Guides_Alliance
-  Polestar_Guides_Dwarf: Polestar_Guides_Dwarf
-  Polestar_Guides_Gnome: Polestar_Guides_Gnome
-  Polestar_Guides_Horde: Polestar_Guides_Horde
-  Polestar_Guides_Human: Polestar_Guides_Human
-  Polestar_Guides_NightElf: Polestar_Guides_NightElf
-  Polestar_Guides_Orc: Polestar_Guides_Orc
-  Polestar_Guides_Scourge: Polestar_Guides_Scourge
-  Polestar_Guides_Skyborne: Polestar_Guides_Skyborne
-  Polestar_Guides_Tauren: Polestar_Guides_Tauren
-  Polestar_Guides_Troll: Polestar_Guides_Troll
-  Polestar_ItemDB: Polestar_ItemDB
-  Polestar_Nav: Polestar_Nav
-  Polestar_Nav_EK: Polestar_Nav_EK
-  Polestar_Nav_Kalimdor: Polestar_Nav_Kalimdor
-  Polestar_QuestDB: Polestar_QuestDB
-  Polestar_zhCN: Polestar_zhCN
-  Polestar_zhTW: Polestar_zhTW
+  Polestar/Polestar_Codex: Polestar_Codex
+  Polestar/Polestar_Guides: Polestar_Guides
+  Polestar/Polestar_Guides_Alliance: Polestar_Guides_Alliance
+  Polestar/Polestar_Guides_Dwarf: Polestar_Guides_Dwarf
+  Polestar/Polestar_Guides_Gnome: Polestar_Guides_Gnome
+  Polestar/Polestar_Guides_Horde: Polestar_Guides_Horde
+  Polestar/Polestar_Guides_Human: Polestar_Guides_Human
+  Polestar/Polestar_Guides_NightElf: Polestar_Guides_NightElf
+  Polestar/Polestar_Guides_Orc: Polestar_Guides_Orc
+  Polestar/Polestar_Guides_Scourge: Polestar_Guides_Scourge
+  Polestar/Polestar_Guides_Skyborne: Polestar_Guides_Skyborne
+  Polestar/Polestar_Guides_Tauren: Polestar_Guides_Tauren
+  Polestar/Polestar_Guides_Troll: Polestar_Guides_Troll
+  Polestar/Polestar_ItemDB: Polestar_ItemDB
+  Polestar/Polestar_Nav: Polestar_Nav
+  Polestar/Polestar_Nav_EK: Polestar_Nav_EK
+  Polestar/Polestar_Nav_Kalimdor: Polestar_Nav_Kalimdor
+  Polestar/Polestar_QuestDB: Polestar_QuestDB
+  Polestar/Polestar_zhCN: Polestar_zhCN
+  Polestar/Polestar_zhTW: Polestar_zhTW
