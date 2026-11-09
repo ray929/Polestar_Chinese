@@ -1,0 +1,11 @@
+{
+	"guides": {
+		"forever/alliance/30-40/01-hillsbrad-foothills": {
+			"{npc:2104}: for {npc:270637}, back east along the road": "{npc:2104}：交给{npc:270637}，沿路向东返回",
+			"Back east along the road to the {area:1025}: {npc:270637} camps among the Fenrunners, just west of {npc:1244}. Then west again to Menethil for the boat.": "沿路向东返回{area:1025}：{npc:270637}在芬雷尔怪群中扎营，就在{npc:1244}以西。然后再向西返回米奈希尔港坐船。"
+		}
+	},
+	"names": {},
+	"pack": {},
+	"ui": {}
+}

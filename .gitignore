@@ -1,0 +1,13 @@
+Thumbs.db
+.DS_Store
+
+# Editor and agent data
+.trae/
+.vscode/
+.codebuddy/
+.workbuddy/
+
+# Local scratch
+.temp/
+.test/
+*.tmp

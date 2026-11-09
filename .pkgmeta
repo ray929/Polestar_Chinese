@@ -1,0 +1,6 @@
+enable-nolib-creation: no
+
+ignore:
+- translations
+- README.md
+- THIRD_PARTY.md

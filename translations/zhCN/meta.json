@@ -1,0 +1,34 @@
+{
+	"counts": {
+		"current_guide_keys": 10085,
+		"enhanced_guides": 260,
+		"guide_entries": 12878,
+		"missing_current_keys": 2,
+		"missing_pack_keys": 0,
+		"name_kinds": {
+			"item": 8,
+			"npc": 156,
+			"object": 58,
+			"quest": 145
+		},
+		"official_guides": 250,
+		"translated_guides": 260,
+		"ui_entries": 283
+	},
+	"missing_pack_preview": [],
+	"missing_preview": [
+		{
+			"guide": "forever/alliance/30-40/01-hillsbrad-foothills",
+			"text": "{npc:2104}: for {npc:270637}, back east along the road"
+		},
+		{
+			"guide": "forever/alliance/30-40/01-hillsbrad-foothills",
+			"text": "Back east along the road to the {area:1025}: {npc:270637} camps among the Fenrunners, just west of {npc:1244}. Then west again to Menethil for the boat."
+		}
+	],
+	"source": {
+		"enhanced": "D:\\Work\\wow-addon\\Polestar_zhCN_Enhanced\\Polestar_zhCN_Enhanced",
+		"official": "E:\\Games\\Wow\\_forever_\\Interface\\AddOns\\Polestar_zhCN",
+		"upstream": "D:\\Work\\wow-addon\\polestar"
+	}
+}
