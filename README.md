@@ -1,4 +1,4 @@
-# Polestar 简体/正體中文版 (Unofficial Simplified and Traditional Chinese version)
+# Polestar Guides 简体/正體中文版 (Unofficial Simplified and Traditional Chinese version)
 
 [English](#english) · [简体中文](#简体中文) · [正體中文](#正體中文)
 
