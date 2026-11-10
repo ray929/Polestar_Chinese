@@ -10,9 +10,15 @@ This is an **unofficial, standalone Chinese build** of [Polestar](https://www.cu
 
 What this build adds:
 
-- All 260 guides and 10,085 guide lines are translated, and every game name and interface string is filled in.
+- All 260 guides and 10,656 guide lines are translated, and every game name and interface string is filled in.
 - Full game-name packs (quests, NPCs, objects, items, instances, encounters, factions, flight points) so guides show the names your client uses.
 - Both languages load automatically on a zhCN or zhTW client; English clients are untouched.
+
+### Official Chinese coverage
+
+Upstream 0.3.6 already translates **94.80%** of the guide lines into Simplified Chinese (10,102 of 10,656). On a zhCN client you are **better off with the official Polestar build**: it is maintained upstream and ships updates sooner.
+
+Traditional Chinese is only **36.62%** translated upstream (3,902 of 10,656), the rest being English. On a zhTW client **keep using this build**, which translates all of it.
 
 ### What Polestar does
 
@@ -57,9 +63,15 @@ Polestar plans leveling routes from 1 to 60 for every race and both factions, th
 
 本构建提供：
 
-- 260 个指南、10,085 条指南文本全部翻译，并补齐游戏名称与界面文本。
+- 260 个指南、10,656 条指南文本全部翻译，并补齐游戏名称与界面文本。
 - 完整名称包（任务、NPC、物体、物品、副本、首领、阵营、飞行点），指南显示的名称与客户端一致。
 - zhCN / zhTW 客户端自动加载对应语言；英文客户端不受影响。
+
+### 官方中文覆盖情况
+
+上游 0.3.6 的官方简体中文已经相当完整：指南文本覆盖 **94.80%**（10,102 / 10,656 条）。只玩简体客户端的玩家**建议直接下载官方 Polestar**，官方版本维护更及时。
+
+官方繁体中文只覆盖 **36.62%**（3,902 / 10,656 条），其余为英文。使用繁体客户端的玩家**建议继续使用本中文版**，本版繁体指南覆盖 100%。
 
 ### Polestar 功能
 
@@ -104,9 +116,15 @@ Polestar 为每个种族、两个阵营规划 1 到 60 级的练级路线，并�
 
 本建置提供：
 
-- 260 個指南、10,085 條指南文字全部翻譯，並補齊遊戲名稱與介面文字。
+- 260 個指南、10,656 條指南文字全部翻譯，並補齊遊戲名稱與介面文字。
 - 完整名稱包（任務、NPC、物件、物品、副本、首領、陣營、飛行點），指南顯示的名稱與用戶端一致。
 - zhCN / zhTW 用戶端自動載入對應語言；英文用戶端不受影響。
+
+### 官方中文覆蓋情況
+
+上游 0.3.6 的官方簡體中文已經相當完整：指南文字覆蓋 **94.80%**（10,102 / 10,656 條）。只玩簡體用戶端的玩家**建議直接下載官方 Polestar**，官方版本維護更即時。
+
+官方正體中文只覆蓋 **36.62%**（3,902 / 10,656 條），其餘為英文。使用正體中文用戶端的玩家**建議繼續使用本中文版**，本版正體指南覆蓋 100%。
 
 ### Polestar 功能
 
