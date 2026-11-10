@@ -64,15 +64,15 @@ end
 
 C.Register("meta", {
 	build = "1.60.1.70532",
-	builtAt = "2026-11-08T13:56:17.804Z",
+	builtAt = "2026-11-10T11:50:54.882Z",
 	counts = {
 		instance = 30,
 		item = 19913,
 		mount = 139,
-		npc = 9624,
-		object = 1204,
+		npc = 9626,
+		object = 1208,
 		pet = 97,
-		quest = 5413,
+		quest = 5410,
 		rare = 412,
 		recipe = 2609,
 		tabard = 40,
@@ -82,7 +82,7 @@ C.Register("meta", {
 	coverage = {
 		items = 22798,
 		share = 0.719,
-		withSource = 16389,
+		withSource = 16388,
 	},
 	localExtras = false,
 	parity = {
@@ -163,9 +163,9 @@ C.Register("meta", {
 			internalOnly = {
 				confirmed = 0,
 				notInForever = 0,
-				unverified = 155,
+				unverified = 156,
 			},
-			match = 15813,
+			match = 15812,
 			oursOnly = 576,
 			share = 0.99,
 			total = 15968,
@@ -224,10 +224,10 @@ C.Register("meta", {
 			internalOnly = {
 				confirmed = 0,
 				notInForever = 0,
-				unverified = 141,
+				unverified = 142,
 			},
-			match = 1959,
-			share = 0.933,
+			match = 1958,
+			share = 0.932,
 			total = 2100,
 		},
 		["items: rep"] = {
@@ -267,7 +267,7 @@ C.Register("meta", {
 				unverified = 113,
 			},
 			match = 816,
-			oursOnly = 85,
+			oursOnly = 87,
 			share = 0.878,
 			total = 929,
 		},
@@ -305,30 +305,30 @@ C.Register("meta", {
 			internalOnly = {
 				confirmed = 0,
 				notInForever = 0,
-				unverified = 2,
+				unverified = 3,
 			},
-			match = 222,
-			share = 0.482,
+			match = 220,
+			share = 0.477,
 			total = 461,
 		},
 		["quest enders"] = {
 			internalOnly = {
 				confirmed = 0,
 				notInForever = 0,
-				unverified = 9,
+				unverified = 7,
 			},
-			match = 611,
-			share = 0.985,
+			match = 613,
+			share = 0.989,
 			total = 620,
 		},
 		["quest givers"] = {
 			internalOnly = {
 				confirmed = 0,
 				notInForever = 0,
-				unverified = 14,
+				unverified = 13,
 			},
-			match = 570,
-			share = 0.976,
+			match = 571,
+			share = 0.978,
 			total = 584,
 		},
 		["quest rewards"] = {
@@ -444,7 +444,7 @@ C.Register("meta", {
 		{
 			licence = "Public web pages; facts (XP numbers) only, used locally with permission",
 			name = "Quest XP for quests QuestieDB lacks: two Forever web quest databases (one from the beta client's quest cache)",
-			version = "561 quests; cache data/sources/webxp/quest-xp.json",
+			version = "537 quests; cache data/sources/webxp/quest-xp.json",
 		},
 		{
 			licence = "Public web pages; facts (ids, XP, levels, instance categories, rewards) only, used locally",
@@ -520,9 +520,14 @@ C.Register("meta", {
 			version = "15 attunements",
 		},
 		{
+			licence = "Facts only (quest ids, levels, positions); counts of players, no player data",
+			name = "Polestar Recorder sessions (data/recorded/quests.json): Forever-new quests' prerequisites and objective spots",
+			version = "457 quests",
+		},
+		{
 			licence = "Facts only (quest ids and instances), each row with its source",
 			name = "Curated Dungeons journal quests (data/codex/journal-quests.json): the web quest database (Forever pages)",
-			version = "1 quests",
+			version = "3 quests",
 		},
 		{
 			licence = "Blizzard Entertainment game data, facts only",

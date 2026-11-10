@@ -39,10 +39,13 @@ local defaults = {
 	itemButton = true,       -- quest item button
 	bagGlow = true,          -- the step's item glows in the bags
 	targetButton = true,     -- target macro button
+	targetPlate = true,      -- ... its icon shows the action, its name in the target's colour, the next names as small icons
+	targetAnnounce = false,  -- ... a chat line when its names change
 	guideNameTarget = false, -- opt in: extend navigation clicks to targeting, with shared marking settings
 	rareButton = true,       -- target button for a rare the addon spotted
 	hearthButton = true,     -- Hearthstone button while a hearth goal is active
 	markTarget = false,      -- raid icon on what the target button, step key and objective clicks target
+	pingTarget = false,      -- /ping the mob the target button and step key target (QoL/Buttons.lua)
 	markMob = "8",           -- its icon on mobs (1-8, "cycle"): skull
 	markNpc = "1",           -- and on NPCs: star
 	stepInteract = false,    -- the step key talks to, loots and accepts with its target (QoL/Buttons.lua)
@@ -337,6 +340,15 @@ function Client.SlotInfo(bag, slot)
 	local C = C_Container
 	if C and C.GetContainerItemInfo then return C.GetContainerItemInfo(bag, slot) end
 	return nil
+end
+
+-- Whether the slot holds a quest's item or one that begins a quest (#1557: a grey quest starter,
+-- Noboru's Cudgel, was deleted as junk): such an item is never sold or deleted. False on a client
+-- without C_Container.GetContainerItemQuestInfo.
+function Client.SlotQuest(bag, slot)
+	local C = C_Container
+	local info = C and C.GetContainerItemQuestInfo and C.GetContainerItemQuestInfo(bag, slot)
+	return info ~= nil and (info.isQuestItem == true or (info.questID or 0) > 0)
 end
 
 function Client.UseSlot(bag, slot)

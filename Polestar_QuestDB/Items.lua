@@ -5,7 +5,7 @@
 local Q = Polestar and Polestar.QuestDB
 if not (Q and Q.AddChunk) then return end
 local R = Q.AddChunk
-R("items", 159, 4769, [[
+R("items", 159, 4770, [[
 
 159	'Refreshing Spring Water;8;3577;100;3662;100;3141;10.4;1916;8.4;103;7.4;1918;7.3;1502;7.1;1989;6.8;3;3658;100;2843;36;2039;7.8;151;152;227;258
 182	'Garrick's Head;1;103;100;0
@@ -126,7 +126,6 @@ R("items", 159, 4769, [[
 2659	'Modr Fragment;0;1;334;100
 2660	'Golm Fragment;0;1;333;100
 2661	'Neru Fragment;0;1;331;100
-2665	'Stormwind Seasoning Herbs;0;0;1303
 2667	'MacGrann's Dried Meats;0;1;272;100
 2668	'Threshadon Tooth;0;0
 2669	'Threshadon Claw;0;0
@@ -507,10 +506,10 @@ R("items", 159, 4769, [[
 4758	'Prairie Wolf Paw;4;2958;40;2959;15;2960;15;268558;0;0
 4759	'Plainstrider Talon;7;2955;50;2956;50;2957;50;3068;50;3244;50;3245;50;3246;50;0
 4769	'Trophy Swoop Quill;3;2969;70;2970;70;2971;70;0
-]])
-R("items", 4770, 8187, [[
-
 4770	'Bristleback Belt;2;2952;80;2953;80;0
+]])
+R("items", 4801, 8189, [[
+
 4801	'Stalker Claws;1;2959;44;0
 4802	'Cougar Claws;1;3035;44;0
 4803	'Prairie Alpha Tooth;1;2960;36;0
@@ -1010,10 +1009,10 @@ R("items", 4770, 8187, [[
 8176	'Nightscape Headband;0;0
 8185	'Turtle Scale Leggings;0;0
 8187	'Turtle Scale Gloves;0;0
-]])
-R("items", 8189, 13725, [[
-
 8189	'Turtle Scale Breastplate;0;0
+]])
+R("items", 8191, 13815, [[
+
 8191	'Turtle Scale Helm;0;0
 8192	'Nightscape Shoulders;0;0
 8193	'Nightscape Pants;0;0
@@ -1503,7 +1502,6 @@ R("items", 8189, 13725, [[
 13506	'Flask of Petrification;0;0
 13512	'Flask of Supreme Power;0;0
 13513	'Flask of Chromatic Resistance;0;0
-13536	'Horn of Awakening;0;1;176634;100
 13542	'Demon Box;1;11876;100;0
 13545	'Shellfish;2;11562;1.7;11563;1.5;1;176582;84.9
 13546	'Bloodbelly Fish;1;11317;0;0
@@ -1513,11 +1511,11 @@ R("items", 8189, 13725, [[
 13703	'Kodo Bone;0;2;176751;100;176752;100
 13724	'Enriched Manna Biscuit;0;0;10856;10857;11536
 13725	'Krastinov's Bag of Horrors;1;10503;100;0
-]])
-R("items", 13757, 20519, [[
-
 13757	'Lightning Eel;0;0
 13815	'Some Rune;4;6195;8;6196;8;7885;8;7886;8;0
+]])
+R("items", 13850, 20549, [[
+
 13850	'Rumbleshot's Ammo;0;1;176785;100
 13852	'The Grand Crusader's Command;0;0
 13853	'Slab of Carrion Worm Meat;3;8603;80;8605;80;222412;0;0
@@ -2016,11 +2014,11 @@ R("items", 13757, 20519, [[
 20514	'Abyssal Signet;4;15206;85.1;15208;84.6;15207;84.5;15220;83.4;0
 20515	'Abyssal Scepter;4;15305;86.3;15203;86.1;15205;86.1;15204;84.5;0
 20519	'Southsea Pirate Hat;6;7855;10;7856;10;7857;10;7858;10;7883;10;8203;10;0
-]])
-R("items", 20520, 264081, [[
-
 20520	'Dark Rune;6;10477;39.4;11582;33.9;10502;12.9;10507;12.4;10505;11.8;10901;10.9;0
 20549	'Darkrune Gauntlets;0;0
+]])
+R("items", 20558, 264083, [[
+
 20558	'Warsong Gulch Mark of Honor;0;0
 20559	'Arathi Basin Mark of Honor;0;0
 20560	'Alterac Valley Mark of Honor;0;0
@@ -2519,11 +2517,11 @@ R("items", 20520, 264081, [[
 264079	'Craftsman's Writ%3A Heavy Mithril Axe;0;0
 264080	'Craftsman's Writ%3A Mechanical Dragonling;0;0
 264081	'Craftsman's Writ%3A Advanced Target Dummy;0;0
-]])
-R("items", 264082, 286360, [[
-
 264082	'Craftsman's Writ%3A Craftsman's Monocle;0;0
 264083	'Craftsman's Writ%3A Goblin Land Mine;0;0
+]])
+R("items", 264084, 286360, [[
+
 264084	'Craftsman's Writ%3A Catseye Ultra Goggles;0;0
 264085	'Craftsman's Writ%3A Unstable Trigger;0;0
 264086	'Craftsman's Writ%3A Flash Bomb;0;0
@@ -2725,6 +2723,7 @@ R("items", 264082, 286360, [[
 279379	'Jar of Snow;0;0
 279383	'Stolen Freewind Supplies;0;1;670338;0
 279385	'Pristine Crimson Scale;4;1042;0;1043;0;1044;0;1069;0;0
+279389	'Sack of Homebrew Hops;0;1;670348;0
 279469	'Grimy Key;0;1;670427;100
 279472	'Pristine Pesterhide Pelt;1;4249;0;0
 279505	'Jagged Orcish Sword;1;11682;0;0
@@ -2781,9 +2780,7 @@ R("items", 264082, 286360, [[
 281246	'Toxic Skullcap;0;0;4554
 281300	'Blisterweed;0;1;673933;0
 281330	'Message from the Supreme Magister;0;0
-284146	'Essene's Waterskin;0;1;678585;0
-284150	'Essene's Spellbook;0;1;678590;0
-284705	'Essene's Necklace;0;1;687845;0
+284844	'Dragonmaw Dispatch;1;275046;0;0
 284845	'Thicket Raptor Hide;4;260325;0;260800;0;260801;0;260802;0;0
 286008	'Naga Spinefin;2;275663;30.6;275662;23;0
 286009	'Aggor's Belt;1;275666;100;0
