@@ -1480,7 +1480,7 @@
 		"Ride west: Starving Snickerfangs roam the dry hills just south of the bloodmages' camp; Scorpok Stingers (level 50) scuttle across the middle of the north. {npc:5982} vultures circle over all of it. Pull one at a time.\nAshmane Boars and Redstone Basilisks share the slopes south-west of the keep. Keep clear of the Helboars further south: they are level 52.\nCareful: Scorpok Stingers use {spell:5416}; {npc:8301} adds Knockdown.": "向西騎：飢餓的竊齒獸在血法師營地南邊的乾旱丘陵遊蕩；斯科普克刺蠍（50級）在北側中部爬行。{npc:5982}禿鷲在整片區域上空盤旋。一次只拉一隻。\n灰鬃野豬和紅石蜥蜴分佈在堡壘西南的斜坡上。遠離更南邊的地獄野豬：它們是52級。\n注意：斯科普克刺蠍會使用{spell:5416}；{npc:8301}會附帶擊倒。",
 		"Set your hearth here: the {zone:1427} guide starts from {area:144}.": "把爐石設在這裡：{zone:1427}的指南從{area:144}開始。",
 		"Step through the portal into {zone:1457}. The Temple of the Moon is in the south of the city.": "穿過傳送門進入{zone:1457}。Temple of the Moon在城市南部。",
-		"Temple of the Moon": "Temple of the Moon",
+		"Temple of the Moon": "月神殿",
 		"The Bloodsail captains": "血帆船長",
 		"The bloodmages": "血法師",
 		"The bloodmages' camp is the first stop beside the road into the {zone:1419}, north-west of {area:1438}.": "進入{zone:1419}後，第一個停靠點就是路旁的血法師營地，位於{area:1438}西北側。",
@@ -3607,7 +3607,7 @@
 		"the {quest:5401} trinket: equip it": "{quest:5401}的飾品：裝備上它",
 		"{area:1477}, the {area:1417}, lies in the {area:74} in eastern {zone:1435}: go up the ruin's stairs, dive into the flooded hall and follow the stairs down to the portal. It is a dungeon for a group of five at about 50-55. Six elite troll minibosses (level 51-52) stand on the balconies around the temple's great round room, each behind a pack of elites on its side path. Each drops its feather every time: Gasher and {npc:5716} the Amber, Hukku and Mijan the Blue, Zolo and Loro the Green; you need all six. Hukku calls guardians and throws Shadow Bolt Volleys, Mijan heals: kill them first.": "{area:1477}，即{area:1417}，位於{zone:1435}東部{area:74}裡：走上廢墟的臺階，潛入被水淹沒的大廳，沿樓梯向下走到傳送門。這是一個約50-55級五人小隊的地下城。六個精英巨魔小頭目（51-52級）站在神廟大圓廳周圍的陽臺上，各自守在其側路的一群精英之後。它們每次都會掉落自己的羽毛：加舍爾和琥珀色的{npc:5716}、胡庫和藍色的米詹、佐洛和綠色的洛羅；六根都需要。胡庫會召喚守衛並投擲暗影箭雨，米詹會治療：先殺它們。",
 		"{area:3197} is the Alliance camp at the south end of the {zone:1422}, north of the Alterac foothills. {npc:10838} commands it; {npc:10840} stands in the same camp.": "{area:3197}是{zone:1422}南端的聯盟營地，在奧特蘭克丘陵以北。{npc:10838}負責指揮；{npc:10840}也在同一營地。",
-		"{item:12840} x20": "{item:12840} x20",
+		"{item:12840} x20": "{item:12840} × 20",
 		"{item:20606} x2: Gasher, {npc:5716}": "{item:20606} x2：加舍爾、{npc:5716}",
 		"{item:20607} x2: Hukku, Mijan": "{item:20607} x2：胡庫、米詹",
 		"{item:20608} x2: Zolo, Loro": "{item:20608} x2：佐洛、洛羅",
@@ -3668,7 +3668,7 @@
 		"The {item:6846}": "{item:6846}",
 		"The {item:6847}": "{item:6847}",
 		"The {item:6866}": "{item:6866}",
-		"{item:2589} x10": "{item:2589} x10",
+		"{item:2589} x10": "{item:2589} × 10",
 		"{item:6846}: Defias Rogue Wizards": "{item:6846}：迪菲亞流浪巫師",
 		"{item:6847}: Dark Iron Spies": "{item:6847}：黑鐵間諜",
 		"{item:6866} on {npc:6172}'s body": "{item:6866}在{npc:6172}的屍體上",
@@ -4910,7 +4910,7 @@
 		"{spell:10907} for other races": "其他種族的{spell:10907}"
 	},
 	"forever/collectibles/mounts/alliance/pack-kodo": {
-		"6,000 Merchant's Favor": "6,000 Merchant's Favor",
+		"6,000 Merchant's Favor": "6,000 商人青睞",
 		"The camp is at {area:1002} in western {zone:1433}, where the roads from {zone:1429}, {zone:1431} and {area:69} meet. {npc:256736} sells the {npc:10636} only once you are Exalted with the {faction:2586}, and it costs 6,000 Merchant's Favor. Crates pay only Favor (about 15 a crate return); the reputation comes from Craftsman's Writs and the one-time {item:280179}, so follow the Supply Factions Reputation guide and keep 6,000 Favor aside.": "營地位於{zone:1433}西部的{area:1002}，來自{zone:1429}、{zone:1431}和{area:69}的道路在此交匯。只有當你在{faction:2586}的聲望達到崇拜後，{npc:256736}才出售{npc:10636}，價格為6,000點商人的恩惠。交板條箱只給恩惠（每次交還約15點）；聲望來自工匠令狀和一次性的{item:280179}，所以請參照補給聲望指南進行，並預留出6,000點恩惠。",
 		"The reins need level 60 and Journeyman Riding to ride (Forever client); you can buy them earlier.": "韁繩需要60級和中級騎術才能騎乘（Forever 用戶端）；你可以提早購買。",
 		"{faction:2586} camp": "{faction:2586}營地"
@@ -5093,7 +5093,7 @@
 		"{spell:18995} for other races": "{spell:18995}（其他種族）"
 	},
 	"forever/collectibles/mounts/horde/pack-kodo": {
-		"6,000 Merchant's Favor": "6,000 Merchant's Favor",
+		"6,000 Merchant's Favor": "6,000 商人青睞",
 		"The camp stands just outside the west gate of the Crossroads in the {zone:1413}. {npc:256400} sells the {npc:10636} only once you are Exalted with {faction:2587}, and it costs 6,000 Merchant's Favor. Crates pay only Favor (about 15 a crate return); the reputation comes from Craftsman's Writs and the one-time {item:280179}, so follow the Supply Factions Reputation guide and keep 6,000 Favor aside.": "營地就在{zone:1413}的十字路口西門外。只有當你在{faction:2587}的聲望達到崇拜後，{npc:256400}才出售{npc:10636}，價格為6,000點商人的恩惠。交板條箱只給恩惠（每次交還約15點）；聲望來自工匠令狀和一次性的{item:280179}，所以請參照補給聲望指南進行，並預留出6,000點恩惠。",
 		"The reins need level 60 and Journeyman Riding to ride (Forever client); you can buy them earlier.": "韁繩需要60級和中級騎術才能騎乘（Forever用戶端）；你可以提早購買。",
 		"{faction:2587} camp": "{faction:2587}營地"
@@ -5387,10 +5387,10 @@
 		"{zone:1446} mobs drop OOX-17/TN's beacon about one kill in 50 to 150. Best: the Treasure Hunting Pirates and Buccaneers on the south shore (44-45) and the Ground Pounders in the north (41-43), about 2%. You can loot it from level 43.": "{zone:1446}的怪物約50到150殺掉一次OOX-17/TN的信標。最好的是南岸的尋寶海盜和劫掠者（44-45級）以及北部的重擊者（41-43級），約2%。43級起就能拾取。"
 	},
 	"forever/collectibles/pets/minimule": {
-		"1,500 Merchant's Favor": "1,500 Merchant's Favor",
+		"1,500 Merchant's Favor": "1,500 商人青睞",
 		"Azeroth Commerce Authority": "艾澤拉斯貿易協會",
 		"Durotar Supply and Logistics": "杜洛塔物資流通",
-		"Minimule": "Minimule",
+		"Minimule": "迷你騾",
 		"The Alliance camp is at {area:1002} in western {zone:1433}. Merchant's Favor comes from Waylaid Crates that mobs drop from level 10: fill one with a bundle it lists and hand it to {npc:214101}, for 5 to 30 Favor a crate. The treat costs 1,500 Favor and, by beta vendor lists, needs Revered with the Azeroth Commerce Authority. Crates pay no standing: that comes from the Craftsman's Writs, 21,000 from Neutral to Revered. The Supply Factions Reputation guide takes you there.": "聯盟營地設在{zone:1433}西部的{area:1002}。商人的恩惠來自10級起怪物掉落的被劫的板條箱：按箱內列出的包裹裝滿一箱，交給{npc:214101}，每箱可得5到30點恩惠。該零食用1,500點恩惠購買；據測試服的商人列表，還需要對艾澤拉斯商業協會達到崇敬。板條箱不給聲望：聲望來自工匠令狀，從中立到崇敬共21,000點。《補給陣營聲望》指南會帶你走完。",
 		"The Horde camp is just outside the west gate of the Crossroads. Merchant's Favor comes from Waylaid Crates that mobs drop from level 10: fill one with a bundle it lists and hand it to Dokimi, for 5 to 30 Favor a crate. The treat costs 1,500 Favor and, by beta vendor lists, needs Revered with Durotar Supply and Logistics. Crates pay no standing: that comes from the Craftsman's Writs, 21,000 from Neutral to Revered. The Supply Factions Reputation guide takes you there. (Another {npc:256384} stands in the {zone:1458}; this is the one at the camp.)": "部落營地就在十字路口西門外。商人的恩惠來自10級起怪物掉落的被劫的板條箱：按箱內列出的包裹裝滿一箱，交給多基米，每箱可得5到30點恩惠。該零食用1,500點恩惠購買；據測試服的商人列表，還需要對杜洛塔補給與後勤達到崇敬。板條箱不給聲望：聲望來自工匠令狀，從中立到崇敬共21,000點。《補給陣營聲望》指南會帶你走完。（{zone:1458}裡還有另一個{npc:256384}；這裡說的是營地那個。）"
 	},
