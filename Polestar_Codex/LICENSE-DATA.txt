@@ -23,7 +23,7 @@ Licence: No license file in Questie/Questie or Questie/QuestieDB; CurseForge lis
 
 Quest XP for quests QuestieDB lacks: two Forever web quest databases (one from the beta client's quest cache)
 -------------------------------------------------------------------------------------------------------------
-Version: 537 quests; cache data/sources/webxp/quest-xp.json
+Version: 522 quests; cache data/sources/webxp/quest-xp.json
 Licence: Public web pages; facts (XP numbers) only, used locally with permission
 
 the web quest database: zone quest lists (XP, levels, Forever change notes)

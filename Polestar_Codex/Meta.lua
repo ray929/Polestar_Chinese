@@ -64,7 +64,7 @@ end
 
 C.Register("meta", {
 	build = "1.60.1.70532",
-	builtAt = "2026-11-10T11:50:54.882Z",
+	builtAt = "2026-11-11T12:09:33.960Z",
 	counts = {
 		instance = 30,
 		item = 19913,
@@ -444,7 +444,7 @@ C.Register("meta", {
 		{
 			licence = "Public web pages; facts (XP numbers) only, used locally with permission",
 			name = "Quest XP for quests QuestieDB lacks: two Forever web quest databases (one from the beta client's quest cache)",
-			version = "537 quests; cache data/sources/webxp/quest-xp.json",
+			version = "522 quests; cache data/sources/webxp/quest-xp.json",
 		},
 		{
 			licence = "Public web pages; facts (ids, XP, levels, instance categories, rewards) only, used locally",

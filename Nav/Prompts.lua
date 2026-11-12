@@ -24,7 +24,12 @@
 --   /polestar skipleg. A Hearthstone, teleport, flight, ride or portal leg
 --   ("Skip this leg") is left out and the rest of this trip planned without
 --   it; a walk or lift step ("Mark this leg done") is marked done and the
---   arrow moves on (Nav.travel.SkipLeg, Nav.travel.SkipReplans).
+--   arrow moves on (Nav.travel.SkipLeg, Nav.travel.SkipReplans). The route
+--   is planned from where you stand, so a leg marked done before you are
+--   past it comes back. While the arrow is on a point of your own (picked
+--   on the map, a "Guide me" or "Show me"), the same menu has "Back to the
+--   guide" (Nav.BackToGuide): that point lets go, and its journey with it
+--   (#1686).
 
 local ADDON, ns = ...
 local Nav = ns.Nav
@@ -132,9 +137,10 @@ local function stepButtonHas(kind, id)
 	return b and b.itemID == id and b:IsShown() and true or false
 end
 
--- kind, id the button should hold now (nil: hidden).
+-- kind, id the button should hold now (nil: hidden). It goes with the guide
+-- window; hiding Polestar takes it with the arrow (kept with it: ns.ArrowHidden).
 function Prompts.Wanted()
-	if not ns.Get("nav.castPrompt") or not ns.GuideShown() then return nil end
+	if not ns.Get("nav.castPrompt") or not ns.GuideWindowOn() or ns.ArrowHidden() then return nil end
 	local kind, id = Prompts.ActionOf((currentLeg()))
 	if not kind or stepButtonHas(kind, id) then return nil end
 	return kind, id
@@ -275,6 +281,9 @@ local function create()
 	-- mouse click casts once, on its release; leaving puts it back to nil, so
 	-- the binding follows the player's key-down setting.
 	b:SetScript("OnEnter", function(self)
+		-- The game's Quick Keybind Mode takes the hover (QoL/QuickBind.lua).
+		local QB = ns.QoL and ns.QoL.QuickBind
+		if QB and QB.Hover(self) then return end
 		if not inLockdown() then self:SetAttribute("useOnKeyDown", false) end
 		paintBorder(self, true)
 		if not GameTooltip then return end
@@ -294,6 +303,10 @@ local function create()
 	end)
 	button = b
 	Prompts.button = b
+	-- Bindable from Quick Keybind Mode while it shows (never shown for it:
+	-- it stands under the arrow only for a cast leg).
+	local QB = ns.QoL and ns.QoL.QuickBind
+	if QB then QB.Add(b) end
 end
 
 -- Just under the arrow, in UIParent's space; the arrow may be scaled.
@@ -384,21 +397,32 @@ end
 
 local function skip() Prompts.SkipLeg() end
 
--- The menu's rows for the current leg, or nil when nothing can be skipped.
+-- Whether the current leg can be skipped (the journey panel words its tip by it).
+function Prompts.CanSkip() return skippable() ~= nil end
+
+-- The menu's rows: the current leg's skip, then "Back to the guide" while
+-- the arrow is on a point of your own; nil when there is neither.
 function Prompts.MenuItems()
+	local items = {}
 	local leg = skippable()
-	if not leg then return nil end
-	local T = Nav.travel
-	if T.SkipReplans and T.SkipReplans(leg) then
-		return { { text = L["Skip this leg"], tip = L["Plans the rest of this trip without it."], onClick = skip } }
+	if leg then
+		local T = Nav.travel
+		if T.SkipReplans and T.SkipReplans(leg) then
+			items[1] = { text = L["Skip this leg"], tip = L["Plans the rest of this trip without it."], onClick = skip }
+		else
+			items[1] = { text = L["Mark this leg done"], tip = L["The arrow moves on to the next leg."], onClick = skip }
+		end
 	end
-	return { { text = L["Mark this leg done"], tip = L["The arrow moves on to the next leg."], onClick = skip } }
+	if Nav.IsOverride() then
+		items[#items + 1] = { text = L["Back to the guide"], icon = "chevron-left", onClick = function() Nav.BackToGuide() end }
+	end
+	return items[1] and items or nil
 end
 
 ns.RegisterCommand("skipleg", function()
 	if Nav.SayHandedOff() then return end
 	skip()
-end, L["Skip the travel route's current leg (a Hearthstone, teleport, flight, ride or portal: plan the rest without it; a walk or lift: mark it done)"])
+end, L["Skip the travel route's current leg (a Hearthstone, teleport, flight, ride or portal: plan the rest without it; a walk or lift: mark it done)"], true)
 
 ---------------------------------------------------------------------------
 -- Wiring

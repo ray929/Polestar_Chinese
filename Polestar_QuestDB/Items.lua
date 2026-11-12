@@ -2409,7 +2409,7 @@ R("items", 20558, 264083, [[
 253711	'Goliath's Wristguards;1;218032;0;0
 254378	'Shriekling Talons;2;256092;21.4;251247;0;0
 254392	'Conqueror's Helm;0;0
-254432	'Carved Centaur Totem;5;4654;0;4655;0;4656;0;4657;0;4659;0;0
+254432	'Carved Centaur Totem;8;4632;0;4633;0;4634;0;4635;0;4636;0;4637;0;4638;0;4639;0;0
 254546	'Jansen Stead Water Sample;0;1;460005;0
 254547	'Molsen Farm Water Sample;0;1;460006;0
 254548	'Longshore Murloc Gill;8;126;40;127;40;171;40;517;40;456;0;458;0;513;0;515;0;0
