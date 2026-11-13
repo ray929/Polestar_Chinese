@@ -3458,3 +3458,7 @@ L["The map marks each place."] = "地图标出每个地点。"
 L["Your manual check-offs and skipped steps in %s are cleared. Quests you have done stay done."] = "你在 %s 的手动勾掉和跳过步骤已清除。已完成的任务保持完成。"
 L["Your manual check-offs and skipped steps in the current guide are cleared. Quests you have done stay done."] = "你在当前指南的手动勾掉和跳过步骤已清除。已完成的任务保持完成。"
 L["Your report"] = "你的报告"
+
+-- Forced by tools/build.py from translations/zhCN/overrides.json (ui_override): these replace the upstream text.
+
+L["This translation was made with AI. Help improve it on Discord."] = "本汉化版基于官方 0.3.7.2 版本构建，未获得官方背书。"

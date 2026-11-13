@@ -760,5 +760,8 @@
   "How near its spawn area must be for a suggestion to show. It goes again a little further out.": "刷新区域要多近才会给出推荐。再走远一点它会重新出现。",
   "Sound for a new suggestion": "新推荐提示音",
   "A soft chime for each new suggestion (once when several come together), at the game's sound effects volume.": "每条新推荐都播放一声轻柔提示音（多条同时出现时只播放一次），使用游戏的音效音量。"
+ },
+ "ui_override": {
+  "This translation was made with AI. Help improve it on Discord.": "本汉化版基于官方 {version} 版本构建，未获得官方背书。"
  }
 }
