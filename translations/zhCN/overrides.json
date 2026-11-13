@@ -66,7 +66,8 @@
    "{npc:415}, by the road at the north end of the bridge": "{npc:415}，在桥北端的路边",
    "Greater Tarantulas crawl on the slopes around {quest:98386}, north-east of the lake; their Tarantula Eggs lie on the ground among them: click six.": "大狼蛛在湖东北、{quest:98386}周围的山坡上爬行；它们的狼蛛卵就散落在它们中间的地上：点六个。",
    "From the keep head back west along the lake's north shore and north up the {area:95}. Just south of {area:997}, {npc:518}, a level 25 gnoll, walks among the Redridge Alphas and Mystics.": "从要塞沿湖的北岸向西，再向北走{area:95}。{area:997}正南，25级的豺狼人{npc:518}在赤脊阿尔法和赤脊秘法师中间走动。",
-   "{npc:415}, by the road on the way to the bridge": "{npc:415}，在去桥的路上路边"
+   "{npc:415}, by the road on the way to the bridge": "{npc:415}，在去桥的路上路边",
+   "Follow the road south from {area:1002} into {zone:1431}; {area:42} lies on the east side of the forest.\nNo {item:4371} for {quest:174}? {npc:3133}, in the house beside {npc:276}, is nearly always sold out. Without one, right-click the quest in the guide window and skip it.": "沿路从{area:1002}向南进入{zone:1431}；{area:42}在森林东侧。\n没有{item:4371}做{quest:174}？{npc:276}旁边屋子里的{npc:3133}几乎总是卖光。没有的话，在指南窗口里右键点该任务，跳过它。"
   },
   "forever/alliance/05-duskwood": {
    "Gooey Spider Legs": "黏稠的蜘蛛腿",
@@ -88,7 +89,8 @@
    "Hearth back to {area:150} if you bound at the {area:2104}, or walk west along the road into Menethil: {npc:2096} by the road in at the north gate, {npc:2111} and {npc:1480} at the inn, {npc:2086} in the keep, {npc:2094} on the west side by the docks, {npc:1242} on the pier north of the inn.": "如果炉石绑在{area:2104}，就炉石回{area:150}；否则沿路向西走进米奈希尔：北门进来的路边有{npc:2096}，旅店里有{npc:2111}和{npc:1480}，要塞里有{npc:2086}，码头一侧西边有{npc:2094}，旅店以北的栈桥上有{npc:1242}。",
    "The tram comes in at the {object:28027}; walk west to the {object:2098}: {npc:1646} stands at its east side. (The route hands his letter in at the end of 03-loch-modan; this is for a character still carrying it.)": "地铁停在{object:28027}；向西走到{object:2098}：{npc:1646}站在它的东侧。（这条路线在 03-loch-modan 结尾才交他的信；这里是为还带着信的角色准备的。）",
    "For {npc:3649}, back in {area:442} (06-wetlands)": "交给{npc:3649}，回到{area:442}时（06-wetlands）",
-   "The tram comes in at the {object:28027}; walk west to the {object:2098}. {npc:376} is in the Cathedral of Light.": "地铁停在{object:28027}；向西走到{object:2098}。{npc:376}在光明大教堂里。"
+   "The tram comes in at the {object:28027}; walk west to the {object:2098}. {npc:376} is in the Cathedral of Light.": "地铁停在{object:28027}；向西走到{object:2098}。{npc:376}在光明大教堂里。",
+   "{item:4371}, for Look to the Stars in {area:42}: {npc:5175}, beside {npc:4081}, sometimes has one": "{item:4371}，用于{area:42}的“仰望星空”：{npc:4081}旁边的{npc:5175}偶尔有"
   },
   "forever/alliance/06-wetlands": {
    "Cast {spell:18960}. With both half pendants in your bags, stand by the {area:2362} on the north-west shore of the lake and use a half to join them, then go to {npc:11802} in {area:2361}. {npc:11802} stands upstairs in his building: go up inside, the arrow cannot tell the floors apart.": "施放{spell:18960}。两半坠饰都在包里时，站到湖西北岸的{area:2362}旁，用一半把它们合起来，然后去找{area:2361}的{npc:11802}。{npc:11802}在他那栋楼的楼上：从里面上楼，箭头分不清楼层。",
