@@ -44,7 +44,7 @@ Polestar plans leveling routes from 1 to 60 for every race and both factions, th
 ### Notes
 
 - This is an unofficial community build. Problems with the Chinese texts belong in this project's tracker; problems with the addon itself belong upstream.
-- Licensed under GPL-3.0-only, like Polestar. See `LICENSE` and `THIRD_PARTY.md`.
+- Licensed under GPL-3.0-only, like Polestar. See `LICENSE`; each language pack ships its own `LICENSE-DATA.txt` with the game-data sources.
 
 ### Acknowledgements
 
@@ -97,7 +97,7 @@ Polestar 为每个种族、两个阵营规划 1 到 60 级的练级路线，并�
 ### 说明
 
 - 本项目为非官方社区构建。中文文本问题请反馈到本仓库；插件本身的问题请反馈给上游。
-- 与 Polestar 一样以 GPL-3.0-only 授权，见 `LICENSE` 与 `THIRD_PARTY.md`。
+- 与 Polestar 一样以 GPL-3.0-only 授权，见 `LICENSE`；各语言包内附 `LICENSE-DATA.txt`，列出游戏数据的来源。
 
 ### 致谢
 
@@ -150,7 +150,7 @@ Polestar 為每個種族、兩個陣營規劃 1 到 60 級的練級路線，並�
 ### 說明
 
 - 本專案為非官方社群建置。中文文字問題請回報到本倉庫；插件本身的問題請回報給上游。
-- 與 Polestar 一樣以 GPL-3.0-only 授權，見 `LICENSE` 與 `THIRD_PARTY.md`。
+- 與 Polestar 一樣以 GPL-3.0-only 授權，見 `LICENSE`；各語言包內附 `LICENSE-DATA.txt`，列出遊戲資料的來源。
 
 ### 致謝
 
