@@ -9,6 +9,7 @@ ignore:
 # The repository root is the Polestar addon; these sibling folders ship at the
 # root of the zip.  Sources are relative to the package directory (Polestar/).
 move-folders:
+  Polestar/Polestar_Codex: Polestar_Codex
   Polestar/Polestar_Experimental: Polestar_Experimental
   Polestar/Polestar_Guides: Polestar_Guides
   Polestar/Polestar_Guides_Alliance: Polestar_Guides_Alliance
@@ -28,11 +29,10 @@ move-folders:
   Polestar/Polestar_Nav_EK: Polestar_Nav_EK
   Polestar/Polestar_Nav_Kalimdor: Polestar_Nav_Kalimdor
   Polestar/Polestar_Options: Polestar_Options
-  Polestar/Polestar_Recorder: Polestar_Recorder
+  Polestar/Polestar_QuestDB: Polestar_QuestDB
   Polestar/Polestar_SkinAPI: Polestar_SkinAPI
   Polestar/Polestar_Skin_Aurora: Polestar_Skin_Aurora
   Polestar/Polestar_Skin_Beacon: Polestar_Skin_Beacon
-  Polestar/Polestar_Skin_Example: Polestar_Skin_Example
   Polestar/Polestar_Skin_Hairline: Polestar_Skin_Hairline
   Polestar/Polestar_Skin_Lanterns: Polestar_Skin_Lanterns
   Polestar/Polestar_Skin_Lumen: Polestar_Skin_Lumen
