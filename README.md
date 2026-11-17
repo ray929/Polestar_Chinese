@@ -10,15 +10,15 @@ This is an **unofficial, standalone Chinese build** of [Polestar](https://www.cu
 
 What this build adds:
 
-- All 263 guides and 11,773 guide lines are translated, and every game name and interface string is filled in.
+- Every guide and every guide line is translated, and every game name and interface string is filled in.
 - Full game-name packs (quests, NPCs, objects, items, instances, encounters, factions, flight points) so guides show the names your client uses.
 - Both languages load automatically on a zhCN or zhTW client; English clients are untouched.
 
 ### Official Chinese coverage
 
-Upstream 0.4.0.1 already translates **99.98%** of the guide lines into Simplified Chinese (11,771 of 11,773). On a zhCN client you are **better off with the official Polestar build**: it is maintained upstream and ships updates sooner.
+Upstream already translates nearly every guide line into Simplified Chinese. On a zhCN client you are **better off with the official Polestar build**: it is maintained upstream and ships updates sooner.
 
-Traditional Chinese is only **54.00%** translated upstream (6,357 of 11,773), the rest being English. On a zhTW client **keep using this build**, which translates all of it.
+Traditional Chinese is still only partly translated upstream, with a large share of the guide lines left in English. On a zhTW client **keep using this build**, which translates all of it.
 
 ### What Polestar does
 
@@ -63,15 +63,15 @@ Polestar plans leveling routes from 1 to 60 for every race and both factions, th
 
 本构建提供：
 
-- 263 个指南、11,773 条指南文本全部翻译，并补齐游戏名称与界面文本。
+- 全部指南与指南文本都已翻译，并补齐游戏名称与界面文本。
 - 完整名称包（任务、NPC、物体、物品、副本、首领、阵营、飞行点），指南显示的名称与客户端一致。
 - zhCN / zhTW 客户端自动加载对应语言；英文客户端不受影响。
 
 ### 官方中文覆盖情况
 
-上游 0.4.0.1 的官方简体中文已经相当完整：指南文本覆盖 **99.98%**（11,771 / 11,773 条）。只玩简体客户端的玩家**建议直接下载官方 Polestar**，官方版本维护更及时。
+上游的官方简体中文已经相当完整，指南文本基本全部覆盖。只玩简体客户端的玩家**建议直接下载官方 Polestar**，官方版本维护更及时。
 
-官方繁体中文只覆盖 **54.00%**（6,357 / 11,773 条），其余为英文。使用繁体客户端的玩家**建议继续使用本中文版**，本版繁体指南覆盖 100%。
+官方繁体中文只覆盖一部分，其余为英文。使用繁体客户端的玩家**建议继续使用本中文版**，本版繁体指南覆盖 100%。
 
 ### Polestar 功能
 
@@ -116,15 +116,15 @@ Polestar 为每个种族、两个阵营规划 1 到 60 级的练级路线，并�
 
 本建置提供：
 
-- 263 個指南、11,773 條指南文字全部翻譯，並補齊遊戲名稱與介面文字。
+- 全部指南與指南文字都已翻譯，並補齊遊戲名稱與介面文字。
 - 完整名稱包（任務、NPC、物件、物品、副本、首領、陣營、飛行點），指南顯示的名稱與用戶端一致。
 - zhCN / zhTW 用戶端自動載入對應語言；英文用戶端不受影響。
 
 ### 官方中文覆蓋情況
 
-上游 0.4.0.1 的官方簡體中文已經相當完整：指南文字覆蓋 **99.98%**（11,771 / 11,773 條）。只玩簡體用戶端的玩家**建議直接下載官方 Polestar**，官方版本維護更即時。
+上游的官方簡體中文已經相當完整，指南文字幾乎全部覆蓋。只玩簡體用戶端的玩家**建議直接下載官方 Polestar**，官方版本維護更即時。
 
-官方正體中文只覆蓋 **54.00%**（6,357 / 11,773 條），其餘為英文。使用正體中文用戶端的玩家**建議繼續使用本中文版**，本版正體指南覆蓋 100%。
+官方正體中文只覆蓋一部分，其餘為英文。使用正體中文用戶端的玩家**建議繼續使用本中文版**，本版正體指南覆蓋 100%。
 
 ### Polestar 功能
 
