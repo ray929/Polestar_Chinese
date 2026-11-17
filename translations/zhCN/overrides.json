@@ -465,7 +465,8 @@
    "East of the Mosh'Ogg hills, Shadowmaw Panthers (37-38) stalk the jungle towards the lake; the Stranglethorn Tigresses roam the same ground and now and then drop a pristine fang. Snapjaw Crocolisks line the river just west of the jungle; keep their skins for {npc:2495}. Careful: Shadowmaw Panthers (level 37-38) and Elder Shadowmaw Panthers (level 42-43) use Sneak while out of combat, so they remain hidden until you get near them.": "在莫什奥格丘陵以东，暗鬃黑豹（37-38级）在通往湖边的丛林里潜行；荆棘谷母虎也在同一片活动，偶尔掉一颗完好的牙。硬颚鳄鱼在丛林正西的河边；把它们的皮留着给{npc:2495}。注意：暗鬃黑豹（37-38级）和老暗鬃黑豹（42-43级）脱离战斗时会用潜行，所以在靠近之前一直隐藏着。",
    "Pages of The {item:2755} drop at about 1% each from the Bloodscalp and Skullsplitter trolls; keep every page you loot and look on the auction house for the rest. {npc:716} takes the chapters on your next Stranglethorn visit, at about 40.": "{item:2755}的书页从血顶和碎颅巨魔身上各掉约1%；捡到的每一页都留着，其余的到拍卖行找。{npc:716}收章节，下次来荆棘谷时（大约40级）。",
    "The Mosh'Ogg ogres camp in the hills just east of {object:3202}, on your way back. Kill 10 Brutes and 5 Witch Doctors (36-37); pull them one at a time.": "莫什奥格食人魔在{object:3202}正东的丘陵扎营，就在你回程路上。杀10个蛮兵和5个巫医（36-37级）；一次拉一个。",
-   "Dustwallow's quests are 35-38. Still below 36 after {object:3202}'s hand-ins? The Mosh'Ogg Brutes and Witch Doctors camp in the hills just east of the camp: kill them until level 36, pulling one at a time, then walk back to the zeppelin tower. Or, with a group, run the {area:796} dungeon (Armory) or the {area:1316} dungeon instead.": "尘泥沼泽的任务是35-38级。交完{object:3202}的任务还不到36级？莫什奥格蛮兵和巫医就在营地正东的丘陵扎营：杀到36级，一次拉一个，然后走回飞艇塔。或者组队去刷{area:796}副本（军械库）或{area:1316}副本。"
+   "Dustwallow's quests are 35-38. Still below 36 after {object:3202}'s hand-ins? The Mosh'Ogg Brutes and Witch Doctors camp in the hills just east of the camp: kill them until level 36, pulling one at a time, then walk back to the zeppelin tower. Or, with a group, run the {area:796} dungeon (Armory) or the {area:1316} dungeon instead.": "尘泥沼泽的任务是35-38级。交完{object:3202}的任务还不到36级？莫什奥格蛮兵和巫医就在营地正东的丘陵扎营：杀到36级，一次拉一个，然后走回飞艇塔。或者组队去刷{area:796}副本（军械库）或{area:1316}副本。",
+   "On the walk west from Nesingwary's camp, a pile of {object:661516} lies by the path: it starts {quest:97328}, whose Stolen Shipments lie in the {area:102} on the coast ahead.": "从奈辛瓦里营地向西走时，路边有一堆{object:661516}：它会开始{quest:97328}，任务所需的被盗的货物就在前方海岸的{area:102}。"
   },
   "forever/horde/30-40/04-dustwallow-marsh": {
    "The middle of {zone:1454}": "{zone:1454}中部",
@@ -556,7 +557,8 @@
    "Follow the road north-east to {area:1767}. The Warpwood Moss Flayers and Shredders on the east side of the woods each carry a {item:11503}; Angerclaw Grizzlies and Felpaw Ravagers roam the same woods for Talo. Below level 54.21, keep hunting the grizzlies and ravagers: the hand-ins at {area:1997} and the {area:2479} take you to level 55. Or, with a group, run the {area:1584} dungeon or the {area:1417} dungeon instead.": "沿路向东北到{area:1767}。树林东侧的扭木苔藓剥皮者和撕裂者各带一件{item:11503}；怒爪灰熊和魔爪破坏者在同一片林子里，是塔洛要的。不到54.21级，就继续打灰熊和破坏者：在{area:1997}和{area:2479}交任务会把你带到55级。或者组队去刷{area:1584}副本或{area:1417}副本。",
    "Careful: Den Watchers are level 53-54; they call nearby allies within 25 yd once below 50% health and run off for help below 15%.\nBelow level 54.54, keep fighting the Deadwood here after {npc:15395}'s count: the hand-ins at {area:1769} and the {area:2479} take you to level 55. Or, with a group, run the {area:1584} dungeon or the {area:1417} dungeon instead.\nKeep killing them until one drops a {quest:8470}, about one kill in thirty, then right-click it: {npc:11558} in {area:1769} takes it once the Timbermaw are Neutral to you, now if they already are, or when the last guide passes the cave again at 59.": "注意：巢穴守望者是53-54级；血量降到50%以下会呼叫25码内的同伴，低于15%会逃跑求援。\n不到54.54级，{npc:15395}的计数够了之后继续在这里打死木熊怪：在{area:1769}和{area:2479}交任务会把你带到55级。或者组队去刷{area:1584}副本或{area:1417}副本。\n一直杀到有一只掉{quest:8470}，大约三十只里一个，然后右键点它：只要木喉对你的声望达到中立，{area:1769}的{npc:11558}就会收，现在就收（如果已经是中立），或者等最后一篇指南59级再经过洞穴时。",
    "Step into the cave: {npc:11558} stands just inside.": "走进洞穴：{npc:11558}就站在洞口里侧。",
-   "Top up here to level 54.87 before the hand-ins in {zone:1452}: they take you to level 55. Or, with a group, run the {area:1584} dungeon or the {area:1417} dungeon instead.": "在{zone:1452}交任务之前，在这里补到54.87级：那些任务会把你带到55级。或者组队去刷{area:1584}副本或{area:1417}副本。"
+   "Top up here to level 54.87 before the hand-ins in {zone:1452}: they take you to level 55. Or, with a group, run the {area:1584} dungeon or the {area:1417} dungeon instead.": "在{zone:1452}交任务之前，在这里补到54.87级：那些任务会把你带到55级。或者组队去刷{area:1584}副本或{area:1417}副本。",
+   "The {object:661778} stands just south of the vale, by the road north: its bauble starts a quest for {npc:9996} at {area:1997}.": "{object:661778}就在山谷正南、往北的道路旁：它的饰物会开启一个交给{area:1997}的{npc:9996}的任务。"
   },
   "forever/horde/50-60/03-winterspring": {
    "Ride south from the tunnel: {npc:9298} camps among the steaming pools of {area:2246}, in the west of the valley.": "从隧道向南骑：{npc:9298}在山谷西部{area:2246}的热气池之间扎营。",
@@ -750,6 +752,10 @@
    "Mine every {object:656332} (1, orange), {object:656333} (1, orange) node you pass and circle the waypoints until {skill:186} 50. Smelt at a forge when your bags fill: {spell:2657} (orange to 25, grey at 70) gives points too. Zone level 1-10. Expect about 60 nodes for these 49 points.": "开采沿途所有{object:656332}（1，橙色）和{object:656333}（1，橙色），沿路径点循环，直到{skill:186}50。背包满时去熔炉熔炼：{spell:2657}（25前为橙色，70变灰）也能提升技能。地区等级1-10。这49点预计需开采约60处矿点。",
    "{object:656332} & {object:656333}: {zone:1438} (50-65) cont.": "{object:656332}和{object:656333}：{zone:1438}（50-65）续",
    "Mine every {object:656332} (1, yellow), {object:656333} (1, yellow) node you pass and circle the waypoints until {skill:186} 65. Smelt at a forge when your bags fill: {spell:2657} (orange to 25, grey at 70) gives points too. Zone level 1-10. Expect about 80 nodes for these 15 points.": "开采沿途每个{object:656332}（1，黄色）和{object:656333}（1，黄色）矿点，沿路径点循环，直到{skill:186}达到65。背包满时去熔炉熔炼：{spell:2657}（25前为橙色，70变灰）也能提升技能。地区等级1-10。提升这15点预计需开采约80个矿点。"
+  },
+  "forever/alliance/40-50/01b-riverglades": {
+   "the {object:645166} poster": "{object:645166}",
+   "the {object:707245} poster": "{object:707245}"
   }
  },
  "names": {},

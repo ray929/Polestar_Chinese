@@ -1,0 +1,105 @@
+-- Russian (ruRU): Polestar Recorder's interface strings.
+-- Keys are the English strings exactly as the code writes them; a key
+-- missing here, or commented out, shows in English. Grouped by the file that
+-- first uses each key. docs/TRANSLATING.md explains the rest.
+
+local _, ns = ...
+if not (GetLocale and GetLocale() == "ruRU") then return end
+local L = ns.L
+
+-- Commands.lua
+L["recording %s"] = "запись %s"
+L["on"] = "вкл."
+L["off"] = "выкл."
+L["usage: /psrec mark <text>"] = "использование: /psrec mark <текст>"
+L["recording is off; /psrec on first"] = "запись выключена; сначала введите /psrec on"
+L["marked: %s"] = "отмечено: %s"
+L["unknown command: %s"] = "неизвестная команда: %s"
+L["trail already on: %s"] = "след уже записывается: %s"
+L["trail on: %s (stops by itself after %d min; /psrec trail off to end)"] = "след включён: %s (остановится сам через %d мин; /psrec trail off — закончить)"
+L["trail off: %s, %d points"] = "след выключен: %s, точек: %d"
+L["no trail running"] = "след не записывается"
+L["usage: /psrec trail on [label] | trail off"] = "использование: /psrec trail on [название] | trail off"
+L["%d chunks waiting for the uploader (about %d KiB of %d KiB)"] = "фрагментов ожидают загрузчика: %d (около %d КиБ из %d КиБ)"
+L["last chunk the uploader confirmed: %d (newest: %d)"] = "последний фрагмент, подтверждённый загрузчиком: %d (новейший: %d)"
+L["the uploader has not confirmed a chunk yet (newest: %d)"] = "загрузчик ещё не подтвердил ни одного фрагмента (новейший: %d)"
+L["install id: %s"] = "id установки: %s"
+L["commands: /psrec on | off | ui | mark <text> | trail on [label] | trail off | clear"] = "команды: /psrec on | off | ui | mark <текст> | trail on [название] | trail off | clear"
+L["mark not recorded (not in the world yet)"] = "метка не записана (вы ещё не в игровом мире)"
+L["every recording not yet uploaded was deleted"] = "все ещё не загруженные записи удалены"
+L["this deletes every recording not yet uploaded. Type |cffffd100/psrec clear confirm|r within %d seconds to proceed."] = "будут удалены все ещё не загруженные записи. Чтобы продолжить, введите |cffffd100/psrec clear confirm|r в течение %d с."
+L["/reload or log out to send what's recorded"] = "/reload или выход из игры, чтобы отправить записанное"
+L["explorer mode: %s (/psrec explore on | off)"] = "режим исследователя: %s (/psrec explore on | off)"
+L["usage: /psrec explore on | off"] = "использование: /psrec explore on | off"
+L["explorer mode %s"] = "режим исследователя %s"
+L["In Forever's new zones and dungeons the Recorder notes the creatures, your path, quest map points, dungeon floors, boss pulls, where quest givers stand and the objects you open in more detail. Nothing new about you."] = "В новых зонах и подземельях Forever Recorder подробнее записывает существ, ваш путь, точки заданий на карте, этажи подземелий, пулы боссов, места, где стоят те, кто выдаёт задания, и объекты, которые вы открываете. Ничего нового о вас."
+
+-- Trail.lua
+L["trail stopped after %d min: %s, %d points"] = "след остановлен через %d мин: %s, точек: %d"
+
+-- Panel.lua
+L["spot done: %s"] = "место пройдено: %s"
+L["Close"] = "Закрыть"
+L["Polestar Recorder"] = "Polestar: запись"
+L["Start recording"] = "Начать запись"
+L["Trail"] = "След"
+L["Start trail"] = "Начать след"
+L["Mark"] = "Метка"
+L["here"] = "здесь"
+L["Mark here"] = "Отметить здесь"
+L["Spots"] = "Места"
+L["This session's trails"] = "Следы этой сессии"
+L["Save now"] = "Сохранить сейчас"
+L["saving: the interface reloads and the game writes the recording to disk"] = "сохранение: интерфейс перезагружается, и игра записывает данные на диск"
+L["Reloads the interface (a few seconds) so the recording is on disk."] = "Перезагружает интерфейс (несколько секунд), чтобы запись сохранилась на диск."
+L["Recording"] = "Идет запись"
+L["Recording is off"] = "Запись выключена"
+L["Stop recording"] = "Остановить запись"
+L["Stop trail"] = "Остановить след"
+L["%s  ·  %d points  ·  %d yd  ·  stops in %s"] = "%s  ·  точек: %d  ·  %d м  ·  остановится через %s"
+L["No trail running. Pick a spot or type a label, then Start trail."] = "След не записывается. Выберите место или введите название, затем «Начать след»."
+L["Turn recording on to start a trail."] = "Включите запись, чтобы начать след."
+L["lvl %d"] = "ур. %d"
+L["level %d+"] = "уровень %d+"
+L["Every spot is done."] = "Все места пройдены."
+L["%s: %d points, %s, %d yd"] = "%s: точек: %d, %s, %d м"
+L["None yet."] = "Пока нет."
+L["Recorder: trail on/off"] = "Запись: след вкл/выкл"
+L["Recorder window"] = "Окно записи"
+
+-- Recorder.lua
+L["recordings from the previous Recorder (schema 1) were removed; recording now uses schema 2"] = "записи предыдущей версии Recorder (схема 1) удалены; теперь запись идёт по схеме 2"
+L["on, because sharing is on in Polestar Client. /psrec off to stop."] = "вкл., так как в Polestar Client включён обмен данными. /psrec off — остановить."
+
+-- Explore.lua
+L["recording more detail here to map this new zone (/psrec explore off to stop)"] = "здесь запись подробнее, чтобы нанести на карту эту новую зону (/psrec explore off — остановить)"
+
+-- No longer in the code (its English changed or it went away): reuse or delete.
+-- L["this client exposes no talent tree API"] = "этот клиент не предоставляет API дерева талантов"
+-- L["no active talent configuration (too low level?)"] = "нет активной конфигурации талантов (слишком низкий уровень?)"
+-- L["the talent configuration has no trees"] = "в конфигурации талантов нет деревьев"
+-- L["the talent trees returned no nodes"] = "деревья талантов не вернули ни одного узла"
+-- L["session %s: %d events (%d breadcrumbs), %d min"] = "сессия %s: %d событий (%d хлебных крошек), %d мин"
+-- L["%d events dropped by the per-session caps"] = "%d событий отброшено из-за ограничений на сессию"
+-- L["no session yet"] = "сессий пока нет"
+-- L["%d sessions stored, %d maps dumped"] = "сохранено сессий: %d, выгружено карт: %d"
+-- L[", talents dumped"] = ", таланты выгружены"
+-- L["this session: %s"] = "эта сессия: %s"
+-- L["mark not recorded (session cap reached)"] = "отметка не записана (достигнут лимит сессии)"
+-- L["recorded %d maps"] = "записано карт: %d"
+-- L["no maps found (C_Map unavailable)"] = "карты не найдены (C_Map недоступен)"
+-- L["talents not recorded: %s"] = "таланты не записаны: %s"
+-- L["recorded %d talent nodes in %d tree(s) for %s"] = "записано узлов талантов: %d в деревьях (%d) для %s"
+-- L["recorded %d achievements in %d categories, %d major factions (Legacy renown %s), %d Legacy tree nodes"] = "записано достижений: %d в категориях (%d), основных фракций: %d (известность Legacy %s), узлов дерева Legacy: %d"
+-- L["factions not recorded: this client exposes no C_Reputation list"] = "фракции не записаны: этот клиент не предоставляет список C_Reputation"
+-- L["recorded %d factions"] = "записано фракций: %d"
+-- L["skills not recorded: this client exposes no C_SkillInfo list"] = "навыки не записаны: этот клиент не предоставляет список C_SkillInfo"
+-- L["recorded %d skill lines"] = "записано линеек навыков: %d"
+-- L["all recordings cleared; new session %s"] = "все записи удалены; новая сессия %s"
+-- L["this deletes every recorded session. Type |cffffd100/psrec clear confirm|r within %d seconds to proceed."] = "это удалит все записанные сессии. Введите |cffffd100/psrec clear confirm|r в течение %d с, чтобы продолжить."
+-- L["factions"] = "фракции"
+-- L["skills"] = "навыки"
+-- L["legacy"] = "Legacy"
+-- L["commands: /psrec on | off | ui | mark <text> | trail on [label] | trail off | maps | talents | legacy | factions | skills | clear"] = "команды: /psrec on | off | ui | mark <текст> | trail on [название] | trail off | maps | talents | legacy | factions | skills | clear"
+-- L["trail stopped: the session's trail cap is reached (%s, %d points)"] = "след остановлен: достигнут предел следа для сессии (%s, точек: %d)"
+-- L["In Forever's new zones and near their new dungeons the Recorder notes creatures and positions in more detail. Everywhere it also notes quest map points, dungeon floors, boss pulls, the area each quest giver stands in and the objects you open. Nothing new about you."] = "В новых зонах Forever и рядом с их новыми подземельями Recorder записывает существ и позиции подробнее. Везде он также записывает точки заданий на карте, этажи подземелий, пулы боссов, область, где стоит каждый, кто выдаёт задания, и объекты, которые вы открываете. Ничего нового о вас."
