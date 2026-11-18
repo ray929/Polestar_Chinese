@@ -1011,7 +1011,7 @@ R("items", 4758, 8185, [[
 8176	'Nightscape Headband;0;0
 8185	'Turtle Scale Leggings;0;0
 ]])
-R("items", 8187, 13725, [[
+R("items", 8187, 13724, [[
 
 8187	'Turtle Scale Gloves;0;0
 8189	'Turtle Scale Breastplate;0;0
@@ -1120,6 +1120,7 @@ R("items", 8187, 13725, [[
 9460	'Grimtotem Horn;3;7725;80;7726;80;7727;80;0
 9463	'Gordunni Cobalt;0;1;144064;100
 9471	'Nekrum's Medallion;1;7796;100;0
+9472	'Hexx's Key;1;7995;100;0
 9523	'Troll Temper;8;5648;55;5649;55;5650;55;7246;55;7247;55;7267;55;7270;55;7272;55;0
 9528	'Edana's Dark Heart;1;8075;100;0
 9572	'Glyphic Rune;0;0
@@ -1254,7 +1255,7 @@ R("items", 8187, 13725, [[
 11230	'Encased Fiery Essence;1;9016;0;0
 11242	'Evoroot;0;1;164798;100
 11243	'Videre Elixir;1;7775;0;0
-11266	'Fractured Elemental Shard;5;7032;50;7039;50;8981;50;228973;0;229549;0;0
+11266	'Fractured Elemental Shard;3;7032;50;7039;50;8981;50;0
 11268	'Head of Argelmach;1;8983;100;0
 11269	'Intact Elemental Core;4;8905;80;8906;80;8907;80;8908;80;0
 11270	'Nixx's Signed Pledge;0;0
@@ -1264,7 +1265,7 @@ R("items", 8187, 13725, [[
 11309	'The Heart of the Mountain;0;1;165554;100
 11312	'Lost Thunderbrew Recipe;2;9537;100;9541;100;0
 11313	'Ribbly's Head;1;9543;100;0
-11315	'Bloodpetal Sprout;8;6498;100;6499;100;6500;100;6501;100;6502;100;6503;100;6505;100;6506;100;1;164958;100
+11315	'Bloodpetal Sprout;0;1;164958;100
 11316	'Bloodpetal;4;6509;80;6510;80;6511;80;6512;80;0
 11318	'Atal'ai Haze;3;8384;80;5226;40;5228;40;0
 11325	'Dark Iron Ale Mug;6;9547;0.56;9545;0.32;9554;0.1;10043;0.04;8895;0.02;275;0;2;165738;100;165739;0;9499
@@ -1512,10 +1513,10 @@ R("items", 8187, 13725, [[
 13702	'Doom Weed;0;1;176753;100
 13703	'Kodo Bone;0;2;176751;100;176752;100
 13724	'Enriched Manna Biscuit;0;0;10856;10857;11536
-13725	'Krastinov's Bag of Horrors;1;10503;100;0
 ]])
-R("items", 13755, 20514, [[
+R("items", 13725, 20513, [[
 
+13725	'Krastinov's Bag of Horrors;1;10503;100;0
 13755	'Raw Winter Squid;0;0
 13757	'Lightning Eel;0;0
 13815	'Some Rune;4;6195;8;6196;8;7885;8;7886;8;0
@@ -2015,10 +2016,10 @@ R("items", 13755, 20514, [[
 20496	'Darnassus Marzipan;1;6735;0;0
 20497	'Thunder Bluff Marzipan;1;6746;0;0
 20513	'Abyssal Crest;4;15209;93.9;15307;93.6;15212;93;15211;92.4;0
-20514	'Abyssal Signet;4;15206;85.1;15208;84.6;15207;84.5;15220;83.4;0
 ]])
-R("items", 20515, 254842, [[
+R("items", 20514, 254842, [[
 
+20514	'Abyssal Signet;4;15206;85.1;15208;84.6;15207;84.5;15220;83.4;0
 20515	'Abyssal Scepter;4;15305;86.3;15203;86.1;15205;86.1;15204;84.5;0
 20519	'Southsea Pirate Hat;6;7855;10;7856;10;7857;10;7858;10;7883;10;8203;10;0
 20520	'Dark Rune;6;10477;39.4;11582;33.9;10502;12.9;10507;12.4;10505;11.8;10901;10.9;0
@@ -2422,9 +2423,9 @@ R("items", 20515, 254842, [[
 221361	'Zukk'ash Resin;4;5244;0;5245;0;5246;0;5247;0;0
 221497	'Old Key;0;1;442688;0
 227686	'Ornate Warhammer;0;1;461639;0
-227687	'Orthas' Favorite Gold Tooth;0;0;214954
 227689	'Partially-Digested Plate Armor;2;8543;0;8545;0;0
 227690	'Necrotic Runestone;1;10438;0;0
+227911	'Head of Rend Blackhand;1;10429;0;0
 228132	'Undead Potatoes;0;1;463213;0
 228133	'Magma or Lava?;0;1;463206;0
 228134	'Northern Kalimdor - A Comprehensive Guide;0;1;463209;0
@@ -2452,7 +2453,7 @@ R("items", 20515, 254842, [[
 246722	'Seal of the Ranger;2;247013;0;252865;0;0
 246725	'Seal of the Warden;1;247006;0;0
 246780	'Heart of Vek'zol;1;247015;0;0
-246888	'Humongous Crystal;2;6146;0;6148;0;0
+246888	'Humongous Crystal;3;6146;0;6147;0;6148;0;0
 246938	'Tear of Mennar;1;247972;0;0
 246948	'Distilled Firewater;0;0
 247684	'Forgotten Ashes;0;0
@@ -2499,7 +2500,7 @@ R("items", 20515, 254842, [[
 252760	'Stolen Shen'dar Supplies;4;259385;100;252068;54.4;254596;40;259398;0;1;576179;100
 253239	'Azgalor's Ashes;0;1;650227;0
 253249	'Horde Flag;0;1;577731;0
-253341	'Hyjal Owl Feather;1;249053;0;1;577746;0
+253341	'Hyjal Owl Feather;2;249053;0;261914;0;1;577746;0
 253591	'Ripe Stormapple;0;1;578937;100
 253595	'Flutterfly Dust;0;1;578959;100
 253596	'Blood-Stained Bandit Mask;1;252820;49;0
@@ -2516,11 +2517,10 @@ R("items", 20515, 254842, [[
 254676	'Suspicious Industrial Supplies;0;1;581777;0
 254692	'Staff of Ohk'zi;1;222233;0;0
 254695	'Fel-Tainted Remains;0;0
-254840	'Imbued Tears;0;0
 254841	'Petrified Bark;0;1;582187;0
 254842	'Well Cursed Bone;1;253360;0;0
 ]])
-R("items", 254871, 280396, [[
+R("items", 254871, 280390, [[
 
 254871	'Bloody Note;0;1;617704;0
 254877	'Namida's Hoof;1;222286;0;0
@@ -2561,6 +2561,7 @@ R("items", 254871, 280396, [[
 262640	'Feed Satchel;0;1;616740;0
 262668	'Wind-Infused Bough;0;1;616860;0
 262802	'Moonveil Moss;0;1;617262;0
+262803	'Burrow Beetle Bits;1;256714;0;0
 262816	'Intact Owl Body;1;249053;0;0
 262818	'Bear Berries;0;1;617265;0
 262917	'Notarized Shipping Container;0;0
@@ -2865,7 +2866,7 @@ R("items", 254871, 280396, [[
 272974	'The Jewel of the Horizon;0;1;650219;0
 273001	'Gloomrise Toxin Sample;1;264096;80;0
 273008	'Fel-Slime Ooze;2;243509;0;262539;0;0
-273050	'Blackmaw Pouch;8;247206;0;247209;0;247231;0;247234;0;247235;0;247237;0;247248;0;247249;0;0
+273050	'Blackmaw Pouch;8;247198;0;247206;0;247209;0;247231;0;247234;0;247235;0;247237;0;247248;0;0
 273164	'Tarnished Highfeather Bangle;0;1;650902;0
 273169	'The Lost Magic of the Runemasters;0;1;650929;0
 273181	'Crystalline Silk;1;264081;70;0
@@ -2879,6 +2880,7 @@ R("items", 254871, 280396, [[
 273772	'Blackthorne Intelligence;1;264508;0;0
 273828	'Recoiling Gnarlybark Staff;2;264570;0;275174;0;0
 273832	'Wicked Ritualist's Kris;2;249551;0;275173;0;0
+273883	'Ca'zass's Head;1;255997;0;0
 274028	'Blood Red Bandana;8;255262;0;255271;0;255276;0;255309;0;255364;0;255377;0;271780;0;271784;0;0
 274029	'Ornate Shackle Key;1;256236;0;0
 274041	'Document Box;0;0
@@ -3020,11 +3022,11 @@ R("items", 254871, 280396, [[
 280369	'Dragonmaw Armaments;0;3;672334;0;672336;0;672337;0
 280375	'Worgen Bits;1;1924;23.3;0
 280390	'Carved Stone Trinket;2;5974;0;5976;0;0
+]])
+R("items", 280395, 287959, [[
+
 280395	'Heart of Ados;1;271338;0;0
 280396	'Heart of Modr;1;271460;0;0
-]])
-R("items", 280397, 287959, [[
-
 280397	'Heart of Golm;1;271462;0;0
 280398	'Heart of Neru;1;271458;0;0
 280413	'Flintfire's Shipment;0;2;672508;0;7983211;0

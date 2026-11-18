@@ -1,4 +1,4 @@
-Polestar 0.4.0.1
+Polestar 0.4.1
 Leveling guides for World of Warcraft: Forever.
 
 Install
@@ -11,6 +11,7 @@ Install
      Polestar_Options
      Polestar_SkinAPI
      Polestar_Looks
+     Polestar_Arcade
      Polestar_Nav_EK
      Polestar_Nav_Kalimdor
      Polestar_Guides_Alliance
@@ -62,6 +63,9 @@ Install
    (one of each per language): Polestar no longer uses them.
    The Polestar_Skin_ folders are skins: each shows up under Settings >
    Theme and loads only when you pick it.
+   Polestar_Arcade is Freedoom Arcade by petllama: three levels of
+   Freedoom to play on a flight, loaded when you press Play (its own
+   licence, GPL-2.0 or later: see its LICENSE and CREDITS.md).
    Polestar_Experimental holds experimental guides for Forever's new
    zones (alpha). They are on for everyone: the guide menu lists them
    under Leveling with our own guides, and a route choice offers their
@@ -80,3 +84,7 @@ Portions Copyright (C) 2026 Cillian Berragan (Shortest Path Forever),
 GPL-3.0 or later, adapted with his permission: the route lines, journey
 panel, transit times, travel prompts and alerts in Polestar/ (LICENSE
 names the files) and the walking routes in Polestar_Nav/.
+Polestar_Arcade/ is a program of its own: Freedoom Arcade, Copyright
+(C) 2026 petllama, from id Software's DOOM source, GPL-2.0 or later;
+Freedoom's levels and art (C) the Freedoom project, BSD licence
+(FREEDOOM-COPYING.txt).

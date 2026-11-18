@@ -20,7 +20,14 @@
    "South-west from the Syndicate camp to the {area:286} farms.": "从辛迪加营地往西南到{area:286}的农场。",
    "{area:287} council": "{area:287}议会",
    "Use the {item:279386} at the {area:287} council.": "在{area:287}议会处使用{item:279386}。",
-   "Beat {npc:4961} and his thugs: they give up": "打倒{npc:4961}和他的打手：他们会认输"
+   "Beat {npc:4961} and his thugs: they give up": "打倒{npc:4961}和他的打手：他们会认输",
+   "{quest:303} is a group quest: 30 elite Dark Irons (27-31) in the ruins west of the camp. Skip it if you are alone.": "{quest:303}是组队任务：营地西边废墟里有 30 个精英黑铁矮人（27-31 级）。独自一人就跳过。",
+   "{npc:1074}, in the camp": "{npc:1074}，在营地里",
+   "{quest:88756} is a group quest: the {item:280806} lie in the {object:147516} camp on {area:1016}, south-east of {area:205}, among the same elite dwarves. Skip it if you are alone.": "{quest:88756}是组队任务：{item:280806}在{area:205}东南、{area:1016}上的{object:147516}营地里，就在那批精英矮人中间。独自一人就跳过。",
+   "{npc:1073}, in the camp": "{npc:1073}，在营地里",
+   "These are elite mobs: grouping up is encouraged, look for people to do it with. Dark Iron Dwarves, Tunnelers, Saboteurs and Demolitionists (27-31) fill the ruins west of the camp; {npc:1364} (34, elite) walks among them.": "这些是精英怪：建议组队，找人一起做。营地西边的废墟里到处是黑铁矮人、隧道工、破坏者和爆破手（27-31 级）；{npc:1364}（34 级，精英）在他们中间巡逻。",
+   "These are elite mobs: grouping up is encouraged, look for people to do it with. South-east of Dun Modr, about 500 yards, the Dark Irons camp on {area:1016}: the {item:280806} lie among their tents. Then back past the camp and north to the {area:880}.": "这些是精英怪：建议组队，找人一起做。丹莫德东南约 500 码，黑铁矮人扎营在{area:1016}：{item:280806}就在他们的帐篷之间。然后从营地原路返回，向北去{area:880}。",
+   "in the camp, beside {npc:1075}": "在营地里，{npc:1075}旁边"
   },
   "forever/alliance/02-westfall": {
    "{npc:5480} trains warriors in {object:2100}, near {npc:1323}'s shop; the tram from {zone:1455} arrives in the {object:28027}, north of it. {npc:6089} and {npc:6090} stand together by the {object:2152} there. {npc:6090} fights you for his mug. If {npc:5480} doesn't offer {quest:1638}, go straight to {npc:6089}: he gives {quest:1639} without it.": "{npc:5480}在{object:2100}训练战士，就在{npc:1323}的店铺旁；从{zone:1455}来的地铁停在它北边的{object:28027}。{npc:6089}和{npc:6090}一起站在那里的{object:2152}旁。{npc:6090}会为他的杯子跟你动手。如果{npc:5480}不给{quest:1638}，直接去找{npc:6089}：没有那个任务他也会给{quest:1639}。",
@@ -129,7 +136,8 @@
    "Crystalized Scale, from the Saltstone Basilisks: eight for {npc:4078} in {zone:1453}": "结晶鳞片，来自盐石蜥蜴：八个，交给{zone:1453}的{npc:4078}",
    "Into {zone:1446}": "进入{zone:1446}",
    "From the raceway follow the road south out of the {area:439} into {zone:1446}.": "从赛道沿路向南离开{area:439}，进入{zone:1446}。",
-   "{area:976} is a short walk down the road; keep to it. {npc:7823}, the Alliance flight master, stands inside the walls.": "沿路走一小段就到{area:976}；不要偏离道路。联盟飞行管理员{npc:7823}站在城墙里。"
+   "{area:976} is a short walk down the road; keep to it. {npc:7823}, the Alliance flight master, stands inside the walls.": "沿路走一小段就到{area:976}；不要偏离道路。联盟飞行管理员{npc:7823}站在城墙里。",
+   "From Theramore follow the road north-west through the marsh into the {zone:1413} and up the coast to {area:392}: Stranglethorn starts at {area:35}, across the sea. {area:392}'s gryphon master stands above the dock.": "从塞拉摩沿路向西北，穿过沼泽进入{zone:1413}，再沿海岸北上到{area:392}：荆棘谷从海对岸的{area:35}开始。{area:392}的狮鹫管理员站在码头上方。"
   },
   "forever/alliance/30-40/04-stranglethorn-vale": {
    "Level 33.2": "33.2级",
@@ -148,7 +156,19 @@
    "{npc:773}, from {npc:770}": "{npc:773}，来自{npc:770}",
    "{npc:738} spends most of his time at the top of the {area:99}'s path, by the huts, and now and then walks down it to the road and back (about eight minutes). If he isn't at the arrow, look along that path.": "{npc:738}大部分时间待在{area:99}小路的顶端、小屋旁，偶尔会沿着小路走到大路上再回来（约八分钟）。如果箭头处没有他，就沿那条小路找。",
    "{npc:4078} is in the {object:2164}, in the {object:2101}.": "{npc:4078}在{object:2164}里，位于{object:2101}。",
-   "The road to {area:608}": "通往{area:608}的道路"
+   "The road to {area:608}": "通往{area:608}的道路",
+   "The boat from {area:392}'s dock crosses to {area:35}, on Stranglethorn's southern cape.": "{area:392}码头的船开往{area:35}，在荆棘谷南端的海角。",
+   "Bind your hearthstone at the inn: it is your way back here from the north of the jungle at the end of the loop.": "在旅店绑定炉石：绕完这一圈、从丛林北边回来时就靠它。",
+   "{npc:773}, in the tavern; upstairs: {npc:738} is at the {area:99}, on the way": "{npc:773}，在酒馆里；楼上：{npc:738}在{area:99}，顺路",
+   "{npc:773}: Nesingwary's camp, on the way": "{npc:773}：奈辛瓦里营地，顺路",
+   "North to {area:100}": "向北去{area:100}",
+   "Follow the main road north the length of the jungle, past the {object:3202} turn-off, to the hunters' camp just west of the road.": "沿大路向北穿过整片丛林，经过{object:3202}的岔路口，到路西侧的猎人营地。",
+   "The hunters' tents stand just west of the road. {npc:773}'s {quest:201} only asks you to look around it.": "猎人的帐篷就在路西侧。{npc:773}的{quest:201}只要求你在附近看看。",
+   "River Crocolisks (30-31) swim the river right beside Nesingwary's camp and up toward the {area:99}.": "河鳄（30-31 级）就在奈辛瓦里营地旁的河里游，一直往{area:99}方向。",
+   "Take the road north; the camp sits in the hills to the west.\n{npc:738} offers {quest:215} only while he is out of the camp: about every half hour he walks down the path to the road, where two Kurzen's Agents ambush him. Help him kill them and take the quest at once, before he walks back up. He isn't there? Leave it: the guide passes {quest:200}, which follows from it, as well.\n{npc:738} spends most of his time at the top of the {area:99}'s path, by the huts, and now and then walks down it to the road and back (about eight minutes). If he isn't at the arrow, look along that path.": "沿路向北；营地在西边的山丘里。\n{npc:738}只有离开营地时才会给{quest:215}：大约每半小时他会沿小路走到大路上，两个库尔森特工会伏击他。帮他杀完立刻接任务，别等他走回去。他不在？那就放弃：指南也会跳过由它引出的{quest:200}。\n{npc:738}大部分时间待在{area:99}小路顶端、小屋旁，偶尔沿路走到大路再返回（约八分钟）。如果他不在箭头处，沿那条小路找找。",
+   "{npc:738}: at the top of the path by the huts, or on his walk down it": "{npc:738}：在小路顶端的小屋旁，或正在沿路下山",
+   "From Nesingwary's camp head west to the {area:310} near the coast; the Crystal Spine Basilisks around it drop the shards.\nThe haunted island lies just off the coast south-west of the mine: just reach its edge. Careful: its Lesser Water Elementals are 36-37: don't stay. The Bloodscalp ruins of Zul'Kunda to the north wait for the second Stranglethorn loop.": "从奈辛瓦里营地往西到海岸边的{area:310}；附近的水晶脊蜥蜴会掉碎片。\n闹鬼小岛就在矿洞西南的近海：走到岛边即可。小心：岛上的次级水元素是 36-37 级，别久留。北边血顶氏族的祖尔库达废墟留到第二轮荆棘谷再来。",
+   "Hearth back to {area:35}.": "炉石回{area:35}。"
   },
   "forever/alliance/30-40/04b-stranglethorn-vale": {
    "In the {object:2164}, if you still carry it": "在{object:2164}里，如果你还带着"
@@ -188,7 +208,9 @@
    "Alone, you skip Nesingwary's three elite hunts: take their experience from the Skullsplitter trolls of Zul'Mamwe instead, just east of the mine, so every kill also counts for {npc:737}'s tusks. Or, with a group, run the {area:1517} dungeon instead.": "一个人时跳过奈辛瓦里的三个精英狩猎：改从矿东边祖尔玛姆维的碎颅巨魔身上拿经验，这样每个击杀也能算进{npc:737}的獠牙。或者组队去刷{area:1517}副本。",
    "Still short of level 42.16 after the hunts you did? Make up the rest on the Cold Eye Basilisks by the {area:310}, on your way south to {area:35}. Or, with a group, run the {area:1517} dungeon instead.": "做完了这些狩猎还不到42.16级？在向南去{area:35}的路上，打{area:310}旁的冷眼蜥蜴补齐。或者组队去刷{area:1517}副本。",
    "Ride east out of {zone:1426} through the tunnel into {zone:1432} and on along the road to {area:144}.": "从{zone:1426}向东骑，穿过隧道进入{zone:1432}，再沿路一直到{area:144}。",
-   "{npc:1470} is below ground in {area:144}, by the inn. His mushrooms grow in the {area:1517} dig in the {zone:1418}; the next guide takes you there and back through {area:144}.": "{npc:1470}在{area:144}的地下、旅店旁。他的蘑菇长在{zone:1418}里{area:1517}的挖掘场；下一篇指南带你经{area:144}往返那里。"
+   "{npc:1470} is below ground in {area:144}, by the inn. His mushrooms grow in the {area:1517} dig in the {zone:1418}; the next guide takes you there and back through {area:144}.": "{npc:1470}在{area:144}的地下、旅店旁。他的蘑菇长在{zone:1418}里{area:1517}的挖掘场；下一篇指南带你经{area:144}往返那里。",
+   "{item:216617}, in the supply crate deep in the cave": "{item:216617}，在洞穴深处的补给箱里",
+   "{item:1524}, from the trolls of the ruins": "{item:1524}，从废墟里的巨魔身上获取"
   },
   "forever/alliance/40-50/02-badlands": {
    "Ride north through the pass into {zone:1432} and east along the south shore to Ironband's camp.": "向北骑穿过山口进入{zone:1432}，再沿南岸向东到铁带的营地。",
@@ -207,7 +229,12 @@
   },
   "forever/alliance/40-50/05-the-hinterlands": {
    "Set your hearth here: the {zone:1427} guide starts from {area:144}.": "把炉石设在这里：{zone:1427}的指南从{area:144}开始。",
-   "The three Bloodsail ships lie at anchor off the coast just south of {area:35}: {npc:2550} (45) and {npc:2548} (46) on the nearer decks, {npc:2546} (48) on the flagship, each with a crew of 42-45 pirates. Swim out, clear each deck from the edge and pull one at a time.": "三艘血帆海盗船停在{area:35}正南的近海上：较近的甲板上有{npc:2550}（45级）和{npc:2548}（46级），旗舰上是{npc:2546}（48级），每艘都有42-45级的海盗船员。游过去，从甲板边缘清起，一次拉一个。"
+   "The three Bloodsail ships lie at anchor off the coast just south of {area:35}: {npc:2550} (45) and {npc:2548} (46) on the nearer decks, {npc:2546} (48) on the flagship, each with a crew of 42-45 pirates. Swim out, clear each deck from the edge and pull one at a time.": "三艘血帆海盗船停在{area:35}正南的近海上：较近的甲板上有{npc:2550}（45级）和{npc:2548}（46级），旗舰上是{npc:2546}（48级），每艘都有42-45级的海盗船员。游过去，从甲板边缘清起，一次拉一个。",
+   "The Vilebranch Soothsayers (46-47) walk the ground around the foot of the {area:355}: their totems are for Maret Firetend, and more Vilebranch Totems lie on the ground among them: pick those up too. Careful: {npc:7996} and {npc:8636} (50, elites) stand on the altar's south-east side: take the Soothsayers on its west side, away from them, and stay off the altar.": "邪枝预言者（46-47 级）在{area:355}脚下的地面上走动：他们的图腾是给马雷特·火须的，他们中间的地上还有更多邪枝图腾，一起捡起来。小心：{npc:7996}和{npc:8636}（50 级，精英）站在祭坛东南侧：从西侧、离他们远的地方打预言者，别踏上祭坛。",
+   "{npc:1494}'s bait": "{npc:1494}的诱饵",
+   "{npc:1494} comes only for his food: hand in {quest:619} at Captain Smotts' ruined lifeboat on the shore south-east of {area:35}, with 10 Barbecued Buzzard Wings and 5 {item:4595}, and he comes to the boat. {npc:2832}, the food and drink vendor at the inn, sells the wine. The wings are a cook's dish: if you don't cook, bring them from the Auction House.": "{npc:1494}只冲着食物来：在{area:35}东南岸、斯莫茨船长的破救生艇旁交{quest:619}，带 10 个烤秃鹫翅和 5 个{item:4595}，他就会到船边。旅店里卖吃喝的{npc:2832}有这种酒卖。翅膀是烹饪做出来的：你不会烹饪就从拍卖行买。",
+   "{item:4457}: in your bags already if you cook": "{item:4457}：会烹饪的话你包里已经有了",
+   "{object:2289}: the food goes in, {npc:1494} comes": "{object:2289}：放入食物，{npc:1494}就会出现"
   },
   "forever/alliance/40-50/06-searing-gorge": {
    "Dorius stands by the road beside the {area:247}. Escort him north-east to {area:1959} and keep him alive; when it is over, read the {object:175704} he leaves on the road.": "多里乌斯站在{area:247}旁的路边。护送他向东北到{area:1959}，保住他的命；结束后读他留在路上的{object:175704}。",
@@ -329,7 +356,9 @@
    "{npc:259620}: hear her story to the end": "{npc:259620}：把她的故事听完",
    "{area:1581} lies under {area:20} in {zone:1436}, Alliance land: a group of five at about 17-24. From the {zone:1458} take the zeppelin to {object:3202} in {zone:1434} and go north through {zone:1431} into {zone:1436}. The way in is the {area:20} mine. The Goblin Woodcarvers (elite, level 18-19) in Sneed's mast room drop the lumber every time.": "{area:1581}在{zone:1436}的{area:20}下方，那是联盟地盘：五个人，大约17-24级。从{zone:1458}坐飞艇到{zone:1434}的{object:3202}，再往北穿过{zone:1431}进入{zone:1436}。入口就是{area:20}的矿洞。斯尼德桅杆房里的地精木雕工（精英，18-19级）每次都掉木材。",
    "{npc:259649} waits at {area:2897} on {zone:1440}'s west coast: take the zeppelin from {object:3202} (or the {zone:1458}) to {zone:1454}, then go north through the {zone:1413} into {zone:1440} and west along the road. Andruk, the outpost's wind rider master, saves you the walk next time. Take {npc:259649}'s quest before you hunt the naga: the Kor Gem only drops while you have it.": "{npc:259649}在{zone:1440}西海岸的{area:2897}等着：从{object:3202}（或{zone:1458}）坐飞艇到{zone:1454}，然后往北穿过{zone:1413}进入{zone:1440}，再沿路向西。前哨站的风骑手管理员安德鲁克能省掉你下次的路。猎杀纳迦之前先接{npc:259649}的任务：科尔宝石只在你有任务时才会掉。",
-   "Watch {npc:3539} forge the blade": "看{npc:3539}锻造这把剑"
+   "Watch {npc:3539} forge the blade": "看{npc:3539}锻造这把剑",
+   "The north end of the {area:414}": "{area:414}的北端",
+   "The naga's flooded ruins lie just past the north end of the {area:414}. The arrow cannot find its own way down into them, so it leads you to the water's edge first: from there swim north into the ruins.": "纳迦的水淹废墟就在{area:414}北端过去一点。箭头找不到下去的路，所以先把你带到水边：从那里向北游进废墟。"
   },
   "forever/class/paladin/tyrs-watch": {
    "{npc:246349} gives you a weapon, then sends you round the keep to speak with four of its people: {npc:246389} just south of the gate, {npc:246394}, the lookout, who walks the road south-east of the keep, then {npc:246393} and {npc:246378} inside the keep. Pick the conversation option with each.": "{npc:246349}给你一把武器，然后让你在要塞里转一圈，和它的四个人说话：城门正南的{npc:246389}，在要塞东南路上走动的哨兵{npc:246394}，然后是要塞里的{npc:246393}和{npc:246378}。每个人都选对话选项。",
@@ -373,7 +402,14 @@
    "{npc:4049}'s camp": "{npc:4049}的营地",
    "To {area:2539}": "前往{area:2539}",
    "East of Ziz, the Venture Company is clear-cutting {area:461}; one of the Operators carries the blueprints.": "在齐兹以东，风险投资公司正在砍伐{area:461}；其中一个操作员带着图纸。",
-   "{npc:4276}'s defence is hard alone at this level: grouping up is encouraged, look for people to do it with. Skip it if you are alone.\n{npc:4276} mines at the bottom of the {area:2160} on the east side of the crag, past its kobolds (levels 19-23). Talk to him, then keep him alive for five minutes while he mines: a dozen or more kobolds come at him in waves, melee fighters first, then casters, and the mine's own kobolds respawn into the fight. If he dies, the quest fails.": "在这个等级，{npc:4276}的防守很难独自完成：建议组队，找几个人一起做。只有你一个人就跳过。\n{npc:4276}在峭壁东侧{area:2160}底部挖矿，要穿过他的狗头人（19-23级）。和他对话，然后在他挖矿的五分钟里保住他的命：十几只狗头人会分波冲上来，先是近战，然后是施法者，矿洞里的狗头人也会加入战斗。他死了，任务就失败。"
+   "{npc:4276}'s defence is hard alone at this level: grouping up is encouraged, look for people to do it with. Skip it if you are alone.\n{npc:4276} mines at the bottom of the {area:2160} on the east side of the crag, past its kobolds (levels 19-23). Talk to him, then keep him alive for five minutes while he mines: a dozen or more kobolds come at him in waves, melee fighters first, then casters, and the mine's own kobolds respawn into the fight. If he dies, the quest fails.": "在这个等级，{npc:4276}的防守很难独自完成：建议组队，找几个人一起做。只有你一个人就跳过。\n{npc:4276}在峭壁东侧{area:2160}底部挖矿，要穿过他的狗头人（19-23级）。和他对话，然后在他挖矿的五分钟里保住他的命：十几只狗头人会分波冲上来，先是近战，然后是施法者，矿洞里的狗头人也会加入战斗。他死了，任务就失败。",
+   "East from the keg toward {quest:881}: {npc:3682} camps below the hills, and his errands lie in the plains beside his camp.": "从酒桶向东去{quest:881}：{npc:3682}在山下扎营，他的差事都在营地旁的平原上。",
+   "Savannah lions": "草原狮",
+   "Savannah Patriarchs roam the plains east of {npc:3682}'s camp, and the Sprung Traps lie among them.": "草原狮王在{npc:3682}营地以东的平原上徘徊，踩开的陷阱就在它们中间。",
+   "{npc:261366}, the hermit on the ridge behind {npc:3682}: on the next {area:383} visit, with {npc:3452}": "{npc:261366}，{npc:3682}身后山脊上的隐士：下次去{area:383}时，和{npc:3452}一起",
+   "North to the {area:383}: {quest:876} leads the Witchwing harpies in the hills to the west.\nCareful: The route in passes stealthed Harpy Ambushers and an elite harpy that patrols.": "向北去{area:383}：{quest:876}指向西边山丘里的风怒鹰身人。\n小心：进去的路上有潜行的鹰身人伏击者和一个巡逻的精英鹰身人。",
+   "{quest:865}, if still open: Sunscale Scytheclaws prowl among the lions below {npc:3682}'s camp": "{quest:865}，如果还没做完：赤鳞镰爪龙在{npc:3682}营地下面、狮群之间出没",
+   "{npc:261366}, the hermit, stands on the ridge behind {npc:3682}'s camp.": "隐士{npc:261366}站在{npc:3682}营地后面的山脊上。"
   },
   "forever/horde/03-silverpine-forest": {
    "{area:159} is a short walk north up the road from the zeppelin towers: {npc:1738} stands by the road into town, {npc:1518} in the apothecary's house on the west side of the square.": "从飞艇塔沿路向北走一小段就是{area:159}：{npc:1738}站在进城的路边，{npc:1518}在广场西侧的药剂师屋里。",
@@ -403,13 +439,15 @@
    "The quest hands you a {item:210713}: use it beside the {object:645153} to offer your blood, then kill the elite spirit that answers.\n{quest:95883} is elite: grouping up is advised.": "任务会给你一个{item:210713}：在{object:645153}旁使用它献上你的血，然后杀掉应召而来的精英幽灵。\n{quest:95883}是精英：建议组队。",
    "{item:210713}, beside the {object:645153}: summons the elite spirit": "{item:210713}，在{object:645153}旁：召唤精英幽灵",
    "Into {area:287}": "进入{area:287}",
-   "The road east to {area:285}": "向东通往{area:285}的道路"
+   "The road east to {area:285}": "向东通往{area:285}的道路",
+   "{area:431} is just north up the road. Coming in from the south, the flight master and {npc:12696}'s hunt board at {area:428} come first, then the vendors. {npc:12867} at the lumber camp offers {quest:6503}: leave it for the next {zone:1440} visit, at 26.": "{area:431}就在沿路向北不远。从南边过来，先到{area:428}的飞行管理员和{npc:12696}的狩猎板，然后是商人。伐木营地的{npc:12867}会给{quest:6503}：留到下次来{zone:1440}、26 级时再做。"
   },
   "forever/horde/06-hillsbrad-foothills": {
    "From {area:287} town climb the mountain to the north, right up to its top on the Alterac border: the western vial goes there, not on the lower slope.": "从{area:287}镇向北爬山，一直爬到奥特兰克边界上的山顶：西边那瓶要放那里，不是下面半山腰。",
    "Cast {spell:18960}. Join the two pendant halves at the {area:2362}, on the north-west shore of the lake, before you see {npc:11802} in {area:2361}. {npc:11802} stands upstairs in his building: go up inside, the arrow cannot tell the floors apart.": "施放{spell:18960}。去见{area:2361}的{npc:11802}之前，先在湖西北岸的{area:2362}把两半坠饰合起来。{npc:11802}在他那栋楼的楼上：从里面上楼，箭头分不清楼层。",
    "Take {quest:31} from {npc:11802}, who stands upstairs in his building. Then {npc:11798} in {area:2361} flies druids to {area:1638}: {npc:3033} is on {area:1639}.": "从楼上的{npc:11802}处接{quest:31}。然后{area:2361}的{npc:11798}会把德鲁伊飞到{area:1638}：{npc:3033}在{area:1639}。",
-   "The middle of {zone:1454}": "{zone:1454}中部"
+   "The middle of {zone:1454}": "{zone:1454}中部",
+   "{zone:1454} flight master": "{zone:1454}的飞行管理员"
   },
   "forever/horde/07-ashenvale": {
    "{npc:210995} walks around the {area:1276}: the map marks where to look": "{npc:210995}在{area:1276}一带走动：地图上标了该找的位置",
@@ -423,7 +461,9 @@
    "{area:485}, down into {zone:1441}": "{area:485}，下去进入{zone:1441}",
    "{area:484}'s lift": "{area:484}的升降机",
    "Short of 28.9? The Grimtotem around these camps (25-28) are the right level: kill a few more before the climb to {npc:10646}. Past it, this step skips itself. Or, with a group, run the {area:2797} dungeon or the {area:1717} dungeon instead.": "不到28.9级？这些营地周围的恐怖图腾（25-28级）等级正合适：爬上去找{npc:10646}之前再杀几个。过了这一步，这段会自动跳过。或者组队去刷{area:2797}副本或{area:1717}副本。",
-   "grind on {npc:10759}": "刷{npc:10759}"
+   "grind on {npc:10759}": "刷{npc:10759}",
+   "{npc:2986} stands on a mesa top east of the Galak camps. Taking his {quest:1149} puts you on a high cliff far to the west: follow the stone path to the end of the wooden planks and step off there, and you land safely. Jump from anywhere else and you fall to your death.": "{npc:2986}站在加拉克营地以东的台地顶上。接了他的{quest:1149}会把你送到西边远处的高崖：沿石路走到木板的尽头，从那里迈出去就能安全落地。从别处跳会摔死。",
+   "the end of the planks": "木板的尽头"
   },
   "forever/horde/30-40/01-hillsbrad-foothills": {
    "{npc:5901}: your {item:6637}, for the brazier": "{npc:5901}：你的{item:6637}，用于火盆",
@@ -441,7 +481,12 @@
    "The Kegs of Shindigger Stout stand in the cellar of {area:290}, the dwarven keep south-east of {area:271}, beside {npc:2304} (32); every dwarf there is elite (28-32).": "仙迪格烈酒桶放在{area:290}的地窖里——那是{area:271}东南的矮人要塞——在{npc:2304}（32级）旁边；那里的每个矮人都是精英（28-32级）。",
    "Head east out of {area:272} through {area:1057} and follow the road east. The Boulderfist Ogres and Enforcers (32-34) camp south of the road, south of {area:313}; the Enforcers stay in the cave there.": "从{area:272}向东穿过{area:1057}，沿路向东。石拳食人魔和执行者（32-34级）在路南、{area:313}以南扎营；执行者待在那里的洞里。",
    "The orc stronghold at the eastern end of the road. {npc:2851}, the wind rider master, stands by the gate.\n{npc:15126} offers the {quest:8263} only once you are Friendly with the Defilers ({zone:1461}): skip it if he doesn't offer it.": "道路东端的兽人要塞。驭风者管理员{npc:2851}站在门口。\n只有你和污染者（{zone:1461}）声望达到友善，{npc:15126}才会给{quest:8263}：他不给就跳过。",
-   "South of Hammerfall, the Witherbark trolls hold the village in the hills. Axe Throwers guard the outer huts; the Witch Doctors and Headhunters hold the heart of the village. Careful: All three troll types flee for help at 15% health, which can pull more trolls from the nearby camps.": "在落锤镇以南，枯木巨魔占据着丘陵里的村子。掷斧手守着外围的棚屋；巫医和猎头者守着村子的中心。注意：这三种巨魔血量降到15%都会逃跑求援，可能拉来附近营地的更多巨魔。"
+   "South of Hammerfall, the Witherbark trolls hold the village in the hills. Axe Throwers guard the outer huts; the Witch Doctors and Headhunters hold the heart of the village. Careful: All three troll types flee for help at 15% health, which can pull more trolls from the nearby camps.": "在落锤镇以南，枯木巨魔占据着丘陵里的村子。掷斧手守着外围的棚屋；巫医和猎头者守着村子的中心。注意：这三种巨魔血量降到15%都会逃跑求援，可能拉来附近营地的更多巨魔。",
+   "South-east of Tarren Mill. Drull and {npc:2238} are chained in the keep's courtyard buildings, and each lock needs its key: {npc:2427} carries the {item:3467} for Drull's, {npc:2428} the {item:3499} for {npc:2238}'s, both in the keep. Kill them first, then open both locks.": "在塔伦米尔东南。德鲁尔和{npc:2238}被锁在城堡的院落建筑里，每把锁都要钥匙：{npc:2427}带着德鲁尔那把锁的{item:3467}，{npc:2428}带着{npc:2238}那把锁的{item:3499}，两人都在城堡里。先杀他们，再开两把锁。",
+   "{item:3467}, from {npc:2427}": "{item:3467}，从{npc:2427}身上拿",
+   "{item:3499}, from {npc:2428}": "{item:3499}，从{npc:2428}身上拿",
+   "West across the foothills to {area:287} town: the smithy stands in the middle of it. {npc:2404} and his apprentices work at the forge; the {object:1736} is stacked beside it. {npc:2449} walks the west side of the town; {npc:2451} works the field south-east of the town.": "向西穿过丘陵到{area:287}镇：铁匠铺在镇中央。{npc:2404}和他的学徒在炉旁干活；{object:1736}就堆在旁边。{npc:2449}在镇西侧走动；{npc:2451}在镇东南的田里干活。",
+   "{npc:2449}, on the west side of the town": "{npc:2449}，在镇的西侧"
   },
   "forever/horde/30-40/02-thousand-needles": {
    "{npc:4452}: his parts order goes to {quest:1111} in {area:392}, later on the route": "{npc:4452}：他的零件订单要送给{area:392}的{quest:1111}，在后面的路线上",
@@ -474,7 +519,8 @@
    "Darkmist cavern": "暗雾洞穴",
    "grind on {npc:4377}": "刷{npc:4377}",
    "Head east to {area:602}. With the {quest:5381} from {npc:11624} in your bags, open a demon portal's ring: a {npc:11937} (38-39) comes out; kill it to close that portal. Six portals. Careful: Infernals, Doomguards and Burning Blade Summoners walk close by many portals and may join in; kill nearby mobs first or drag the guardian away, for example toward the coven's central lake.": "向东到{area:602}。包里带着{npc:11624}给的{quest:5381}时，打开恶魔传送门的法阵：会出来一个{npc:11937}（38-39级）；杀掉它就能关上那个传送门。一共六个门。注意：地狱火、末日守卫和燃烧之刃召唤者常在多个门附近走动，可能加入战斗；先清掉附近的怪，或者把守卫往别处拉，比如拉向集会的中央湖。",
-   "{npc:3412}'s workshop is in the {object:172958} beside {npc:4485}: hand in {quest:2841} if you ran {area:133}.": "{npc:3412}的工坊在{npc:4485}旁的{object:172958}里：如果你跑过{area:133}，就在这里交{quest:2841}。"
+   "{npc:3412}'s workshop is in the {object:172958} beside {npc:4485}: hand in {quest:2841} if you ran {area:133}.": "{npc:3412}的工坊在{npc:4485}旁的{object:172958}里：如果你跑过{area:133}，就在这里交{quest:2841}。",
+   "Every Darkfang spider drops them: Lurkers, Spiders, Venomspitters and the Giant Darkfang Spiders": "每种暗牙蜘蛛都掉：潜伏者、蜘蛛、吐毒者和巨型暗牙蜘蛛"
   },
   "forever/horde/30-40/05-arathi-highlands": {
    "Find where {quest:503} is held, on the top floor": "到顶层找到关着{quest:503}的地方",
@@ -523,7 +569,8 @@
    "Ride south from {area:1446} into the Cauldron: the Dark Iron Taskmasters and Slavers drive the slaves on the paths, and the Heavy War Golems patrol the floor below {npc:8479}.": "从{area:1446}向南骑进大锅炉：黑铁工头和奴隶主在小路上驱赶奴隶，重型战争傀儡在{npc:8479}下方的底部巡逻。",
    "{npc:8479} stands alone south of {area:1446}, at the edge of the Cauldron. Listen to his story.": "{npc:8479}独自站在{area:1446}以南、大锅炉的边缘。听完他的故事。",
    "Heavy War Golems patrol the Cauldron below {npc:8479} and drop the oil; the Magma and Blazing Elementals drifting among them drop the hearts. The Dark Iron Taskmasters and Slavers drive the slaves on the paths; a Slaver may drop the {item:11818}: keep it.\nThe Greater Lava Spiders roam the plateaus and lava pools in the south-west of the gorge.\n{area:1443} opens in the north of the Cauldron. Incendosaurs swim in its lava pools: pull them to the edge. The secret plans lie on the pit's upper ledge.\nCareful: Dark Iron Slavers (level 45-46) call for help from allies within 15 yd when pulled, cast Net from up to 15 yd, and use Rend in melee.": "重型战争傀儡在{npc:8479}下方的大锅炉巡逻，掉油；在它们中间飘荡的岩浆元素和烈焰元素掉心。黑铁工头和奴隶主在小路上驱赶奴隶；奴隶主可能掉{item:11818}：留着。\n巨型熔岩蜘蛛在峡谷西南的高地和熔岩池游荡。\n{area:1443}在大锅炉北边开口。焚化者龙在它的熔岩池里游动：把它们拉到边缘打。秘密计划在坑的上层台地上。\n注意：黑铁奴隶主（45-46级）被拉时会呼叫15码内的同伴，能从15码外撒网，近战时还会用撕裂。",
-   "Ride back north to {area:1446}, just past {npc:8479}.": "向北骑回{area:1446}，就在{npc:8479}过去一点。"
+   "Ride back north to {area:1446}, just past {npc:8479}.": "向北骑回{area:1446}，就在{npc:8479}过去一点。",
+   "OOX-17/TN": "OOX-17/TN"
   },
   "forever/horde/40-50/05-the-hinterlands": {
    "The big turtles crawl along the beaches north of the village, and {npc:2491}'s bottles of port lie on the same beaches, from the village up to the {area:307}: pick them up as you go. A snapjaw can drop OOX-09/HL's distress beacon, rarely: keep it.": "大乌龟在村子以北的海滩上爬行，{npc:2491}的波特酒瓶就在同一片海滩上，从村子一直到{area:307}：边走边捡。硬颚鳄鱼很少掉 OOX-09/HL 的遇险信标：留着。",
@@ -531,12 +578,14 @@
    "The ghostly orc stands by the road where the swamp meets the canyon into the {zone:1419}. Listen to his story.": "幽灵兽人站在沼泽与通往{zone:1419}的峡谷相接处的路边。听完他的故事。",
    "for {npc:7623} in {area:75}, after the {zone:1419}": "给{area:75}的{npc:7623}，{zone:1419}之后",
    "Ride back north through the canyon to {area:75}.": "向北穿过峡谷骑回{area:75}。",
-   "{npc:7643}'s The {npc:950} is a level 55 quest: leave it.": "{npc:7643}的{npc:950}是55级任务：放着别做。"
+   "{npc:7643}'s The {npc:950} is a level 55 quest: leave it.": "{npc:7643}的{npc:950}是55级任务：放着别做。",
+   "OOX-09/HL": "OOX-09/HL"
   },
   "forever/horde/40-50/06-azshara": {
    "{npc:2491}, in the inn": "{npc:2491}，在旅店里",
    "{npc:2487}, on the balcony of the same building": "{npc:2487}，在同一栋楼的阳台上",
-   "South of Booty Bay, three Bloodsail ships lie off the {area:43}: {npc:2550}, {npc:2548} and {npc:2546} each stand on a deck with their crews. Swim out and work from ship to ship.": "在藏宝海湾以南，三艘血帆海盗船停在{area:43}外的海面上：{npc:2550}、{npc:2548}和{npc:2546}各带船员站在一层甲板上。游过去，一艘一艘清。"
+   "South of Booty Bay, three Bloodsail ships lie off the {area:43}: {npc:2550}, {npc:2548} and {npc:2546} each stand on a deck with their crews. Swim out and work from ship to ship.": "在藏宝海湾以南，三艘血帆海盗船停在{area:43}外的海面上：{npc:2550}、{npc:2548}和{npc:2546}各带船员站在一层甲板上。游过去，一艘一艘清。",
+   "The {object:142071}": "{object:142071}"
   },
   "forever/horde/50-60/01-un-goro-crater": {
    "the wooden sign beside {npc:9997}, by the flight master: the pterrordax are on this guide's ground": "飞行管理员旁{npc:9997}身边的木牌：翼手龙就在本指南的范围里",
@@ -633,7 +682,8 @@
    "Take your weapon from {npc:205729}: the {item:277988} or the {item:278002}.": "从{npc:205729}那里领取武器：{item:277988}或{item:278002}。"
   },
   "forever/reputation/argent-dawn": {
-   "The Plaguelands quests pay in full at 60 from level 55 up and never stop counting, about 1,500 in all; the leveling guides walk them. The cauldron chain from {npc:11053} at {area:3197} (Horde: {npc:11055} at the {area:152}): 150 per cauldron with its return, then Mission Accomplished! 200. Alas, Andorhal 150 ({npc:1852}, elite). At {area:2268}, {npc:11063}'s {area:2262} quests (Brother Carlin 50 from Chromie in Andorhal, Villains of Darrowshire 100, Marauders of Darrowshire 100) and {npc:10926}'s Hidden Treasures 200 at the end of the {area:2262} story; {npc:12250} 75 from {npc:11038}. After Mission Accomplished!, each cauldron takes a repeatable delivery: 25 reputation every time, until Exalted. {npc:11056} at {area:3197} (Horde: {npc:11057} at the {area:152}) gives you a {item:13370}, without which the reagents never drop, and sells Arcane Quickeners for 50 silver (one per delivery; it crumbles after 30 minutes, so buy it last). Each delivery also takes 4 {item:14047}. Farm {area:201}: its ghosts drop an {item:13354} about one time in four, so about 16 kills fill a delivery; the other cauldrons want 5 or 6 reagents that drop one time in ten or less. Once the Plaguelands Scourge stop counting, this earns about four times what their Scourgestones alone do.": "瘟疫之地的任务从55级起在60级足额给分，而且一直计入，总共约1,500点；练级指南会走过它们。{area:3197}的{npc:11053}（部落：{area:152}的{npc:11055}）的大锅任务链：每口大锅连同交回给150点，然后是“任务完成！”200点。“唉，安多哈尔”150点（{npc:1852}，精英）。在{area:2268}，{npc:11063}的{area:2262}任务（从安多哈尔的克罗米处接的“卡林修士”50点、“达隆郡的恶徒”100点、“达隆郡的掠夺者”100点）和{area:2262}故事结尾{npc:10926}的“隐藏的宝藏”200点；{npc:11038}处的{npc:12250} 75点。“任务完成！”之后，每口大锅接受一次可重复交付：每次25点声望，直到崇拜。{area:3197}的{npc:11056}（部落：{area:152}的{npc:11057}）会给你一个{item:13370}，没有它材料就不会掉，他还卖50银的奥术快速剂（每次交付一瓶；30分钟后失效，所以最后再买）。每次交付还要4块{item:14047}。刷{area:201}：那里的幽灵大约四次掉一个{item:13354}，所以约16次击杀就够一次交付；其他大锅要5或6个材料，掉率十分之一或更低。瘟疫之地的天灾怪停止计分之后，这条路线的收益大约是只交天灾石的四倍。"
+   "The Plaguelands quests pay in full at 60 from level 55 up and never stop counting, about 1,500 in all; the leveling guides walk them. The cauldron chain from {npc:11053} at {area:3197} (Horde: {npc:11055} at the {area:152}): 150 per cauldron with its return, then Mission Accomplished! 200. Alas, Andorhal 150 ({npc:1852}, elite). At {area:2268}, {npc:11063}'s {area:2262} quests (Brother Carlin 50 from Chromie in Andorhal, Villains of Darrowshire 100, Marauders of Darrowshire 100) and {npc:10926}'s Hidden Treasures 200 at the end of the {area:2262} story; {npc:12250} 75 from {npc:11038}. After Mission Accomplished!, each cauldron takes a repeatable delivery: 25 reputation every time, until Exalted. {npc:11056} at {area:3197} (Horde: {npc:11057} at the {area:152}) gives you a {item:13370}, without which the reagents never drop, and sells Arcane Quickeners for 50 silver (one per delivery; it crumbles after 30 minutes, so buy it last). Each delivery also takes 4 {item:14047}. Farm {area:201}: its ghosts drop an {item:13354} about one time in four, so about 16 kills fill a delivery; the other cauldrons want 5 or 6 reagents that drop one time in ten or less. Once the Plaguelands Scourge stop counting, this earns about four times what their Scourgestones alone do.": "瘟疫之地的任务从55级起在60级足额给分，而且一直计入，总共约1,500点；练级指南会走过它们。{area:3197}的{npc:11053}（部落：{area:152}的{npc:11055}）的大锅任务链：每口大锅连同交回给150点，然后是“任务完成！”200点。“唉，安多哈尔”150点（{npc:1852}，精英）。在{area:2268}，{npc:11063}的{area:2262}任务（从安多哈尔的克罗米处接的“卡林修士”50点、“达隆郡的恶徒”100点、“达隆郡的掠夺者”100点）和{area:2262}故事结尾{npc:10926}的“隐藏的宝藏”200点；{npc:11038}处的{npc:12250} 75点。“任务完成！”之后，每口大锅接受一次可重复交付：每次25点声望，直到崇拜。{area:3197}的{npc:11056}（部落：{area:152}的{npc:11057}）会给你一个{item:13370}，没有它材料就不会掉，他还卖50银的奥术快速剂（每次交付一瓶；30分钟后失效，所以最后再买）。每次交付还要4块{item:14047}。刷{area:201}：那里的幽灵大约四次掉一个{item:13354}，所以约16次击杀就够一次交付；其他大锅要5或6个材料，掉率十分之一或更低。瘟疫之地的天灾怪停止计分之后，这条路线的收益大约是只交天灾石的四倍。",
+   "the {object:176245}: burn it, Scarlet side": "{object:176245}：烧掉它，血色十字军一侧"
   },
   "forever/reputation/cenarion-circle": {
    "The {faction:609}'s other quests are spread over {zone:1414} and the Plaguelands. Forever pays them in full at any level: The Wildlife Suffers Too ({npc:10739}, {zone:1422}, levels 54 and 56) 75 and 75, Corruption of Earth and Seed ({area:2100}, level 51) 150. Shards of the Felvine ({quest:1123}, level 60, the {item:18501} from Alzzin in {area:2577}) pays 150 and its Reliquary 100 at any level.": "{faction:609}的其他任务分布在{zone:1414}和瘟疫之地。Forever 里任何等级都足额给分：《野生动物也受苦》（{npc:10739}，{zone:1422}，54级和56级）75和75，《大地与种子的腐化》（{area:2100}，51级）150。《恶魔藤蔓的碎片》（{quest:1123}，60级，{item:18501}来自{area:2577}的阿兹辛）给150，它的圣物箱任务任何等级再给100。"
@@ -717,7 +767,10 @@
    "Optional: the {area:717} is {faction:72}'s prison, a dungeon in the canals of the {object:2101}. At 60 you clear it alone in ten minutes: 300 reputation. {npc:1719} stands at the gate, {npc:1721} in {object:2100}. Two more {area:717} quests start outside the city, 100 each, if you pass by: What Comes Around... ({npc:1696}) from {npc:859} in {area:69} and Crime and Punishment ({npc:1663}) from {npc:270} in {area:42}. (The Stockade Riots, 100 more, needs the Unsent Letter from {npc:639} in the {area:1581} first.) Forever pays these old quests in full at any level. Skip this step to skip the hub.": "可选：{area:717}是{faction:72}的监狱，{object:2101}运河里的副本。60级单人十分钟就能清完：300点声望。{npc:1719}站在门口，{npc:1721}在{object:2100}。城外还有两个{area:717}任务，各100点，路过时顺带：{area:69}的{npc:859}给的“因果循环……”（{npc:1696}）和{area:42}的{npc:270}给的“罪与罚”（{npc:1663}）。（“监狱暴动”再多100点，得先从{area:1581}的{npc:639}拿到未寄出的信。）Forever 里这些旧任务任何等级都足额给分。跳过这一步就跳过这个点。",
    "These quests are level 52 to 58, so they pay in full at 60. {npc:10838} and {npc:11053} at {area:3197}, in the south of the {zone:1422}, send you against the four Scourge cauldrons: 820 {faction:72} reputation in all and 600 {object:92525} on the side. The Skeletal Flayers and Slavering Ghouls roam the fields north of the camp.": "这些任务是52到58级，所以60级足额给。{zone:1422}南部{area:3197}的{npc:10838}和{npc:11053}派你去对付四口天灾大锅：总共820点{faction:72}声望，另有600点{object:92525}。骷髅撕掠者和流涎食尸鬼在营地北面的田野游荡。",
    "{npc:9562} at {area:2418}, in the south-east of the {zone:1428}, starts {quest:4183}: a chain to {area:69} and {object:2117}, 175 {faction:72} and 175 {zone:1457} reputation (level 54). The Black Broodlings and the {npc:7044} live on the slopes north of the Vigil; the {npc:7040} and {npc:7041} west of it, in the middle of the zone.": "{zone:1428}东南{area:2418}的{npc:9562}开启{quest:4183}：一条通向{area:69}和{object:2117}的任务链，175点{faction:72}和175点{zone:1457}声望（54级）。黑色雏龙和{npc:7044}住在守夜营地以北的山坡上；{npc:7040}和{npc:7041}在它以西、区域中部。",
-   "{quest:7796}: 50 reputation for 20 {item:14047}, as often as you like. After the four first donations a non-Human stands at Friendly 700 of 6,000, so Honored is 5,300 away: 106 turn-ins, 2,120 {item:14047} (Humans start 900 higher: 88 turn-ins; a Skyborne's Exploring the Alliance paid 100, two fewer). The level 52-58 quests above take 23 turn-ins off; every Elwynn hub you did takes 20 to 30 more off. More quest hubs pay {faction:72}, in full while they are no more than 5 levels below you: {zone:1436} (about 2,500 in all), Redridge's {area:69} (about 3,000) and {zone:1431}'s {area:42} (about 2,900). Every city gain also gives a quarter as much to the other three Alliance cities (not counted here). Hand in all your {item:14047} at once.": "{quest:7796}：20块{item:14047}换50点声望，可重复。前四次捐赠之后，非人类处在友善 700/6,000，离崇敬还差5,300：106次交付，2,120块{item:14047}（人类起点高900：88次；空裔的“探索联盟”已经给了100，少两次）。上面52-58级的任务能减掉23次；你每做过一个艾尔文任务点再减20到30次。还有更多任务点给{faction:72}，只要等级差不低于5级就足额：{zone:1436}（共约2,500）、赤脊山的{area:69}（约3,000）和{zone:1431}的{area:42}（约2,900）。每次城市声望收益还会给另外三个联盟城市四分之一（此处不计）。把所有{item:14047}一次交清。"
+   "{quest:7796}: 50 reputation for 20 {item:14047}, as often as you like. After the four first donations a non-Human stands at Friendly 700 of 6,000, so Honored is 5,300 away: 106 turn-ins, 2,120 {item:14047} (Humans start 900 higher: 88 turn-ins; a Skyborne's Exploring the Alliance paid 100, two fewer). The level 52-58 quests above take 23 turn-ins off; every Elwynn hub you did takes 20 to 30 more off. More quest hubs pay {faction:72}, in full while they are no more than 5 levels below you: {zone:1436} (about 2,500 in all), Redridge's {area:69} (about 3,000) and {zone:1431}'s {area:42} (about 2,900). Every city gain also gives a quarter as much to the other three Alliance cities (not counted here). Hand in all your {item:14047} at once.": "{quest:7796}：20块{item:14047}换50点声望，可重复。前四次捐赠之后，非人类处在友善 700/6,000，离崇敬还差5,300：106次交付，2,120块{item:14047}（人类起点高900：88次；空裔的“探索联盟”已经给了100，少两次）。上面52-58级的任务能减掉23次；你每做过一个艾尔文任务点再减20到30次。还有更多任务点给{faction:72}，只要等级差不低于5级就足额：{zone:1436}（共约2,500）、赤脊山的{area:69}（约3,000）和{zone:1431}的{area:42}（约2,900）。每次城市声望收益还会给另外三个联盟城市四分之一（此处不计）。把所有{item:14047}一次交清。",
+   "Northshire: the {quest:91741}": "北郡：{quest:91741}",
+   "Right-click the {quest:91741} a kobold dropped: it starts its quest.": "右键点击狗头人掉落的{quest:91741}：它会开启对应任务。",
+   "Northshire: {npc:951}'s books": "北郡：{npc:951}的书"
   },
   "forever/reputation/thorium-brotherhood": {
    "{area:1446} is the scaffolded camp on the north-west rim of the Cauldron, with a flight point. Everyone starts Neutral with the Brotherhood. These seven quests (level 48 to 50) pay 100 reputation each: 700 in all, 800 with the pillow below. Forever pays them in full at any level. {npc:14624}'s {quest:7722} also opens his {item:18942} turn-ins, so it is needed at any level. The numbers in this guide leave out the Legacy perk Diplomat, which adds up to 10%.": "{area:1446}是大锅炉西北缘上搭脚手架的营地，有飞行点。所有人对兄弟会都从中立开始。这七个任务（48到50级）各给100点声望：共700，加上下面的枕头是800。Forever 里任何等级都足额给分。{npc:14624}的{quest:7722}还会开放他的{item:18942}交付，所以任何等级都需要做。本指南的数字不含 Legacy 的“外交官”天赋，它最多再加10%。"
@@ -737,7 +790,9 @@
    "{quest:3804} takes 10 {item:11040} for 50, as often as you like, and pays in full at 60, but it is slow: the {item:11020} grows one casing every 10 minutes and a casing holds about one {item:11040} on average, so each hand-in takes about 90 minutes of waiting, 18 {quest:3761} and 9 seed packets (90 silver). It runs beside whatever else you do: a little over 30 reputation an hour. The chain before it is level 50. {npc:6746} sends you to {npc:5769} on {area:1639}; he wants 20 {quest:3761}.": "{quest:3804}收10个{item:11040}给50点，可重复，60级足额给，但很慢：{item:11020}每10分钟长一个荚，一个荚平均装约一个{item:11040}，所以每次交付要等约90分钟、18个{quest:3761}和9包种子（90银）。可以和你做别的事并行：一小时三十多点声望。它前面的任务链是50级。{npc:6746}把你派去{area:1639}的{npc:5769}；他要20个{quest:3761}。"
   },
   "forever/reputation/timbermaw-hold": {
-   "The Deadwood furbolgs (level 48-50) hold the village at the south end of {zone:1448}. Keep every {item:21377}: they are worth 10 reputation each later and never stop counting. {npc:9464} (15 reputation) and the rare {npc:14342} (25) live here and count until Exalted. Forever pays quests in full at any level; in Classic grey mobs gave about a fifth, about 1 a kill for these furbolgs at 60. Do it while leveling if you can.": "死木熊怪（48-50级）占据着{zone:1448}南端的村子。{item:21377}全部留着：以后每个值10点声望，而且一直计入。{npc:9464}（15点声望）和稀有的{npc:14342}（25点）住在这里，一直算到崇拜。Forever 里任务任何等级都足额给分；经典版里灰色怪只给约五分之一，60级时这些熊怪每只约1点。能练级时做就练级时做。"
+   "The Deadwood furbolgs (level 48-50) hold the village at the south end of {zone:1448}. Keep every {item:21377}: they are worth 10 reputation each later and never stop counting. {npc:9464} (15 reputation) and the rare {npc:14342} (25) live here and count until Exalted. Forever pays quests in full at any level; in Classic grey mobs gave about a fifth, about 1 a kill for these furbolgs at 60. Do it while leveling if you can.": "死木熊怪（48-50级）占据着{zone:1448}南端的村子。{item:21377}全部留着：以后每个值10点声望，而且一直计入。{npc:9464}（15点声望）和稀有的{npc:14342}（25点）住在这里，一直算到崇拜。Forever 里任务任何等级都足额给分；经典版里灰色怪只给约五分之一，60级时这些熊怪每只约1点。能练级时做就练级时做。",
+   "{npc:11558}: the Deadwood totem": "{npc:11558}：死木图腾",
+   "{npc:11558}: the Winterfall totem": "{npc:11558}：冬泉图腾"
   },
   "forever/reputation/undercity": {
    "Forever pays these old quests in full at any level. {area:154}, the Forsaken start at the west end of Tirisfal: about 900 {faction:68} reputation in 25 minutes. Starting-zone quests give the other cities no share. {npc:1661}, {npc:1570} and {npc:1740} stand in the village.": "Forever 里这些旧任务任何等级都足额给分。{area:154}，提瑞斯法西端的被遗忘者新手村：25分钟约900点{faction:68}声望。新手区任务不分给其他城市。{npc:1661}、{npc:1570}和{npc:1740}站在村里。",
@@ -755,11 +810,84 @@
   },
   "forever/alliance/40-50/01b-riverglades": {
    "the {object:645166} poster": "{object:645166}",
-   "the {object:707245} poster": "{object:707245}"
+   "the {object:707245} poster": "{object:707245}",
+   "{object:621813}, west of Elbrim's farm: each grave takes one of the {item:266148} the Twilight Raiders drop, so loot five first": "{object:621813}，在埃尔布里姆农场西边：每座坟墓要一个暮光掠夺者掉落的{item:266148}，先打满五个"
+  },
+  "forever/class/paladin/verigans-fist": {
+   "The north end of the {area:414}": "{area:414}的北端",
+   "The naga's flooded ruins lie just past the north end of the {area:414}, south of {zone:1439} along the coast. The arrow cannot find its own way down into them, so it leads you to the water's edge first: from there swim north into the ruins.": "纳迦的水淹废墟就在{area:414}北端过去一点，沿海岸在{zone:1439}以南。箭头找不到下去的路，所以先把你带到水边：从那里向北游进废墟。"
+  },
+  "forever/collectibles/pets/mechanical-chicken": {
+   "OOX-22/FE's beacon": "OOX-22/FE 的信标",
+   "Right-click the beacon: it starts {quest:2766}": "右键点击信标：开启{quest:2766}",
+   "OOX-22/FE sits in a cave near {area:1105}, among yetis and apes. Its escort runs west along the road to the dock on the {area:1108} with three ambushes: three yetis, then three gorillas, then four or five gnolls with a caster. Bring a friend if you are under 47. The robot keeps walking unless it is hit, so stay close; if it will not move, another player has it: wait for it to come back. Its turn-in is in {area:35}; keep the quest for later.": "OOX-22/FE 在{area:1105}附近的洞穴里，周围是雪人和猩猩。护送沿路向西到{area:1108}的码头，途中三波伏击：三个雪人，然后三只猩猩，最后四五个豺狼人加一个法系。47 级以下带个同伴。机器人不被打就不会停，跟紧点；它不动了就是别人接了，等它回来。任务交在{area:35}，先留着。",
+   "OOX-17/TN's beacon": "OOX-17/TN 的信标",
+   "Right-click the beacon: it starts {quest:351}": "右键点击信标：开启{quest:351}",
+   "OOX-09/HL's beacon": "OOX-09/HL 的信标",
+   "Right-click the beacon: it starts {quest:485}": "右键点击信标：开启{quest:485}"
+  },
+  "forever/horde/40-50/01b-riverglades": {
+   "{npc:263190}'s spears, on the Freshwater Crocolisks in the river": "{npc:263190}的长矛，在河里的淡水鳄身上"
+  },
+  "forever/horde/undead/01-tirisfal-glades": {
+   "The cellar stairs": "地窖楼梯",
+   "The {npc:1931} is in the cellar under the inn's north end. The stairs down start at the west side of that end: go down them, then turn east to him.": "{npc:1931}在旅店北端下面的地窖里。下去的楼梯在那个端头的西侧：下楼梯后向东转就到他那儿。",
+   "Back up from the cellar: {npc:2128} (mages), {npc:2129} (priests), {npc:2127} (warlocks) and {npc:2130} (rogues) are upstairs, {npc:2131} (warriors) on the ground floor; take the stairs inside, the arrow cannot tell the floors apart.": "从地窖上来：{npc:2128}（法师）、{npc:2129}（牧师）、{npc:2127}（术士）和{npc:2130}（盗贼）在楼上，{npc:2131}（战士）在一楼；走室内的楼梯，箭头分不清楼层。"
+  },
+  "forever/miscellaneous/the-drowned-city-alliance": {
+   "{area:16550} (Alliance)": "{area:16550}（联盟）",
+   "Every Alliance quest of the {area:16550} in one run, lead-ins included.": "一趟做完{area:16550}的全部联盟任务，包括前置。",
+   "At the {area:99} in northern Stranglethorn.": "在荆棘谷北部的{area:99}。",
+   "South-east of the {area:99}. The medicine men, headshrinkers and witch doctors drop the remedies; the {item:2634} is in the {object:263}.": "在{area:99}东南。巫医、缩头者和巫毒医师掉解药；{item:2634}在{object:263}里。",
+   "{item:2008}, west of the {area:99} in the {area:102}, on the hill in the north-west.": "{item:2008}，在{area:99}以西的{area:102}，西北边的山丘上。",
+   "{item:2007}, a little south-west in the same ruins.": "{item:2007}，同一片废墟里稍偏西南。",
+   "{item:2006}, further south: the tablet lies on the sea floor of the {area:104}. Mind your breath.": "{item:2006}，再往南：石板在{area:104}的海底。注意呼吸。",
+   "{item:2005}, in the {area:123} north-east of the reef.": "{item:2005}，在暗礁东北的{area:123}。",
+   "The Skullsplitter mystics (level 39 to 40) and witch doctors (41 to 42) in the middle of Stranglethorn drop the fetishes.": "荆棘谷中部的碎颅者秘法师（39-40 级）和巫毒医师（41-42 级）掉护符。",
+   "In {area:271}.": "在{area:271}。",
+   "In {area:279}. He gives this from level 34.": "在{area:279}。34 级起他会给这个任务。",
+   "In {area:35}. Both factions take his two quests, from level 34.": "在{area:35}。两个阵营都能接他的两个任务，34 级起。",
+   "To the {area:16550}": "前往{area:16550}",
+   "A dungeon for five players of level 35 to 42. Meet your group at its entrance in {area:17853}, under the {area:104}: due west of {object:3202} and south-west of the reef's tablet. {object:3202} is the Horde's camp: keep clear of its guards. Water breathing helps.": "五人副本，适合 35-42 级。在{area:17853}、{area:104}下方的入口集合：{object:3202}正西、暗礁石碑西南。{object:3202}是部落营地，避开卫兵。带水下呼吸会有帮助。",
+   "I'lalai Fetishes": "伊拉莱护符",
+   "Risen Sentries, Profane Necromancers and Undying Offerings drop them.": "复生哨兵、亵渎死灵法师和不灭祭品会掉。",
+   "First tablet": "第一块石板",
+   "Past the Makrura Snappers and Chasm Crawlers waits {npc:258905}, the first boss. The first tablet comes soon after him: click it for the rubbing.": "穿过龙虾人钳咬者和裂隙爬行者，就是第一个首领{npc:258905}。第一块石板就在他后面不远：点击它拿拓片。",
+   "Brinescale Explorers and Sorceresses guard the way to {npc:258924}, the second boss. The second tablet is close to him. No Alliance quest asks for him, but once he is dead, disrupt the barrier close to where he fell; you do it once more after {npc:260042}.": "盐鳞探索者和盐鳞女巫守着通往第二个首领{npc:258924}的路。第二块石板就在他附近。没有联盟任务要求杀他，但他死后要破坏他倒下处附近的结界；打完{npc:260042}后再破坏一次。",
+   "The Saltseer pirates hold his ground: Murderers, Manhunters, Cultists and Coroners, and any of them can drop an artifact. The third tablet is among them, before you reach the captain. After he dies, disrupt the barrier a second time.": "盐海先知的海盗占着这片地方：凶手、猎人、邪教徒和验尸官，任何一个都可能掉神器。第三块石板在他们中间、到船长之前。船长死后，再破坏一次结界。",
+   "One pass through the pirates may give fewer than ten: {npc:773} takes the quest whenever you have them.": "清一遍海盗可能凑不够十个：凑齐了随时可以交给{npc:773}。",
+   "Past the Champions of the Deep, {npc:260202} fights with his guardians. He drops the idol.": "穿过深海勇士，{npc:260202}带着守卫作战。他掉神像。",
+   "The last boss. The fourth tablet is near him, and its rubbing still counts after he dies.": "最后一个首领。第四块石板在他附近，他死后拓片照样算数。",
+   "Once you have the ten artifacts.": "凑齐十件神器后。",
+   "In {area:279}.": "在{area:279}。",
+   "In the {object:32356}.": "在{object:32356}里。"
+  },
+  "forever/miscellaneous/the-drowned-city-horde": {
+   "{area:16550} (Horde)": "{area:16550}（部落）",
+   "Every Horde quest of the {area:16550} in one run, lead-ins included.": "一趟做完{area:16550}的全部部落任务，包括前置。",
+   "The tablet, {object:58}, lies on the sea floor of the {area:104}, west of {object:3202}. Mind your breath.": "石碑{object:58}在{area:104}的海底、{object:3202}以西。注意呼吸。",
+   "In the {area:102}, on the hill north of the {area:104}. Click the tablet for the rubbing.": "在{area:102}、{area:104}以北的山丘上。点击石碑拿拓片。",
+   "The Lost City's entrance": "失落之城的入口",
+   "Brinescale Skirmishers around the {area:104} drop the tridents. The cavern entrance the quest asks for is under the reef, in {area:17853}: due west of {object:3202} and south-west of the reef's tablet.": "{area:104}周围的盐鳞散兵掉三叉戟。任务说的洞穴入口在暗礁下方、{area:17853}：{object:3202}正西、暗礁石碑西南。",
+   "In {area:35}. Both factions take his two quests, from level 34.": "在{area:35}。两个阵营都能接他的两个任务，34 级起。",
+   "Northern {zone:1412}. A long trip, but the idol only drops while his quest is in your log.": "{zone:1412}北部。路很远，但只有他身上带着这个任务时他才会掉神像。",
+   "To the {area:16550}": "前往{area:16550}",
+   "A dungeon for five players of level 35 to 42. Meet your group at its entrance in {area:17853}, under the {area:104}: from the shore west of {object:3202}, swim due west. Water breathing helps.": "五人副本，适合 35-42 级。在{area:17853}、{area:104}下方的入口集合：从{object:3202}以西的岸边正西游过去。带水下呼吸会有帮助。",
+   "First tablet": "第一块石板",
+   "Past the Makrura Snappers and Chasm Crawlers waits {npc:258905}, the first boss. The first tablet comes soon after him: click it for the rubbing.": "穿过龙虾人钳咬者和裂隙爬行者，就是第一个首领{npc:258905}。第一块石板就在他后面不远：点击它拿拓片。",
+   "Brinescale Explorers and Sorceresses guard the way to {npc:258924}, the second boss. The second tablet is close to him. Once he is dead, disrupt the barrier close to where he fell; you do it once more after {npc:260042}.": "盐鳞探索者和盐鳞女巫守着通往第二个首领{npc:258924}的路。第二块石板就在他附近。他死后要破坏他倒下处附近的结界；打完{npc:260042}后再破坏一次。",
+   "The Saltseer pirates hold his ground: Murderers, Manhunters, Cultists and Coroners, and any of them can drop an artifact. The third tablet is among them, before you reach the captain. After he dies, disrupt the barrier a second time.": "盐海先知的海盗占着这片地方：凶手、猎人、邪教徒和验尸官，任何一个都可能掉神器。第三块石板在他们中间、到船长之前。船长死后，再破坏一次结界。",
+   "One pass through the pirates may give fewer than ten: {npc:773} takes the quest whenever you have them.": "清一遍海盗可能凑不够十个：凑齐了随时可以交给{npc:773}。",
+   "Past the Champions of the Deep, {npc:260202} fights with his guardians. He drops the idol.": "穿过深海勇士，{npc:260202}带着守卫作战。他掉神像。",
+   "The last boss. The fourth tablet is near him, and its rubbing still counts after he dies.": "最后一个首领。第四块石板在他附近，他死后拓片照样算数。",
+   "Once you have the ten artifacts.": "凑齐十件神器后。",
+   "{area:367}, in southern {zone:1411}.": "{area:367}，在{zone:1411}南部。"
   }
  },
  "names": {},
- "pack": {},
+ "pack": {
+  "The Drowned City": "沉没之城"
+ },
  "ui": {
   "Dynamic Questing": "动态任务",
   "Suggests objectives from later steps when you are near them, from your quest log and what is around you. They show under the step in a \"While you're here\" panel: click one to point the arrow there; right-click to dismiss it around here (dismissed twice, it stays away for the zone).": "当你在附近时，会根据任务日志和周围环境，从后续步骤中推荐目标。它们会显示在步骤下方的「顺便完成」面板中：点击某项可让箭头指向那里；右键可忽略附近该项（忽略两次后，本地区内不再显示）。",
