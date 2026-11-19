@@ -348,5 +348,14 @@
  "Spare bag: %s": "备用背包：%s",
  "Polestar quest leftovers": "Polestar 任务遗留项",
  "Related quests completed (likely safe to delete)": "相关任务已完成（一般可以安全删除）",
- "Equip it": "装备它"
+ "Equip it": "装备它",
+ "Hides this line until more quests are off your route.": "把这一行收起，直到又有任务不在你的路线上。",
+ "Perf probe on: Polestar now times its own work. Play as usual, then type /polestar report and paste it.": "性能探针已开启：Polestar 现在会记录自己的耗时。照常游戏，然后输入 /polestar report 并把它粘贴出来。",
+ "The perf probe needs debugprofilestop, which this client does not have.": "性能探针需要 debugprofilestop，这个客户端没有提供。",
+ "Perf probe off. What it measured stays in /polestar report until you reload.": "性能探针已关闭。已记录的数据会留在 /polestar report 里，直到你重载界面。",
+ "Polestar perf report": "Polestar 性能报告",
+ "The perf probe has not run yet: type /polestar perf to start it.": "性能探针还没运行过：输入 /polestar perf 启动它。",
+ "Perf probe: measurements cleared.": "性能探针：记录已清空。",
+ "/polestar perf: on, off, report or reset": "/polestar perf：on 开启、off 关闭、report 报告、reset 清空",
+ "Find what makes your game stutter: times Polestar's own work (on, off, report, reset)": "找出游戏卡顿的原因：统计 Polestar 自身的耗时（on 开启、off 关闭、report 报告、reset 清空）"
 }
