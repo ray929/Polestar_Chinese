@@ -121,15 +121,8 @@ local function nonEmpty(s)
 	return type(s) == "string" and s:find("%S") ~= nil
 end
 
--- Names to show, in the client's language (Nav/Travel.lua: by area and node
--- id), else the data's English. The same as Maps/TravelPins.lua: a transport
--- or portal end names its AreaTable area, which the client translates; the
--- data's own name is English.
 local function placeName(p)
 	if type(p) ~= "table" then return nil end
-	local T = ns.Nav and ns.Nav.travel
-	local name = T and T.PlaceName and T.PlaceName(p)
-	if nonEmpty(name) then return name end
 	if nonEmpty(p.name) then return p.name end
 	local C = ns.Compat
 	local zone = p.map and C and C.GetMapName and C.GetMapName(p.map)
