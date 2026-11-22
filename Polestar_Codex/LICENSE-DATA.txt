@@ -38,7 +38,7 @@ Licence: Blizzard Entertainment game client data; factual map geometry, names, i
 
 Polestar recordings
 -------------------
-Version: 737cdd4a253f21d6
+Version: 6d7e0731b046937b
 Licence: Polestar original work
 
 CMaNGOS classic-db: creature and gameobject spawn heights
@@ -97,17 +97,17 @@ Licence: Facts only (quest and item ids), each entry with its sources
 
 Curated dungeon levels (data/codex/levels.json): in-game checks
 ---------------------------------------------------------------
-Version: 3 dungeons
+Version: 4 dungeons
 Licence: Facts only (levels), each row with its source
 
 Polestar Recorder sessions (data/codex/recorded.json): loot, merchant and quest reward windows, and dungeon entry levels
 ------------------------------------------------------------------------------------------------------------------------
-Version: 8618 sessions of 315 counted players; 3265 NPCs, 711 objects, 994 vendors, 1099 quests, 24 dungeons
+Version: 12469 sessions of 388 counted players; 3610 NPCs, 801 objects, 1030 vendors, 1211 quests, 27 dungeons
 Licence: Polestar's own recordings: CC BY 4.0; facts only, no player data
 
 Polestar Recorder sessions (data/recorded/quests.json): Forever-new quests' prerequisites and objective spots
 -------------------------------------------------------------------------------------------------------------
-Version: 1990 quests
+Version: 2199 quests
 Licence: Facts only (quest ids, levels, positions); counts of players, no player data
 
 Curated Dungeons journal quests (data/codex/journal-quests.json): the web quest database (Forever pages), Polestar Recorder sessions

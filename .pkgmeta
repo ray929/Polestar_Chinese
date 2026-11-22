@@ -9,6 +9,7 @@ ignore:
 # The repository root is the Polestar addon; these sibling folders ship at the
 # root of the zip.  Sources are relative to the package directory (Polestar/).
 move-folders:
+  Polestar/Polestar_Arcade: Polestar_Arcade
   Polestar/Polestar_Codex: Polestar_Codex
   Polestar/Polestar_Experimental: Polestar_Experimental
   Polestar/Polestar_Guides: Polestar_Guides

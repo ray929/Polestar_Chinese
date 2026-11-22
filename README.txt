@@ -1,4 +1,4 @@
-Polestar 0.4.1.1
+Polestar 0.4.2.1
 Leveling guides for World of Warcraft: Forever.
 
 Install

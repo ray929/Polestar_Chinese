@@ -1108,7 +1108,7 @@ R("items", 8187, 13724, [[
 9322	'Undamaged Venom Sac;1;2686;10;0
 9324	'Shadra's Venom;7;2707;100;231980;0;231982;0;231990;0;231991;0;231992;0;231996;0;0
 9326	'Grime-Encrusted Ring;1;6212;35;0
-9330	'Snapshot of Gammerita;1;7977;0;0
+9330	'Snapshot of Gammerita;0;0
 9365	'High Potency Radioactive Fallout;3;6218;0;6219;0;6220;0;0
 9366	'Golden Scale Gauntlets;0;0
 9369	'Iridescent Sprite Darter Wing;2;5278;95;7997;95;0
@@ -2017,7 +2017,7 @@ R("items", 13725, 20513, [[
 20497	'Thunder Bluff Marzipan;1;6746;0;0
 20513	'Abyssal Crest;4;15209;93.9;15307;93.6;15212;93;15211;92.4;0
 ]])
-R("items", 20514, 254842, [[
+R("items", 20514, 254695, [[
 
 20514	'Abyssal Signet;4;15206;85.1;15208;84.6;15207;84.5;15220;83.4;0
 20515	'Abyssal Scepter;4;15305;86.3;15203;86.1;15205;86.1;15204;84.5;0
@@ -2255,7 +2255,7 @@ R("items", 20514, 254842, [[
 22376	'Wartorn Cloth Scrap;8;16168;32.8;16021;31.9;16025;31.2;16018;30.8;16017;30.6;16449;29.9;16446;29.8;16452;29.5;0
 22381	'Silithus Venom Sample;5;11735;30;11736;30;11737;30;11738;30;11739;30;0
 22434	'Bloodcap;0;1;164958;50
-22435	'Gorishi Sting;7;10041;100;10040;30;6551;15;6552;15;6553;15;6554;15;6555;15;0
+22435	'Gorishi Sting;4;10041;100;6551;15;6554;15;6555;15;0
 22444	'Putrid Vine;1;8580;100;0
 22484	'Necrotic Rune;8;14697;92.7;16379;92.5;16143;90.3;16380;89.1;16383;81.4;16141;67.2;16299;66.8;16298;66.3;0
 22520	'The Phylactery of Kel'Thuzad;1;15990;100;0
@@ -2480,6 +2480,8 @@ R("items", 20514, 254842, [[
 248766	'Sealed Journeyman Crate;0;0
 248770	'Sealed Apprentice Crate;0;0
 248771	'Sealed Journeyman Crate;0;0
+249693	'Totem of Ursol;0;0
+249694	'Totem of Ursoc;0;0
 249696	'Tusks of the Unbroken;1;247198;0;0
 249697	'Claws of the Great Bear;1;247195;0;0
 249698	'Feathered Charm Necklace;1;255247;0;0
@@ -2517,11 +2519,11 @@ R("items", 20514, 254842, [[
 254676	'Suspicious Industrial Supplies;0;1;581777;0
 254692	'Staff of Ohk'zi;1;222233;0;0
 254695	'Fel-Tainted Remains;0;0
+]])
+R("items", 254841, 280319, [[
+
 254841	'Petrified Bark;0;1;582187;0
 254842	'Well Cursed Bone;1;253360;0;0
-]])
-R("items", 254871, 280390, [[
-
 254871	'Bloody Note;0;1;617704;0
 254877	'Namida's Hoof;1;222286;0;0
 255007	'Golem Isospring;5;36;0;114;0;115;0;480;0;276061;0;0
@@ -2532,6 +2534,7 @@ R("items", 254871, 280390, [[
 255658	'Al'Aketh Windstone Charm;8;253511;63.1;253195;60;252664;40;252665;40;252762;40;252763;40;252764;40;252765;40;0
 255662	'Mana Sieve;0;1;584729;0
 255875	'Necromantic Garb;1;11559;0;0
+255878	'Tear of Theradras;0;1;587299;0
 255945	'Accursed Skull;0;1;587276;0
 256892	'Stolen Supplies;0;1;602101;0
 257107	'Shriekling Matriarch's Head;1;253283;55;0
@@ -2540,6 +2543,7 @@ R("items", 254871, 280390, [[
 257942	'Vulgara's Head;1;254589;64;0
 257945	'Pilfered Windstone;2;251918;74.8;255534;55;0
 258296	'Vial of Earth Song Water;0;1;612179;0
+258323	'Missing Mail;5;7457;0;7458;0;7459;0;7460;0;10197;0;0
 258530	'Lucky Lure;1;757;0;0
 258735	'Phantasmal Blade;0;0
 258771	'Al'Aketh Cultist's Ear;8;252764;60;252762;42.2;270201;39.4;253511;37.1;252763;35;252767;32.5;253195;32.5;252664;24.8;0
@@ -2888,6 +2892,7 @@ R("items", 254871, 280390, [[
 274045	'Twisted Earth Totem;8;755;0;757;0;759;0;760;0;761;0;762;0;763;0;1106;0;0
 274046	'Twisted Water Totem;6;4358;0;4359;0;4360;0;4361;0;4362;0;4363;0;0
 274047	'Twisted Air Totem;7;4655;80;4654;44;4656;44;4657;27.5;4658;0;4659;0;4704;0;0
+274162	'Venom-dripping Heart;1;264867;0;0
 274268	'Dark Iron Map;2;6123;0;6124;0;0
 274286	'Durgen Dirgehammer's Head;1;261319;100;0
 274287	'Grand Hippogryph Feather;1;249491;0;0
@@ -3017,14 +3022,14 @@ R("items", 254871, 280390, [[
 280181	'Redstone Basilisk Scale;2;5990;0;5991;0;0
 280203	'Jameson's Training Sword;1;4392;0;0
 280319	'Unruptured Stalker Gland;3;1111;0;4040;0;211967;0;0
+]])
+R("items", 280330, 287959, [[
+
 280330	'Carnage's Head;1;271336;0;0
 280331	'Malignant Rotclaw Flesh;1;271334;0;0
 280369	'Dragonmaw Armaments;0;3;672334;0;672336;0;672337;0
 280375	'Worgen Bits;1;1924;23.3;0
 280390	'Carved Stone Trinket;2;5974;0;5976;0;0
-]])
-R("items", 280395, 287959, [[
-
 280395	'Heart of Ados;1;271338;0;0
 280396	'Heart of Modr;1;271460;0;0
 280397	'Heart of Golm;1;271462;0;0

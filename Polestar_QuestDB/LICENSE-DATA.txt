@@ -62,7 +62,7 @@ License: Blizzard Entertainment game client data; factual map geometry, names, i
 
 Polestar recordings
 -------------------
-Revision: 737cdd4a253f21d6
+Revision: 6d7e0731b046937b
 License: Polestar original work
 
 CMaNGOS classic-db: creature and gameobject spawn heights
