@@ -5176,4 +5176,4 @@ L["Your report"] = "你的報告"
 
 -- Forced by tools/build.py from translations/zhTW/overrides.json (ui_override): these replace the upstream text.
 
-L["This translation was made with AI. Help improve it on Discord."] = "本漢化版基於官方 0.4.2.1 版本構建，未獲得官方背書。"
+L["This translation was made with AI. Help improve it on Discord."] = "本漢化版基於官方 0.4.2.2 版本構建，未獲得官方背書。"
