@@ -5156,7 +5156,7 @@ L["The size of the guide window's text, apart from its scale and the rest of Pol
 L["Then any of: %s"] = "然後任意一個：%s"
 L["This guide stays open in its tab and picks up by itself at that level."] = "本指南會在標籤頁中保持開啟，達到該等級後自動接上。"
 L["Tirisfal Glades"] = "提里斯法林地"
-L["Took %s now for %s, later on your route: this saves a trip back."] = "先替 %s 接了 %s，它在路線後面：這樣可以少跑一趟。"
+L["Took %s now for %s, later on your route: this saves a trip back."] = "先接下 %s，等後面走到 %s 時再交：這樣少跑一趟。"
 L["Transmogrifier"] = "幻化師"
 L["Transmogrifiers"] = "幻化師"
 L["Under water nearby: swim down to it"] = "附近水下：下潛前往"

@@ -3933,7 +3933,7 @@
 	"Too far below the next quests: the guide has you grind to the level they need. Or do what's around you first.": "離下一批任務的等級太遠：指南讓你打怪升到它們需要的等級。或者先做附近的任務。",
 	"Too many custom scales for this class. Delete one first.": "該職業的自定義權重方案過多。請先刪除一個。",
 	"Took %s (%s).": "已選擇%s（%s）。",
-	"Took %s now for %s, later on your route: this saves a trip back.": "先替 %s 接了 %s，它在路線後面：這樣可以少跑一趟。",
+	"Took %s now for %s, later on your route: this saves a trip back.": "先接下 %s，等後面走到 %s 時再交：這樣少跑一趟。",
 	"Tooltip comparison": "滑鼠提示比較",
 	"Top bug reporter": "頭號問題反饋者",
 	"Top contributor": "頭號貢獻者",
