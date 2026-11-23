@@ -1453,7 +1453,7 @@ t.guides["forever/alliance/30-40/03-ashenvale"] = (function() return {
 		["{npc:3391}: for {npc:4631}, on {area:35}'s dock where the boat lands"] = "{npc:3391}：交給{npc:4631}，在{area:35}船靠岸的碼頭",
 		["{quest:1111}: {quest:1039}, from {npc:8026} in {zone:1457}"] = "{quest:1111}：{quest:1039}，從{zone:1457}的{npc:8026}那裡接",
 		["{quest:1111}: for {npc:3945} in {area:35}, where the boat lands"] = "{quest:1111}：交給{area:35}的{npc:3945}，船靠岸的地方",
-		["Dizzywig's next errand goes back to the {area:2240}, which the route next visits at 45: leave it."] = "Dizzywig 的下一個差事要回{area:2240}，路線下次去是 45 級：放著不做。",
+		["Dizzywig's next errand goes back to the {area:2240}, which the route next visits at 45: leave it."] = "迪茲維格的下一個差事要回{area:2240}，路線下次去是 45 級：放著不做。",
 		["Boat to {area:35}"] = "搭船前往{area:35}",
 } end)()
 t.guides["forever/alliance/30-40/04-stranglethorn-vale"] = (function() return {
