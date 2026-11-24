@@ -642,7 +642,7 @@
   },
   "forever/alliance/30-40/06-badlands": {
    "South-west into the gulches: only the Greater Rock Elementals there drop the bracers.": "向西南进入峡谷：只有那里的巨型岩石元素掉护腕。",
-   "The Shadowforge dwarves camp just north of the digsite; the crumpled map and {npc:269577}'s mining helmet lie among their tents. Tunnelers and Darkweavers carry Ryedol's pick and {npc:269577}'s artifacts. Crag Coyotes roam the slopes around it. Careful: Shadowforge Ruffians (36-37, elite) walk among them, most on the slopes between the pass and the camp: pull the Tunnelers and Darkweavers away from them.": "暗炉矮人就在挖掘场北边扎营；皱巴巴的地图和{npc:269577}的矿工头盔在他们的帐篷间。隧道挖掘者和暗织者身上带着 Ryedol 的镐和{npc:269577}的器物。峭壁郊狼在周围的坡上游荡。注意：暗炉恶棍（36-37 级，精英）混在他们中间，多数在山口与营地之间的坡上：把隧道挖掘者和暗织者拉离他们。",
+   "The Shadowforge dwarves camp just north of the digsite; the crumpled map and {npc:269577}'s mining helmet lie among their tents. Tunnelers and Darkweavers carry Ryedol's pick and {npc:269577}'s artifacts. Crag Coyotes roam the slopes around it. Careful: Shadowforge Ruffians (36-37, elite) walk among them, most on the slopes between the pass and the camp: pull the Tunnelers and Darkweavers away from them.": "暗炉矮人就在挖掘场北边扎营；皱巴巴的地图和{npc:269577}的矿工头盔在他们的帐篷间。暗炉隧道工和暗炉巫师身上带着 Ryedol 的镐和{npc:269577}的器物。峭壁郊狼在周围的坡上游荡。注意：暗炉恶棍（36-37 级，精英）混在他们中间，多数在山口与营地之间的坡上：把暗炉隧道工和暗炉巫师拉离他们。",
    "{npc:2920}, beside {npc:2921}, trades for {item:2868}, a blacksmith's craft: this step shows only when you carry a pair.": "{npc:2920}在{npc:2921}旁边，用{item:2868}换东西，那是锻造制品：只有你带着一对时才会显示这一步。"
   },
   "forever/alliance/30-40/06b-desolace": {
