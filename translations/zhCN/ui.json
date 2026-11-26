@@ -54,6 +54,8 @@
  "381 yd": "381 码",
  "3D draws each creature's model. 2D shows the game's flat portrait once you have seen that one (your target, or its nameplate up), and an icon for what you do with it until then.": "“3D”绘制每个生物的实际模型。“2D”使用游戏的平面头像：见过该目标之后（把它设为目标，或让它显示姓名板）才显示头像，在此之前显示你要对它做什么的图标。",
  "A guide later on your route takes this quest here: taken now, its step is done when you get there.": "路线后面有指南会在这里接这个任务：现在先接下，走到那一步时它就算完成。",
+ "A guide to the items %d quests in your log need from where they are given, ending at the entrance.": "%d 个任务的物品指南：从物品发放处开始，到副本入口结束。",
+ "A guide to the items 1 quest in your log needs from where it is given, ending at the entrance.": "1 个任务的物品指南：从物品发放处开始，到副本入口结束。",
  "A short chime the first time a class quest chain's card shows. Off while the game's sound effects are off.": "职业任务链卡片首次出现时播放一声短铃。游戏音效关闭时不响。",
  "A small pin with its step number where each of the next steps takes you, fainter the further ahead. As many as Up next shows, else five.": "在接下来每一步的目的地标一个带步骤号的小图钉，越远越淡。数量与「接下来」显示的一致，否则为五个。",
  "A soft chime for each new suggestion (once when several come together), at the game's sound effects volume.": "每出现一条新建议播放一次轻柔提示音（同时出现多条只响一次），使用游戏的音效音量。",

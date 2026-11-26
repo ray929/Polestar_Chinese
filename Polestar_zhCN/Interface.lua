@@ -2474,6 +2474,8 @@ L["Use %s beside %s"] = "在 %2$s 旁使用 %1$s"
 L["All attunements and keys"] = "所有进入资格和钥匙"
 L["Every attunement and key, with how far you are"] = "每项进入资格和钥匙，以及你的进度"
 L["Not open on Forever yet"] = "Forever 上尚未开放"
+-- L["A guide to the items 1 quest in your log needs from where it is given, ending at the entrance."] = ""
+-- L["A guide to the items %d quests in your log need from where they are given, ending at the entrance."] = ""
 
 -- UI/RouteChoice.lua
 L["Right here"] = "就在这里"
@@ -5830,6 +5832,8 @@ L[", "] = "，"
 L["..."] = "…"
 L["1 quest off-guide"] = "1 个任务不在指南中"
 L["381 yd"] = "381 码"
+L["A guide to the items %d quests in your log need from where they are given, ending at the entrance."] = "%d 个任务的物品指南：从物品发放处开始，到副本入口结束。"
+L["A guide to the items 1 quest in your log needs from where it is given, ending at the entrance."] = "1 个任务的物品指南：从物品发放处开始，到副本入口结束。"
 L["A short chime the first time a class quest chain's card shows. Off while the game's sound effects are off."] = "职业任务链卡片首次出现时播放一声短铃。游戏音效关闭时不响。"
 L["About %d bars short of level %s by step %d"] = "到第 %d 步时，距 %s 级大约还差 %d 格"
 L["Brill"] = "布瑞尔"
@@ -5885,4 +5889,4 @@ L["Your report"] = "你的报告"
 
 -- Forced by tools/build.py from translations/zhCN/overrides.json (ui_override): these replace the upstream text.
 
-L["This translation was made with AI. Help improve it on Discord."] = "本汉化版基于官方 0.4.3 版本构建，未获得官方背书。"
+L["This translation was made with AI. Help improve it on Discord."] = "本汉化版基于官方 0.4.3.1 版本构建，未获得官方背书。"

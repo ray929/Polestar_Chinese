@@ -16,7 +16,14 @@
    "the road just south of the western pylon": "西侧水晶塔正南的路",
    "{item:255667}, from the Unstable Mana Rifts with the {item:255662}": "{item:255667}，用{item:255662}从法力裂隙取",
    "{npc:252711}, pulled to the arrow's spot, then {spell:1289727} on the pylon's west side": "{npc:252711}，拉到箭头的位置，然后在塔的西侧用{spell:1289727}",
-   "{zone:2652} is done. Ride back north through the {area:2657} and west along {area:405}'s southern edge to {area:2408} and fly to {area:1637}: the next guide picks up there, with the {zone:1444} guide's hand-ins. Keep your hearthstone (bound at {area:1099}): the next guide uses it to get from {area:1637} back to {area:1099}.": "{zone:2652}做完了。向北骑回，穿过{area:2657}，沿{area:405}南缘向西到{area:2408}，再飞往{area:1637}：下一个指南从那里接着走，做{zone:1444}指南的交任务。炉石留着（绑在{area:1099}）：下一个指南靠它从{area:1637}回{area:1099}。"
+   "{zone:2652} is done. Ride back north through the {area:2657} and west along {area:405}'s southern edge to {area:2408} and fly to {area:1637}: the next guide picks up there, with the {zone:1444} guide's hand-ins. Keep your hearthstone (bound at {area:1099}): the next guide uses it to get from {area:1637} back to {area:1099}.": "{zone:2652}做完了。向北骑回，穿过{area:2657}，沿{area:405}南缘向西到{area:2408}，再飞往{area:1637}：下一个指南从那里接着走，做{zone:1444}指南的交任务。炉石留着（绑在{area:1099}）：下一个指南靠它从{area:1637}回{area:1099}。",
+   "North up the road to the first pylon, gathering mana from the Unstable Mana Rifts on the way. Stop where the arrow points, on the road just south of the pylon, keeping to its west edge: the quiet side, with no Protectors behind you. Pull one {npc:252711} at a time down to that spot, the one nearest the pylon's south side first, and kill it there; then step up to the pylon's west side and use the Pile of Pylon Parts Mordent gave you: its {spell:1289727} takes your four Coalesced Mana Crystals.\nCareful: stay off the pylon's east and north-east side. The Protectors stand there two and three together, a Corpsefeeder (level 45, elite) walks among them and the Magram Necrokhans (elites, 45) stand just beyond: nearly every recorded death at this pylon happened east of it. If the Magram attack you (they do once you have killed Magram), wait at the arrow until any Necrokhan by the pylon walks off before you pull. Nascent Pylon Protectors (elites, 43) wander the road south of it: let them pass.\nIf you die here, walk your ghost back to the arrow before you come back to life: players who rose beside the pylon died again within seconds.": "沿路向北到第一座水晶塔，路上顺手从法力裂隙取法力。停在箭头指的位置，就在水晶塔正南的路上，靠着它的西缘：那一侧安静，身后没有守卫。一次把一只{npc:252711}拉到那个位置，先拉离塔南侧最近的那只，就地处决；然后走到塔的西侧，使用 Mordent 给你的那堆塔件：它的{spell:1289727}会消耗你四块凝聚的法力水晶。\n注意：别去塔的东侧和东北侧。守卫在那里两三个一组站着，中间还有食尸者（45 级，精英），玛格拉姆死灵可汗（45 级精英）就在更外面：这座塔附近录制到的死亡几乎都发生在东侧。如果玛格拉姆攻击你（杀过玛格拉姆就会），在箭头处等塔边的死灵可汗走开再拉。新生水晶塔守卫（43 级，精英）在塔南的路上游荡：让它们过去。\n如果在这里死了，先把灵魂走回箭头再复活：在塔边复活的玩家几秒内又死了一次。",
+   "Pull a single Protector down to the road, then use the {item:271882} on the pylon's west side.": "把单个守卫拉到路上，然后在塔的西侧使用{item:271882}。",
+   "{item:271882}: {spell:1289727} on the pylon's west side": "{item:271882}：在塔的西侧用{spell:1289727}",
+   "The western repair used up your crystals: on the way east, use the {item:255662} on the Unstable Mana Rifts again for four more Coalesced Mana Crystals. The {item:271882} needs all four for the next repair.": "修西塔把水晶用光了：往东的路上再用{item:255662}从法力裂隙取四块凝聚的法力水晶。下次修塔时{item:271882}要把四块全用上。",
+   "East along the valley road to the eastern pylon and repair it the same way with the {item:271882}, coming in from the west and pulling the nearest {npc:252711} away first: {npc:253527} (level 43, elite) and his bodyguards hold the south side of the quilboar camp, and a Corpsefeeder (level 45, elite) walks the road.": "沿谷地道路向东到东侧水晶塔，同样用{item:271882}修；从西面进去，先拉走最近的那只{npc:252711}：{npc:253527}（43 级，精英）和他的护卫守着野猪人营地南侧，路上还有食尸者（45 级，精英）走动。",
+   "{item:271882}: {spell:1289727} on the eastern pylon": "{item:271882}：在东侧水晶塔上用{spell:1289727}",
+   "Take the {item:286647} to an {npc:264149} on the road north of the temple and throw it into the rift. The {npc:276401} that comes out is an elite (level 43) but it comes alone: most players in our recordings killed it without a group, from level 41 up.": "把{item:286647}带到神殿以北路上的{npc:264149}那里，扔进裂隙。出来的{npc:276401}是精英（43 级），但只身一只：录制里的玩家大多 41 级起就单人打掉了。"
   },
   "forever/50-60/mount-hyjal": {
    "A group choice at your level: the {npc:260148} that answers {quest:92591}'s bone pile is level 59-60.": "按你的等级可选组队：响应{quest:92591}骨堆的{npc:260148}是 59-60 级。",
@@ -242,7 +249,11 @@
    "{quest:96930}: for the {npc:257753}, later in this guide": "{quest:96930}：交给{npc:257753}，本指南后面",
    "{quest:96931}: for the {area:17145}, later in this guide": "{quest:96931}：交给{area:17145}，本指南后面",
    "{quest:96964}: for {npc:259695} in {area:16866}, just ahead": "{quest:96964}：交给{area:16866}的{npc:259695}，就在前面",
-   "{quest:96991}: for {npc:264795} at the {area:16849}, later in this guide": "{quest:96991}：交给{area:16849}的{npc:264795}，本指南后面"
+   "{quest:96991}: for {npc:264795} at the {area:16849}, later in this guide": "{quest:96991}：交给{area:16849}的{npc:264795}，本指南后面",
+   "With {quest:91923} handed in, {npc:248366} offers {quest:95766}: the {npc:257753} at {area:17050} takes it later in this guide.": "交完{quest:91923}后，{npc:248366}会给{quest:95766}：本指南后面交给{area:17050}的{npc:257753}。",
+   "The way into the Deadwood camps": "枯木营地的入口",
+   "The Deadwood camps fill {area:17144}, a sunken valley whose northern end runs in under the cliffs: there is no way down into it from {area:16868}. Go round to the valley's mouth in the south-east and follow it west, then north up into the camps, as players do.": "枯木营地占满{area:17144}，那是一条下沉的谷地，北端伸进崖壁下面：从{area:16868}没有路下到谷里。绕到东南的谷口，沿谷地向西，再向北进入营地，录制里的玩家就是这么走的。",
+   "the mouth of the valley up into {area:17144}": "进{area:17144}的谷口"
   },
   "forever/alliance/02-westfall": {
    "Back north past {area:918} to the mine.\nCareful: pull the four Kobold Diggers from the mouth of {area:111}, one at a time. There is no need to go deeper.": "向北经过{area:918}回矿洞。\n注意：把{area:111}洞口的四个狗头人挖掘者一只一只拉出来。不必往里走。",
@@ -713,7 +724,8 @@
    "the {object:707245} poster": "{object:707245}",
    "{npc:259158}: {quest:94961}, in his cage": "{npc:259158}：{quest:94961}，在他笼子里",
    "{npc:260026} waits beside the road east of the pass.\nThis guide is written for levels 41-45: the route comes here at about 41, after {zone:1434}. The port's second wave and the Western Front's camps in the north are 43-45, with elite Twilight Enforcers (45) on patrol and {npc:256881} (46, elite) for groups only: below 41, do Stranglethorn first.": "{npc:260026}在山口以东的路边等着。\n本指南按 41-45 级编写：路线约 41 级、在{zone:1434}之后来这里。港口的第二波和北面的西线营地是 43-45 级，精英暮光执法者（45 级）在巡逻，{npc:256881}（46 级，精英）只适合组队：不到 41 级先做荆棘谷。",
-   "{object:621813}, west of Elbrim's farm: each grave takes one of the {item:266148} the Twilight Raiders drop, so loot five first": "{object:621813}，在埃尔布里姆农场西边：每座坟墓要一个暮光掠夺者掉落的{item:266148}，先打满五个"
+   "{object:621813}, west of Elbrim's farm: each grave takes one of the {item:266148} the Twilight Raiders drop, so loot five first": "{object:621813}，在埃尔布里姆农场西边：每座坟墓要一个暮光掠夺者掉落的{item:266148}，先打满五个",
+   "{npc:259158} in his cage": "笼子里的{npc:259158}"
   },
   "forever/alliance/40-50/02-badlands": {
    "Back through the pass: the Stonevault troggs dig outside {area:1517} at the {zone:1418}' northern edge. The carved urns and the magenta mushroom clusters sit in their caves and tunnels, outside the dungeon itself.": "穿过山口回去：石窟穴居人在{zone:1418}北缘、{area:1517}外面挖洞。雕花瓮和紫红色蘑菇丛就在他们的洞穴和隧道里，在副本外面。",
@@ -835,7 +847,8 @@
    "{npc:239822}: {quest:88809}, the relics drop from the naga of the {area:1221} ahead": "{npc:239822}：{quest:88809}，遗物从前面{area:1221}的纳迦身上掉",
    "{npc:239822}: {quest:92345}, for {npc:4217} in {zone:1457}, on the {zone:1448} guide: keep it": "{npc:239822}：{quest:92345}，交给{zone:1457}的{npc:4217}，在{zone:1448}指南：先留着",
    "{npc:266524}: {npc:266508} is in the {area:1440} caverns, on this loop": "{npc:266524}：{npc:266508}在{area:1440}的洞窟里，在这一圈",
-   "{npc:7312}, the mage trainer: for {npc:8395} in {zone:1447}, at the end of this guide: keep it": "法师训练师{npc:7312}：交给{zone:1447}的{npc:8395}，本指南末尾：先留着"
+   "{npc:7312}, the mage trainer: for {npc:8395} in {zone:1447}, at the end of this guide: keep it": "法师训练师{npc:7312}：交给{zone:1447}的{npc:8395}，本指南末尾：先留着",
+   "Back north to {npc:8395}'s camp at the foot of the cliff and get off your mount: he teleports you up to Xylem again.": "向北回到崖底{npc:8395}的营地并下坐骑：他会再把你传送到克希雷姆那里。"
   },
   "forever/alliance/50-60/02-felwood": {
    "Back to {npc:7775}'s camp, just south-east of {npc:7765}: the {item:11242} buys three Videre Elixirs. Keep them: {npc:9298} takes one at the start of the next guide, and Gaeriyan in {area:976} shows himself only to someone who has drunk one.": "回到{npc:7775}的营地，就在{npc:7765}东南：一个{item:11242}能换三瓶视灵药剂。都留着：下一个指南开头{npc:9298}要一瓶，而{area:976}的 Gaeriyan 只对喝过的人现身。",
@@ -874,7 +887,8 @@
    "{npc:7916}: the wildkin feathers lie along {zone:1452}'s road, on the next guide; {npc:7916} takes them on the Plaguelands guide's way through: keep it": "{npc:7916}：枭兽羽毛散落在{zone:1452}的路旁，在下一个指南；{npc:7916}会在瘟疫之地指南路过时收：先留着",
    "{npc:7916}: {quest:3661}, the feathers from the {zone:1425}": "{npc:7916}：{quest:3661}，羽毛从{zone:1425}拿来",
    "{npc:9047} waits in the {area:1658}, west of the druids' building.": "{npc:9047}在{area:1658}等着，德鲁伊建筑以西。",
-   "{npc:9047}, in the {area:1658}: {quest:3764}": "{npc:9047}，在{area:1658}：{quest:3764}"
+   "{npc:9047}, in the {area:1658}: {quest:3764}": "{npc:9047}，在{area:1658}：{quest:3764}",
+   "The {item:11242} grows inside a ruined building north of {npc:7765}: climb in through the break in its wall from the ledge beside it.\nOr the front door: {npc:9467} guards it, and the Bait Gregan sells draws him off when you use it beside him. Half the players in our recordings went in that way, half through the wall.": "{item:11242}长在{npc:7765}北面一栋废墟里：从旁边的台子爬进墙上的缺口。\n也可以走正门：{npc:9467}守着门，在他身边使用 Gregan 卖的诱饵能把他引开。录制里的玩家一半走正门，一半从墙洞进去。"
   },
   "forever/alliance/50-60/03-winterspring": {
    "Any Winterfall furbolg can drop the totem, about one kill in thirty: if the top-up did not bring one, keep killing them here until it drops, then right-click it.": "任何冬泉熊怪都可能掉图腾，大约三十只里有一个：如果补齐等级时没出，就在这里继续杀到掉为止，然后右键点它。",
@@ -1044,7 +1058,8 @@
    "{quest:5845}'s symbol lies in the lake south of the {area:2277}: your group fetches it before the ride back to {area:3197}.": "{quest:5845}的信物在{area:2277}以南的湖里：骑回{area:3197}之前，队伍先去取。",
    "{quest:6184} at {area:3197}, on the flight back": "{quest:6184}在{area:3197}，回程时顺路",
    "{quest:6762} in {zone:1450}: {zone:2482}'s {zone:1450} errand takes you to her, in the next guide; keep it": "{zone:1450}的{quest:6762}：{zone:2482}在{zone:1450}的差事会带你去找她，在下一个指南；先留着",
-   "{zone:1455} flight master": "{zone:1455}飞行管理员"
+   "{zone:1455} flight master": "{zone:1455}飞行管理员",
+   "{npc:12384} lives in the ruined hut in {area:2627}, and his receipt book lies in the ruined inn nearby. {npc:11140} stands by {npc:12384}' hut.\nCareful: a {npc:16184} (60, elite) walks {area:2627} and the {area:2626} south-west of it. Look for him before you ride in, and wait for him to pass.": "{npc:12384}住在{area:2627}的破屋里，他的收据本在附近的破旅店里。{npc:11140}站在{npc:12384}的小屋旁。\n注意：一只{npc:16184}（60 级，精英）在{area:2627}和它西南的{area:2626}一带走动。骑进去之前先找他，等他走过去。"
   },
   "forever/alliance/50-60/06-silithus": {
    "Back from {zone:2482} in {area:2255}: {npc:11118}'s mail went astray in the hills east of town, where the Ice Thistle yetis carry it off.": "从{zone:2482}回到{area:2255}：{npc:11118}的信在镇东的山丘里丢了，被冰蓟雪人叼走了。",
@@ -1117,7 +1132,8 @@
    "She stands outside the mine entrance. Her next errand, {quest:91752}, sends you after {npc:248362} inside, a level 3 elite: the guide gives it from level 5, when he is two levels under you.": "她站在矿洞入口外。她的下一个差事{quest:91752}要你进洞找{npc:248362}，一个 3 级精英：本指南从 5 级起才给，那时他比你低两级。",
    "{npc:247226}, outside the mine": "{npc:247226}，矿洞外",
    "{npc:279} in {zone:1453} takes it (the {zone:1436} guide)": "{zone:1453}的{npc:279}收（{zone:1436}指南）",
-   "{npc:514}, at the smithy beside Dughan: {npc:1416} in {zone:1453} takes it (the {zone:1436} guide)": "{npc:514}，Dughan 旁的铁匠铺：{zone:1453}的{npc:1416}收（{zone:1436}指南）"
+   "{npc:514}, at the smithy beside Dughan: {npc:1416} in {zone:1453} takes it (the {zone:1436} guide)": "{npc:514}，Dughan 旁的铁匠铺：{zone:1453}的{npc:1416}收（{zone:1436}指南）",
+   "Follow the road south out of the valley to {area:87}. {npc:240} stands outside the smithy on the west side of the road, {npc:241} by the road south of it, and {npc:295} and {npc:253} in the Lion's Pride Inn across the road.\nPriests: {quest:5624} counts only {spell:613} (Rank 2). {npc:377} trains priests too: learn it from her now if you have not yet.": "沿道路向南离开山谷到{area:87}。{npc:240}站在路西侧铁匠铺外，{npc:241}在铁匠铺南边的路旁，{npc:295}和{npc:253}在路对面的狮王之傲旅店里。\n牧师：{quest:5624}只认{spell:613}（2 级）。{npc:377}也教牧师：还没学的话现在就从她那里学。"
   },
   "forever/alliance/nightelf/01-teldrassil": {
    "Back to {area:442}": "回{area:442}",
@@ -1132,7 +1148,8 @@
    "{area:262}'s entrance": "{area:262}的入口",
    "{npc:3595}'s quest, {quest:97979}, asks for your two night elf racial spells: open your spellbook (P), cast {spell:1259799} and Shadowmeld once each, then hand it back to her.": "{npc:3595}的任务{quest:97979}要你用过两个暗夜精灵种族技能：打开法术书（P），把{spell:1259799}和影遁各用一次，再回去交给她。",
    "{npc:3666}, upstairs in the inn: take the stairs inside, the arrow cannot tell the floors apart": "{npc:3666}，在旅店楼上：从里面走楼梯，箭头分不清楼层",
-   "{quest:983}: Thresher Eyes, on the {zone:1439} guide's first beach stop": "{quest:983}：长尾鲨之眼，在{zone:1439}指南第一个海滩停留点"
+   "{quest:983}: Thresher Eyes, on the {zone:1439} guide's first beach stop": "{quest:983}：长尾鲨之眼，在{zone:1439}指南第一个海滩停留点",
+   "Priests: {quest:5621} counts only {spell:613} (Rank 2). {npc:3600} trains priests too: learn it from her now if you have not yet.": "牧师：{quest:5621}只认{spell:613}（2 级）。{npc:3600}也教牧师：还没学的话现在就从她那里学。"
   },
   "forever/alliance/nightelf/02-darkshore": {
    "Blackwood Pathfinders and Windtalkers hold the camp south-east of {area:442}; Rabid Thistle Bears roam the hills around it.\nCareful: the Windtalkers (13-14) cast from range and the furbolgs stand in pairs: pull them one at a time.": "黑木探路者和风语者占着{area:442}东南的营地；狂乱的蓟熊在周围山丘上游荡。\n注意：风语者（13-14 级）远程施法，熊怪是成对站着的：一只一只拉。",
@@ -1609,7 +1626,8 @@
    "{npc:258048}, in the cave": "{npc:258048}，在洞里",
    "{npc:258626} is a level 43 elite, at or above your level here: a hard one-on-one fight in the ring, where nobody can help you. Take it only rested, with full health and mana; {npc:257058}'s and {npc:263440}'s errands and the last two bouts come after him.": "{npc:258626}是 43 级精英，与你此时等级相当或更高：在擂台上单挑，没人能帮你。只在充分休息、满血满蓝时打；{npc:257058}和{npc:263440}的差事以及最后两场都在他之后。",
    "{npc:263190}'s spears, on the Freshwater Crocolisks in the river": "{npc:263190}的长矛，在河里的淡水鳄身上",
-   "{quest:94961}, {npc:259158} in his cage": "{quest:94961}，{npc:259158}在他笼子里"
+   "{quest:94961}, {npc:259158} in his cage": "{quest:94961}，{npc:259158}在他笼子里",
+   "{npc:259158} in his cage": "笼子里的{npc:259158}"
   },
   "forever/horde/40-50/02-feralas": {
    "Bloodsail tents and rowboat": "血帆帐篷与小划艇",
@@ -1731,7 +1749,9 @@
    "{npc:8115}, if you don't carry it yet: the materials come on this loop": "{npc:8115}，如果你还没带着：材料在这一圈能凑齐",
    "{npc:8659}, in the {object:172960}, has {quest:4300} for later; then your class trainer before you leave for {zone:1447}.": "{object:172960}里的{npc:8659}有个{quest:4300}留到后面；然后去你的职业训练师，再去{zone:1447}。",
    "{quest:3062}: {npc:8075} (level 50, elite) roosts above the Northspring harpies this loop ends at. Grouping up is advised: skip it if you are alone.": "{quest:3062}：{npc:8075}（50 级，精英）栖息在这一圈终点的北泉鹰身人上方。建议组队：单人就跳过。",
-   "{quest:4494} needs level 50: {npc:7010}, in the Drag, gives it from then on. Under 50, it waits: if you reach 50 in {zone:1447}, this guide brings you back for it from {area:1237}; else the {zone:1447} guide at 55 offers it again.": "{quest:4494}需要 50 级：荣誉谷的{npc:7010}从那时起才给。不到 50 级就先等着：如果你在{zone:1447}升到 50，本指南会从{area:1237}带你回来接；否则 55 级时的{zone:1447}指南还会再给。"
+   "{quest:4494} needs level 50: {npc:7010}, in the Drag, gives it from then on. Under 50, it waits: if you reach 50 in {zone:1447}, this guide brings you back for it from {area:1237}; else the {zone:1447} guide at 55 offers it again.": "{quest:4494}需要 50 级：荣誉谷的{npc:7010}从那时起才给。不到 50 级就先等着：如果你在{zone:1447}升到 50，本指南会从{area:1237}带你回来接；否则 55 级时的{zone:1447}指南还会再给。",
+   "{npc:8659}, at the top of a tower in the Drag, has {quest:4300} for later; then your class trainer before you leave for {zone:1447}.": "暗巷区一座塔顶的{npc:8659}有个{quest:4300}留到后面；然后去你的职业训练师，再去{zone:1447}。",
+   "{npc:8659}, at the top of a tower in the Drag": "在暗巷区一座塔顶的{npc:8659}"
   },
   "forever/horde/50-60/01-un-goro-crater": {
    "Back north to {npc:8509} beside {npc:8479}.": "向北回{npc:8479}旁边的{npc:8509}那里。",
@@ -1759,7 +1779,8 @@
    "{npc:9459}' next errand is in {area:1584}: leave it.": "{npc:9459}的下一个差事在{area:1584}：放着不做。",
    "{npc:9706}, by the dock: for {quest:4324} at {area:251}, later in this guide": "{npc:9706}，在码头旁：用于{area:251}的{quest:4324}，本指南后段",
    "{npc:9997}, beside the flight master": "{npc:9997}，在飞行管理员旁",
-   "{npc:9997}, beside the flight master: {npc:9999} is found at the end of this loop": "{npc:9997}，在飞行管理员旁：{npc:9999}在这一圈的尽头找到"
+   "{npc:9997}, beside the flight master: {npc:9999} is found at the end of this loop": "{npc:9997}，在飞行管理员旁：{npc:9999}在这一圈的尽头找到",
+   "{npc:8390}, the Apothecarium: a {item:10695} comes with the quest. Keep four bag slots free and open it for Empty Vials Labeled #1 to #4, filled in {zone:1447} later": "{npc:8390}，在炼金房：接任务时会给你一个{item:10695}。留出四个背包格，打开它得到标着 1 到 4 号的空瓶，之后在{zone:1447}装满"
   },
   "forever/horde/50-60/02-felwood": {
    "#2, north along the shore": "第 2 个，沿海岸向北",
@@ -1793,7 +1814,11 @@
    "{npc:8659}: his payment goes back to {npc:8587}, on the flight out": "{npc:8659}：他的报酬要回给{npc:8587}，飞走时交",
    "{quest:8470}, a rare drop from the Deadwood furbolgs": "{quest:8470}，枯木熊怪的稀有掉落",
    "{zone:1447} is a short flight from {zone:1454}: its quests are 51-55, at your level now.": "{zone:1447}离{zone:1454}一小段飞行：那里的任务是 51-55 级，正合你现在的等级。",
-   "{zone:1448} is next: fly by way of {area:1237}, where {npc:8587} takes {npc:8659}'s payment, then on to {area:431}.": "下一步是{zone:1448}：经{area:1237}飞，{npc:8587}在那里收{npc:8659}的报酬，然后飞到{area:431}。"
+   "{zone:1448} is next: fly by way of {area:1237}, where {npc:8587} takes {npc:8659}'s payment, then on to {area:431}.": "下一步是{zone:1448}：经{area:1237}飞，{npc:8587}在那里收{npc:8659}的报酬，然后飞到{area:431}。",
+   "{npc:8659}, at the top of a tower in the Drag": "在暗巷区一座塔顶的{npc:8659}",
+   "{npc:8659} takes the ravasaur claws from Un'Goro; he stands at the top of a tower in the Drag.": "{npc:8659}收安戈洛的魔暴龙爪；他站在暗巷区一座塔顶。",
+   "Open Cuely's {item:10695} in your bags for the four labelled vials. The tide pools cannot be clicked: stand in each pool and use its own vial from your bags, from {area:1231} north up the coast; Spitelash naga patrol between them. No vials? Abandon the quest and take it again from {npc:8390} in the {zone:1458}.": "在背包里打开库利给的{item:10695}，得到四个标号空瓶。潮池不能点击：站进每个池子，用背包里对应的那只瓶子，从{area:1231}沿海岸向北；怒鳞纳迦在池子之间巡逻。没有瓶子？放弃任务，再到{zone:1458}的{npc:8390}那里重接。",
+   "{npc:4485} is in the {object:172958}, {npc:3326} in the {object:172960} and {npc:8659} at the top of a tower in the Drag.": "{npc:4485}在{object:172958}里，{npc:3326}在{object:172960}里，{npc:8659}在暗巷区一座塔顶。"
   },
   "forever/horde/50-60/03-winterspring": {
    "Delivery to {npc:4046}, from Jediga in {zone:1447}": "交给{npc:4046}的送件，来自{zone:1447}的 Jediga",
@@ -1818,12 +1843,14 @@
    "{npc:4046}'s payment goes back to Jediga in {zone:1447}, which the route doesn't pass again: leave it.": "{npc:4046}的报酬要带回{zone:1447}给 Jediga，路线不会再经过：放着不做。",
    "{quest:3909} comes from {npc:7775} in {zone:1444}, later in this guide. {npc:9298}'s next errand, Strange Sources, is at the mouth of {area:2256} among level 59-60 elites: it waits for the last guide's {zone:1452} loop.": "{quest:3909}来自{zone:1444}的{npc:7775}，本指南后面。{npc:9298}的下一个差事「奇怪的源头」在{area:2256}入口，周围是 59-60 级精英：留到最后一个指南回{zone:1452}那一圈。",
    "{quest:980}, from Krakle in Un'Goro": "{quest:980}，从安戈洛的 Krakle 那里接",
-   "{zone:1448}'s southern hand-ins are next: ride back east to {area:2255}'s flight master, fly to {area:431} (by way of {area:1237}) and ride north into {zone:1448}, so the forest is ridden once, south to north.": "接下来是{zone:1448}南部的交任务：向东骑回{area:2255}的飞行管理员，飞往{area:431}（经{area:1237}），再向北骑进{zone:1448}，这样整片森林从南到北只走一趟。"
+   "{zone:1448}'s southern hand-ins are next: ride back east to {area:2255}'s flight master, fly to {area:431} (by way of {area:1237}) and ride north into {zone:1448}, so the forest is ridden once, south to north.": "接下来是{zone:1448}南部的交任务：向东骑回{area:2255}的飞行管理员，飞往{area:431}（经{area:1237}），再向北骑进{zone:1448}，这样整片森林从南到北只走一趟。",
+   "The {item:11242} grows inside a ruined building north of {npc:7775}'s camp, east of the harpies' {area:1114}: climb in through the broken part of its wall.\nOr the front door: {npc:9467} guards it, and the Bait Gregan sells draws him off when you use it beside him. Half the players in our recordings went in that way, half through the wall.": "{item:11242}长在{npc:7775}营地北面、鹰身人的{area:1114}以东的一栋废墟里：从墙的破损处爬进去。\n也可以走正门：{npc:9467}守着门，在他身边使用 Gregan 卖的诱饵能把他引开。录制里的玩家一半走正门，一半从墙洞进去。"
   },
   "forever/horde/50-60/04-azshara": {
    "Only if {quest:4494} isn't done yet: {npc:7010} works in the Drag. Pestlezugg takes it in {area:976} on the {zone:1451} guide's first stop, after {zone:2482}.": "只有当{quest:4494}还没做时：{npc:7010}在荣誉谷干活。Pestlezugg 在{area:976}、{zone:1451}指南的第一站收，在{zone:2482}之后。",
    "Ride east out of the {zone:1458} along the road; the {area:152} guards the way into the {zone:1422}.": "从{zone:1458}沿路向东骑；{area:152}守着进入{zone:1422}的路。",
-   "{npc:4485}, {object:172958}: carried from the first {zone:1447} visit, else take it here for {npc:8576} in {area:1237}": "{npc:4485}，{object:172958}：第一次去{zone:1447}时就带着它，否则在这里为{area:1237}的{npc:8576}接"
+   "{npc:4485}, {object:172958}: carried from the first {zone:1447} visit, else take it here for {npc:8576} in {area:1237}": "{npc:4485}，{object:172958}：第一次去{zone:1447}时就带着它，否则在这里为{area:1237}的{npc:8576}接",
+   "{npc:8659}, at the top of a tower in the Drag": "在暗巷区一座塔顶的{npc:8659}"
   },
   "forever/horde/50-60/05-eastern-plaguelands": {
    "Back north-east to the {area:192}: knights and magi work the camp, the medics and hunters camp south of it. Set {npc:11615}'s termite barrel down in the middle of the lumber mill while you are there.\nCareful: a {npc:10996}, a level 58-59 elite, can stand at the lumber camp, as at many other spots of the {zone:1422}: give it room.": "往东北回{area:192}：骑士和法师在营地里干活，医师和猎人在它南边扎营。到了之后把{npc:11615}的白蚁桶放在伐木场中央。\n注意：{npc:10996}是 58-59 级精英，可能站在伐木营地，就像{zone:1422}的许多其他地方一样：给它让路。",
@@ -1886,7 +1913,8 @@
    "{npc:9861}, {npc:9860} and {npc:9517} (57) wait at the back of {area:1770}, the cave in {area:1763}'s north. Clear the tunnel as you go.\nCareful: The three bosses fight as a group. Kill the nearby mobs first so you don't pull extra enemies.": "{npc:9861}、{npc:9860}和{npc:9517}（57 级）在{area:1770}深处等着，那是{area:1763}北面的洞穴。一路清进去。\n注意：三个首领是一起打的。先清掉附近的怪，免得拉到多余的敌人。",
    "{quest:1123} is in {zone:1450}, later in this guide.": "{quest:1123}在{zone:1450}，本指南后面。",
    "{quest:3941} goes to {npc:9117} in the cave here, on the next guide's return to {area:541}: keep it.": "{quest:3941}要交给这里洞穴里的{npc:9117}，下一篇指南回到{area:541}时：留着它。",
-   "{quest:5086} are in {zone:1448}, on a later trip: keep it.": "{quest:5086}在{zone:1448}，以后再去：留着它。"
+   "{quest:5086} are in {zone:1448}, on a later trip: keep it.": "{quest:5086}在{zone:1448}，以后再去：留着它。",
+   "{npc:11140} the ghost stands by a hut in {area:2627}, in the north-west corner; {npc:12384} sits inside the hut.\nCareful: Terrordale Spirits (59-60) drift through the north-west corner just north of {npc:11140}'s hut, and Crypt Horrors (57-58) and Crypt Walkers (55-56) stand around it; some of them root you. Walk in slowly and pull one at a time.\nCareful: a {npc:16184} (60, elite) walks {area:2627} and the {area:2626} south-west of it. Look for him before you ride in, and wait for him to pass.": "幽灵{npc:11140}站在{area:2627}西北角的一间小屋旁；{npc:12384}坐在屋里。\n注意：恐惧谷幽灵（59-60 级）在{npc:11140}小屋正北的西北角一带游荡，Crypt Horrors（57-58 级）和 Crypt Walkers（55-56 级）围在屋子周围；它们有些会定身。慢慢走进去，一次拉一只。\n注意：一只{npc:16184}（60 级，精英）在{area:2627}和它西南的{area:2626}一带走动。骑进去之前先找他，等他走过去。"
   },
   "forever/horde/50-60/06-silithus": {
    "Back east past the {area:202} to {area:201}, the farm under the eastern hills: {npc:11078} guards its cauldron. Kill him for the key, then use the cauldron.": "向东经过{area:202}回到{area:201}，那是东边丘陵下的农场：{npc:11078}守着它的大锅。杀他拿钥匙，然后使用大锅。",
@@ -2036,7 +2064,8 @@
    "{npc:3336}: {npc:3337} is on the way to {npc:5907}": "{npc:3336}：{npc:3337}在去{npc:5907}的路上",
    "{npc:3336}: {npc:3337} stands at {area:379}, on the {zone:1413} guide's road": "{npc:3336}：{npc:3337}在{area:379}，就在{zone:1413}指南要走的那条路上",
    "{zone:1454}'s main gate is just west of {area:817}. {npc:268701} stands by the bank in the {object:172982}; {object:173016} is a few steps north.": "{zone:1454}的正门就在{area:817}以西。{npc:268701}站在{object:172982}里的银行旁；{object:173016}在北边几步远。",
-   "{zone:1454}'s {object:172982}": "{zone:1454}的{object:172982}"
+   "{zone:1454}'s {object:172982}": "{zone:1454}的{object:172982}",
+   "Priests: {quest:5648} counts only {spell:613} (Rank 2). {npc:3706} trains priests too: learn it from her now if you have not yet.": "牧师：{quest:5648}只认{spell:613}（2 级）。{npc:3706}也教牧师：还没学的话现在就从她那里学。"
   },
   "forever/horde/undead/01-tirisfal-glades": {
    "Back up from the cellar: {npc:2128} (mages), {npc:2129} (priests), {npc:2127} (warlocks) and {npc:2130} (rogues) are upstairs, {npc:2131} (warriors) on the ground floor; take the stairs inside, the arrow cannot tell the floors apart.": "从地窖上来：{npc:2128}（法师）、{npc:2129}（牧师）、{npc:2127}（术士）和{npc:2130}（盗贼）在楼上，{npc:2131}（战士）在一楼；走室内的楼梯，箭头分不清楼层。",
@@ -2251,6 +2280,24 @@
    "Forever pays these old quests in full at any level. {area:159} and the fields around it: about 1,100 {faction:68} reputation in 45 minutes. {npc:1515}, {npc:1499}, {npc:1518}, {npc:1496} and {npc:1500} are in the town.": "Forever 里这些旧任务任何等级都足额给分。{area:159}和周围的田地：45分钟约1,100点{faction:68}声望。{npc:1515}、{npc:1499}、{npc:1518}、{npc:1496}和{npc:1500}在镇上。",
    "Six quests across the {zone:1425}, {area:272}, {area:367}, {area:978} and the {faction:68}: 600 {faction:68} and 225 Darkspear reputation. {quest:2937} and {quest:2938} are level 55 and pay 400 in full at 60; the four before them are level 43 to 45 and pay in full too. Allow about 90 minutes with the travel. The {quest:2933} stand on the tables of the Witherbark village in the west of the {zone:1425}: click one to start.": "{zone:1425}、{area:272}、{area:367}、{area:978}和{faction:68}一带的六个任务：600点{faction:68}和225点暗矛巨魔声望。{quest:2937}和{quest:2938}是55级，60级足额给400；在它们之前的四个是43到45级，也足额给。加上跑路大概留90分钟。{quest:2933}放在{zone:1425}西部枯木村落的桌上：点一个就能开始。",
    "{area:152} is the Forsaken camp on the road from Tirisfal into the {zone:1422}. {npc:10837}'s chain sends you against the Scourge cauldrons of the {zone:1422}: about 820 {faction:68} reputation. Take a {item:12814} from the box beside him; burn the command tent of the Scarlet camp between {area:200} and {area:199} and plant the {item:12807} beside it.": "{area:152}是从提瑞斯法通往{zone:1422}路上的被遗忘者营地。{npc:10837}的任务链派你去对付{zone:1422}的天灾大锅：约820点{faction:68}声望。从他旁边的箱子里拿一个{item:12814}；烧掉{area:200}和{area:199}之间血色营地指挥帐篷，并在旁边埋下{item:12807}。"
+  },
+  "forever/legacy/legacy-challenges": {
+   "The {npc:16042} questline is a point. It is the level 60 dungeon-set chain, from An Earnest Proposition to your class's {quest:9001}: {npc:16013} ({zone:1455}) or {npc:16012} ({zone:1454}) send you through In Search of Anthion and Anthion's Parting Words to {npc:16033} at {area:254}, whose Three Kings of Flame, the Left and Right Pieces of Lord Valthalak's Amulet, Final Preparations and {quest:8995} end with {quest:8996}. {quest:8997} then leads to {quest:9001}.": "{npc:16042}的任务链算一分。这是60级副本套装任务链，从“诚挚的提议”一直到本职业的{quest:9001}：{npc:16013}（{zone:1455}）或{npc:16012}（{zone:1454}）会通过“寻找安东尼”和“安东尼的临别赠言”把你派去找{area:254}的{npc:16033}；从他那里接的“火焰三王”、瓦萨拉克领主护符的左块与右块、“最后的准备”和{quest:8995}，最终以{quest:8996}结束。{quest:8997}随后引出{quest:9001}。",
+   "Adventure: {quest:9001} (Alliance)": "冒险：{quest:9001}（联盟）",
+   "Adventure: {quest:9008} (Horde)": "冒险：{quest:9008}（部落）",
+   "{npc:16013} then offers your class's {quest:9001}, the last quest of the challenge: it takes your class's dungeon-set helm and chest and upgrades them.": "{npc:16013}随后会发布本职业的{quest:9001}，即挑战的最后一个任务：它会拿走你职业的副本套装头盔和胸甲，并将其升级。",
+   "{npc:16012} then offers your class's {quest:9008}, the last quest of the challenge: it takes your class's dungeon-set helm and chest and upgrades them.": "{npc:16012}随后会发布本职业的{quest:9008}，即挑战的最后一个任务：它会拿走你职业的副本套装头盔和胸甲，并将其升级。"
+  },
+  "forever/professions/tailoring": {
+   "Buy the whole bracket's share in one go: 44 {item:2321} (44s), 108 {item:4291} (5g 40s), 44 {item:6260} (22s) and 74 {item:8343} (14g 80s); about 20g 86s in all. The arrow picks the nearest seller of your faction ({zone:1453}: {npc:1347}, {npc:1286} and {npc:5565}; {zone:1454}: {npc:3364}, Felika and {npc:5817}).": "一次买齐这一段所需的全部：44 个{item:2321}（44 银）、108 个{item:4291}（5 金 40 银）、44 个{item:6260}（22 银）和 74 个{item:8343}（14 金 80 银）；总共约 20 金 86 银。箭头会指向本阵营最近的卖家（{zone:1453}：{npc:1347}、{npc:1286}和{npc:5565}；{zone:1454}：{npc:3364}、Felika 和{npc:5817}）。",
+   "What 150-225 takes that the Auction House sells: 264 {item:4306} and 915 {item:4338}. The counts drop by what your bags, bank and mail hold.": "150-225 要从拍卖行买的部分：264 个{item:4306}和 915 个{item:4338}。背包、银行和邮件里已有的数量会从中扣除。",
+   "915 {item:4338} for {item:9998} and {item:10024}: humanoids of level 35-50 drop it. Keep what you loot as you level, or take it from your bank.": "915 个{item:4338}，用于{item:9998}和{item:10024}：35-50 级的人形生物掉落。升级路上捡到的留着，或者从银行里取。",
+   "Expert raises the cap from 150 to 225; it needs {skill:197} 125 and character level 20, so you can take it on any visit from 125. Only a few trainers teach it: Alliance {npc:1346} ({zone:1453}); Horde {npc:4576} ({zone:1458}). The arrow picks the nearest of your faction. Learn now: {spell:3865} (from 140). 150-225 takes about 15s of recipes and 20g 86s of vendor goods, plus 264 {item:4306} and 915 {item:4338} to gather or buy. Come with all of it in your bags (the steps above, the rest from the Auction House): these trainers also teach {item:9998} (from 170), and the crafts need no station, so craft right here and learn each recipe as you reach its skill. One trip instead of 2. {item:10024} (from 200) takes a second trip, to other trainers (below).": "高级把上限从 150 提高到 225；它需要{skill:197} 125 和角色 20 级，所以从 125 起任何一次造访都能学。只有少数训练师教：联盟{npc:1346}（{zone:1453}）；部落{npc:4576}（{zone:1458}）。箭头会指向本阵营最近的一位。现在学：{spell:3865}（140 起）。150-225 大约花 15 银的配方钱和 20 金 86 银的商人货物，外加 264 个{item:4306}和 915 个{item:4338}，需自行采集或购买。把这些全带在包里来（上面的步骤备齐，其余从拍卖行买）：这些训练师还教{item:9998}（170 起），且制作无需工作台，所以就地制作，技能一到就学下一个配方。一趟顶两趟。{item:10024}（200 起）要再跑一趟，换别的训练师（见下）。",
+   "{item:9998} to 200": "{item:9998} 到 200",
+   "{item:9998} is orange at 170 (yellow 185, green 200, grey 215): about 36 crafts to 200. Each takes 2 {spell:3865} and 3 {item:4291}. Make the 72 {spell:3865} first. The trainer teaches it, and it is the cheapest way through these points in the data.": "{item:9998} 在 170 时为橙色（185 黄、200 绿、215 灰）：到 200 约需制作 36 次。每次需要 2 个{spell:3865}和 3 个{item:4291}。先做 72 次{spell:3865}。训练师教这个配方，数据里这是走过这一段最便宜的办法。",
+   "{skill:197} recipes at 200": "{skill:197} 200 时的配方",
+   "{spell:12072} (from 200) is taught only by the Artisan trainers: Alliance {npc:11052} ({zone:1445}); Horde {npc:2399} ({zone:1424}). You can train Artisan there now if you are level 35 (it needs {skill:197} 200), which saves the trip at 225.": "{spell:12072}（200 起）只有大师级训练师教：联盟{npc:11052}（{zone:1445}）；部落{npc:2399}（{zone:1424}）。角色 35 级（它要{skill:197} 200）就能在那里把大师级学掉，省下 225 时再跑一趟。",
+   "{item:10024} is orange at 200 (yellow 205, green 220, grey 235): about 37 crafts to 225. Each takes 3 {spell:3865} and 2 {item:8343}. Make the 111 {spell:3865} first. The trainer teaches it, and it is the cheapest way through these points in the data. {skill:197} 225 is a Legacy System milestone.": "{item:10024} 在 200 时为橙色（205 黄、220 绿、235 灰）：到 225 约需制作 37 次。每次需要 3 个{spell:3865}和 2 个{item:8343}。先做 111 次{spell:3865}。训练师教这个配方，数据里这是走过这一段最便宜的办法。{skill:197} 225 是传承系统的一个里程碑。"
   }
  },
  "names": {},

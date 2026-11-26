@@ -71,7 +71,7 @@ C.Register("meta", {
 		npc = 10692,
 		object = 1430,
 		pet = 97,
-		quest = 6214,
+		quest = 6193,
 		rare = 398,
 		recipe = 2766,
 		tabard = 41,
@@ -263,11 +263,11 @@ C.Register("meta", {
 			internalOnly = {
 				confirmed = 0,
 				notInForever = 0,
-				unverified = 123,
+				unverified = 161,
 			},
-			match = 806,
-			oursOnly = 243,
-			share = 0.868,
+			match = 768,
+			oursOnly = 233,
+			share = 0.827,
 			total = 929,
 		},
 		mounts = {
@@ -296,9 +296,9 @@ C.Register("meta", {
 				notInForever = 0,
 				unverified = 0,
 			},
-			match = 443,
-			share = 0.66,
-			total = 671,
+			match = 405,
+			share = 0.64,
+			total = 633,
 		},
 		["quest chains"] = {
 			internalOnly = {
@@ -307,8 +307,8 @@ C.Register("meta", {
 				unverified = 2,
 			},
 			match = 222,
-			share = 0.497,
-			total = 447,
+			share = 0.543,
+			total = 409,
 		},
 		["quest enders"] = {
 			internalOnly = {
@@ -316,9 +316,9 @@ C.Register("meta", {
 				notInForever = 0,
 				unverified = 8,
 			},
-			match = 601,
-			share = 0.987,
-			total = 609,
+			match = 563,
+			share = 0.986,
+			total = 571,
 		},
 		["quest givers"] = {
 			internalOnly = {
@@ -326,9 +326,9 @@ C.Register("meta", {
 				notInForever = 0,
 				unverified = 13,
 			},
-			match = 560,
-			share = 0.977,
-			total = 573,
+			match = 522,
+			share = 0.976,
+			total = 535,
 		},
 		["quest rewards"] = {
 			internalOnly = {
@@ -336,9 +336,9 @@ C.Register("meta", {
 				notInForever = 0,
 				unverified = 3,
 			},
-			match = 507,
-			share = 0.957,
-			total = 530,
+			match = 469,
+			share = 0.953,
+			total = 492,
 		},
 		["rare levels"] = {
 			internalOnly = {
